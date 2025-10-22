@@ -38,7 +38,7 @@ These applications reveal fundamental limitations between current AI agents and 
 * [2025-10] 🔥 We released Marco-DeepWideSearch-Agent. This initial release includes two challenging benchmarks for cutting-edge agent systems——DeepWideSearch and HSCodeComp benchmarks.
 
 <div align="center">
-  <img src="assets/roadmap.png" alt="Roadmap" width="500">
+  <img src="assets/roadmap.png" alt="Roadmap" width="600">
 </div>
 
 ---
