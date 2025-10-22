@@ -3,7 +3,7 @@
 </div>
 
 
-# Marco-DeepWideSearch-Agent
+# Marco Search Agent
 
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)]()
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
