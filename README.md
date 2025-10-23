@@ -56,7 +56,7 @@ These applications reveal fundamental limitations between current AI agents and 
 - **Human Performance**: **95.0%** (10-digit accuracy)
 - **Best AI (SmolAgent + GPT-5 VLM)**: **46.8%**
 
-> 💡 *Reveals that even top-performming agents fail at complex hierarchical rule application—a core skill in numerous important vertical domains, like law, customs, and E-Commernce.*
+> 💡 *Reveals that even top-performming agents fail at complex hierarchical rule application—a core skill in numerous important vertical domains, like law, medical, customs, and taxation.*
 
 ---
 
