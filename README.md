@@ -8,9 +8,9 @@
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)]()
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-<img src="https://img.shields.io/github/issues/AIDC-AI/Marco-DeepWideSearch-Agent?color=red" alt="Open Issues">
-<img src="https://img.shields.io/github/issues-closed/AIDC-AI/Marco-DeepWideSearch-Agent?color=green" alt="Closed Issues">
-<img src="https://img.shields.io/github/stars/AIDC-AI/Marco-DeepWideSearch-Agent?color=yellow" alt="Stars"> 
+<img src="https://img.shields.io/github/issues/AIDC-AI/Marco-Search-Agent?color=red" alt="Open Issues">
+<img src="https://img.shields.io/github/issues-closed/AIDC-AI/Marco-Search-Agent?color=green" alt="Closed Issues">
+<img src="https://img.shields.io/github/stars/AIDC-AI/Marco-Search-Agent?color=yellow" alt="Stars"> 
 
 <div align="center">
 
@@ -18,12 +18,12 @@
 
 [_**Alibaba International Digital Commerce**_](https://aidc-ai.com)
 
-<img src="https://octodex.github.com/images/original.png" alt="GitHub Octocat" width="22" height="22"> [**Github**](https://github.com/AIDC-AI/Marco-DeepWideSearch-Agent) 📝  [**HSCodeComp Paper**](assets/HSCodeComp.pdf) 📝  [**DeepWideSearch Paper**](assets/DeepWideSearch.pdf) 🤗  [**HSCodeComp Dataset**](https://huggingface.co/datasets/AIDC-AI/HSCodeComp) 🤗  [**DeepWideSearch Dataset**](https://huggingface.co/datasets/AIDC-AI/DeepWideSearch)
+<img src="https://octodex.github.com/images/original.png" alt="GitHub Octocat" width="22" height="22"> [**Github**](https://github.com/AIDC-AI/Marco-Search-Agent) 📝  [**HSCodeComp Paper**](https://arxiv.org/abs/2510.19631) 📝  [**DeepWideSearch Paper**](assets/DeepWideSearch.pdf) 🤗  [**HSCodeComp Dataset**](https://huggingface.co/datasets/AIDC-AI/HSCodeComp) 🤗  [**DeepWideSearch Dataset**](https://huggingface.co/datasets/AIDC-AI/DeepWideSearch)
 
 </div>
 
 
-🎯 Marco-DeepWideSearch-Agent introduces two challenging agent benchmarks that expose critical gaps in current AI systems across two fundamental dimensions:
+🎯 Marco-Search-Agent introduces two challenging agent benchmarks that expose critical gaps in current AI systems across two fundamental dimensions:
 
 1. **HSCodeComp** ([`HSCodeComp`](HSCodeComp/README.md)): Evaluates **hierarchical rule application** in E-Commerce—*"What is the correct 10-digit HSCode for this silicone medical bracelet?"*. This benchmark tests the ability to apply complex, ambiguous rules embedded with hierarchical decision logic (e.g., tariff, legal, medical manuals) in domain-specific applications.
 
@@ -35,7 +35,7 @@ These applications reveal fundamental limitations between current AI agents and 
 
 
 ## 🔥 News
-* [2025-10] 🔥 We released Marco-DeepWideSearch-Agent. This initial release includes two challenging benchmarks for cutting-edge agent systems——DeepWideSearch and HSCodeComp benchmarks.
+* [2025-10] 🔥 We released Marco-Search-Agent. This initial release includes two challenging benchmarks for cutting-edge agent systems——DeepWideSearch and HSCodeComp benchmarks.
 
 <div align="center">
   <img src="assets/roadmap.png" alt="Roadmap" width="600">
@@ -88,7 +88,7 @@ These applications reveal fundamental limitations between current AI agents and 
 ### Repository Structure
 
 ```
-Marco-DeepWideSearch-Agent/
+Marco-Search-Agent/
 ├── HSCodeComp/
 │   ├── data/
 │   ├── assets/
