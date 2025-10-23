@@ -139,7 +139,7 @@ The script reports **exact-match accuracy** at **2-digit, 4-digit, 6-digit, 8-di
 ### Complete Evaluation on HSCodeComp
 ![](assets/main_exp_result.png)
 
-The top-performming baseline SmolAgent (GPT-5 with vision capability) achieves the best performance, while it sill largely lag behind human expert performance.
+The top-performming baseline SmolAgent (GPT-5 with vision capability) achieves the best performance, while it still largely lags behind human expert performance.
 
 <img src="assets/closed_source_main_exp_result.jpg" alt="Closed Source Main Exp Result" width="60%" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 
