@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow.svg)](https://huggingface.co/datasets/AIDC-AI/HSCodeComp)
+[![arXiv:2510.19631](https://img.shields.io/badge/arXiv-2510.19631-red.svg)](https://arxiv.org/abs/2510.19631)
 
 <div align="center">
 
@@ -10,7 +11,7 @@
 
 [_**Alibaba International Digital Commerce**_](https://aidc-ai.com)
 
-<img src="https://octodex.github.com/images/original.png" alt="GitHub Octocat" width="22" height="22"> [**Github**](https://github.com/AIDC-AI/Marco-DeepWideSearch-Agent/HSCodeComp) 🤗  [**Hugging Face**](https://huggingface.co/datasets/AIDC-AI/HSCodeComp) 📝  [**Paper**](../assets/HSCodeComp.pdf) 🗂️  [**Data**](https://github.com/AIDC-AI/Marco-DeepWideSearch-Agent/HSCodeComp/data/test_data.jsonl)
+<img src="https://octodex.github.com/images/original.png" alt="GitHub Octocat" width="22" height="22"> [**Github**](https://github.com/AIDC-AI/Marco-DeepWideSearch-Agent/HSCodeComp) 🤗  [**Hugging Face**](https://huggingface.co/datasets/AIDC-AI/HSCodeComp) 📝  [**Paper**](http://arxiv.org/abs/2510.19631) 🗂️  [**Data**](https://github.com/AIDC-AI/Marco-DeepWideSearch-Agent/HSCodeComp/data/test_data.jsonl)
 
 
 </div>
@@ -37,7 +38,7 @@ Besides, ablation study also reveals that **inference-time scaling fails to impr
 ---
 
 ## 🔥 News
-* [2025/10/] 🔥 We released the [paper](../assets/HSCodeComp.pdf) and [dataset](https://huggingface.co/datasets/AIDC-AI/HSCodeComp) of our challenging HSCodeComp dataset.
+* [2025/10/] 🔥 We released the [paper](https://arxiv.org/abs/2510.19631) and [dataset](https://huggingface.co/datasets/AIDC-AI/HSCodeComp) of our challenging HSCodeComp dataset.
 
 ---
 
@@ -72,7 +73,7 @@ The HSCode $y \in \mathcal{Y}$ is a single **10-digit numeric string** $\mathcal
 - **First 6 digits**: HS sub-heading
 - **Last 4 digits (7-10)**: Country-specific codes
 
-The 10-digit HSCode must follow a valid path in the official HS taxonomy. Please refer to [our paper](../assets/HSCodeComp.pdf) for more details about these data.
+The 10-digit HSCode must follow a valid path in the official HS taxonomy. Please refer to [our paper](https://arxiv.org/abs/2510.19631) for more details about these data.
 
 ### Dataset Collection and Statistic
 
@@ -162,7 +163,7 @@ Performance degrades when human decision rules are included in the system prompt
 
 Two kinds of inference-time scaling strategy (majority voting and self-reflection) fails to effectively improve the performance.
 
-> For complete experimental results, please refer to [our paper](../assets/HSCodeComp.pdf).
+> For complete experimental results, please refer to [our paper](https://arxiv.org/abs/2510.19631).
 
 ---
 
