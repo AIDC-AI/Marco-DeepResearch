@@ -22,6 +22,9 @@
 
 </div>
 
+<div align="center">
+  <img src="assets/roadmap.png" alt="Roadmap" width="600">
+</div>
 
 🎯 Marco-Search-Agent introduces two challenging agent benchmarks that expose critical gaps in current AI systems across two fundamental dimensions:
 
@@ -36,10 +39,6 @@ These applications reveal fundamental limitations between current AI agents and 
 
 ## 🔥 News
 * [2025-10] 🔥 We released Marco-Search-Agent. This initial release includes two challenging benchmarks for cutting-edge agent systems——DeepWideSearch and HSCodeComp benchmarks.
-
-<div align="center">
-  <img src="assets/roadmap.png" alt="Roadmap" width="600">
-</div>
 
 ---
 
@@ -56,6 +55,11 @@ These applications reveal fundamental limitations between current AI agents and 
 - **Human Performance**: **95.0%** (10-digit accuracy)
 - **Best AI (SmolAgent + GPT-5 VLM)**: **46.8%**
 
+<div align="center">
+  <img src="HSCodeComp/assets/data_card.png" alt="Overview" width="60%" style="display: inline-block; vertical-align: top; margin-right: 2%;">
+  <img src="HSCodeComp/assets/teaser_img.png" alt="Teaser" width="34%" style="display: inline-block; vertical-align: top;">
+</div>
+
 > 💡 *Reveals that even top-performming agents fail at complex hierarchical rule application—a core skill in numerous important vertical domains, like law, medical, customs, and taxation.*
 
 ---
@@ -70,6 +74,10 @@ These applications reveal fundamental limitations between current AI agents and 
 - **Avg. Reasoning Depth**: 4.21 steps
 - **Best AI (WebSailor + Claude Sonnet 4)**: **2.39% Success Rate**
 
+<div align="center">
+  <img src="DeepWideSearch/assets/teaser_img_v3.png" alt="Overview" width="50%" style="display: inline-block; vertical-align: top; margin-right: 2%;">
+</div>
+
 > 💡 *Shows that advanced AI agents achieve only nearly 2% success rate with huge inference cost.*
 
 ---
@@ -78,8 +86,8 @@ These applications reveal fundamental limitations between current AI agents and 
 
 | Dataset | Huggingface | GitHub |
 | ------- | ----------- | ------ | 
-| HSCodeComp | [🤗 AIDC-AI/HSCodeComp](https://huggingface.co/datasets/AIDC-AI/HSCodeComp) | [<img src="https://octodex.github.com/images/original.png" alt="GitHub Octocat" width="22" height="22">](HSCodeComp/data/test_data.jsonl) |
-| DeepWideSearch | [🤗 AIDC-AI/DeepWideSearch](https://huggingface.co/datasets/AIDC-AI/DeepWideSearch) | [<img src="https://octodex.github.com/images/original.png" alt="GitHub Octocat" width="22" height="22">](DeepWideSearch/data/) |
+| HSCodeComp | [🤗 AIDC-AI/HSCodeComp](https://huggingface.co/datasets/AIDC-AI/HSCodeComp) | [<img src="https://octodex.github.com/images/original.png" alt="GitHub Octocat" width="22" height="22">HSCodeComp/data](HSCodeComp/data/test_data.jsonl) |
+| DeepWideSearch | [🤗 AIDC-AI/DeepWideSearch](https://huggingface.co/datasets/AIDC-AI/DeepWideSearch) | [<img src="https://octodex.github.com/images/original.png" alt="GitHub Octocat" width="22" height="22">DeepWideSearch/data](DeepWideSearch/data/) |
 
 ---
 

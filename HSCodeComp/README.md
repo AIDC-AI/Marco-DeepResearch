@@ -20,13 +20,16 @@
 
 ## 📌 Overview
 
-
 <div align="center">
-  <img src="assets/overview.png" alt="Overview" width="60%" style="display: inline-block; vertical-align: top; margin-right: 2%;">
+  <img src="assets/data_card.png" alt="Overview" width="60%" style="display: inline-block; vertical-align: top; margin-right: 2%;">
   <img src="assets/teaser_img.png" alt="Teaser" width="34%" style="display: inline-block; vertical-align: top;">
 </div>
 
 **HSCodeComp** is the first realistic, expert-level e-commerce benchmark designed to evaluate **deep search agents** on their ability to perform Level-3 knowledge—**hierarchical rule application**—a critical yet overlooked capability in current agent evaluation frameworks.
+
+<div align="center">
+  <img src="assets/overview.png" alt="Overview" width="75%" style="display: inline-block; vertical-align: top; margin-right: 2%;">
+</div>
 
 The task requires agents to predict the exact **10-digit Harmonized System Code (HSCode)** for products described with **noisy, real-world e-commerce domain**, by correctly applying complex, hierarcahical tariff rules (e.g., from eWTP and official customs rulings). These rules often contain **vague language** and **implicit logic**, making accurate classification highly challenging. Our evaluation reveals a stark performance gap:
 
