@@ -57,9 +57,12 @@ Each product $x \in \mathcal{X}$ contains rich information: $x = (t, A, c, i, p,
 
 ### Knowledge: Hierarchical Rules
 The task requires agents to effectively utilize three types of e-commerce domain knowledge:
-1. **Hierarchical tariff rules** from official classification systems (e.g., eWTP) with complex implicit logic and vague linguistic constraints
+1. **Hierarchical tariff rules** from official classification systems (e.g., eWTP) with complex implicit logic and vague linguistic constraints.
+![](assets/tariff_rule.png)
 2. **Human-written decision rules** that specify how to correctly apply tariff rules
+![](assets/human_decision_rule.png)
 3. **Official customs rulings databases** (e.g., U.S. CROSS) containing historical HSCode classification decisions
+![](assets/cross_example.png)
 
 ### Output
 
