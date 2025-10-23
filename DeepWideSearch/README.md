@@ -1,4 +1,4 @@
-# 🌐 DeepWideSearch: Evaluating Deep and Wide Agentic Information Seeking
+# DeepWideSearch: Evaluating Deep and Wide Agentic Information Seeking
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
