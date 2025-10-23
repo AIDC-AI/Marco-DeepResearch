@@ -34,7 +34,7 @@ As shown in the Table, our proposed DeepWideSearch exhibit significant challengi
 
 *DeepWideSearch: Bridging depth and width in information seeking*
 
-**DeepWideSearch** is the first benchmark designed to evaluate LLM-based agents on **simultaneous deep reasoning over multi-hop retrieval and wide-scale information retrieval**—a critical capability for real-world tasks like market analysis and business developmen. The output of this task is a tabular. Rows are candidate answers of the questions and columns are attributes of each candidate that questions required to collect.
+**DeepWideSearch** is the first benchmark designed to evaluate LLM-based agents on **simultaneous deep reasoning over multi-hop retrieval and wide-scale information retrieval**—a critical capability for real-world tasks like market analysis and business development. The output of this task is a tabular. Rows are candidate answers of the questions and columns are attributes of each candidate that questions required to collect.
 ![](assets/deepwideseach_task_overview.png)
 
 ---
