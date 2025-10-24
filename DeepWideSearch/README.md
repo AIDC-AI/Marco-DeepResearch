@@ -11,7 +11,7 @@
 
 [_**Alibaba International Digital Commerce**_](https://aidc-ai.com)
 
-<img src="https://octodex.github.com/images/original.png" alt="GitHub Octocat" width="22" height="22"> [**Github**](https://github.com/AIDC-AI/Marco-DeepWideSearch-Agent/DeepWideSearch)  🤗  [**Hugging Face**](https://huggingface.co/datasets/AIDC-AI/DeepWideSearch) 📝  [**Paper**](../assets/DeepWideSearch.pdf) 🗂️  [**Data**](https://github.com/AIDC-AI/Marco-DeepWideSearch-Agent/data)
+<img src="https://octodex.github.com/images/original.png" alt="GitHub Octocat" width="22" height="22"> [**Github**](https://github.com/AIDC-AI/Marco-Search-Agent/DeepWideSearch)  🤗  [**Hugging Face**](https://huggingface.co/datasets/AIDC-AI/DeepWideSearch) 📝  [**Paper**](https://arxiv.org/abs/2510.20168) 🗂️  [**Data**](https://github.com/AIDC-AI/Marco-Search-Agent/data)
 
 </div>
 
@@ -40,7 +40,7 @@ As shown in the Table, our proposed DeepWideSearch exhibit significant challengi
 ---
 
 ## 🔥 News
-* [2025/10/] 🔥 We released the [paper](../assets/DeepWideSearch.pdf) and [dataset](https://huggingface.co/datasets/AIDC-AI/DeepWideSearch) of our challenging DeepWideSearch benchmarl.
+* [2025/10/] 🔥 We released the [paper](https://arxiv.org/abs/2510.20168) and [dataset](https://huggingface.co/datasets/AIDC-AI/DeepWideSearch) of our challenging DeepWideSearch benchmarl.
 
 ---
 
@@ -108,7 +108,7 @@ DeepWideSearch/
 
 ### Install
 ```bash
-git clone https://github.com/Marco-DeepWideSearch-Agent
+git clone https://github.com/Marco-Search-Agent
 cd DeepWideSearch
 pip install -r requirements.txt
 ```
