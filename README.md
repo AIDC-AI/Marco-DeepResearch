@@ -14,7 +14,7 @@
 
 <div align="center">
 
-⭐ [_**Alibaba International Digital Commerce**_](https://aidc-ai.com) ⭐
+🍓 [_**Alibaba International Digital Commerce**_](https://aidc-ai.com) 🍓
 
 <!-- <img src="https://octodex.github.com/images/original.png" alt="GitHub Octocat" width="22" height="22"> [**Github**](https://github.com/AIDC-AI/Marco-Search-Agent)  -->
 📝  [**HSCodeComp Paper**](https://arxiv.org/abs/2510.19631) 📝  [**DeepWideSearch Paper**](https://arxiv.org/abs/2510.20168) 
@@ -34,7 +34,7 @@
 
 These applications reveal fundamental limitations between current AI agents and human experts in critical yet underexplored dimensions of real-world applications.
 
-⚠️ **Limitations**: We acknowledge that the current benchmarks primarily expose fundamental limitations in existing agent systems and their performance still falls short of human-level capabilities in these domains. This is not a one-time effort, and we remain committed to continuous optimization and ongoing improvement of both the benchmarks and the underlying agent architectures.
+<!-- ⚠️ **Limitations**: We acknowledge that the current benchmarks primarily expose fundamental limitations in existing agent systems and their performance still falls short of human-level capabilities in these domains. This is not a one-time effort, and we remain committed to continuous optimization and ongoing improvement of both the benchmarks and the underlying agent architectures. -->
 
 
 ## 🔥 News
@@ -134,7 +134,7 @@ Please refer to README in these two projects.
 
 ## 👨🏻‍💻 Acknowledgements
 
-Main contributors are from MarcoPolo Team, AI Business, Alibaba International Digital Commerce. You could contact us via [Tian Lan](https://github.com/gmftbyGMFTBY) and [Longyue Wang](https://www.longyuewang.com/).
+Main contributors are from AI Business, Alibaba International Digital Commerce. You could contact us via [Tian Lan](https://github.com/gmftbyGMFTBY) and [Longyue Wang](https://www.longyuewang.com/).
 - **HSCodeComp** thanks human tariff experts for meticulous annotation (hourly wage: >$34/hr).
 - **DeepWideSearch** builds upon the open-source [WideSearch](https://github.com/ByteDance-Seed/WideSearch) framework by ByteDance-Seed. We gratefully acknowledge their pioneering work and MIT-licensed codebase.
 
