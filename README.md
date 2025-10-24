@@ -55,16 +55,20 @@ These applications reveal fundamental limitations between current AI agents and 
 - **Human Performance**: **95.0%** (10-digit accuracy)
 - **Best AI (SmolAgent + GPT-5 VLM)**: **46.8%**
 
-<div align="center">
+<!-- <div align="center">
   <img src="HSCodeComp/assets/data_card.png" alt="Overview" width="60%" style="display: inline-block; vertical-align: top; margin-right: 2%;">
   <img src="HSCodeComp/assets/teaser_img.png" alt="Teaser" width="34%" style="display: inline-block; vertical-align: top;">
+</div> -->
+
+<div align="center">
+  <img src="assets/DWS-workflow.png" alt="Overview" width="100%" style="display: inline-block; vertical-align: top; margin-right: 2%;">
 </div>
 
 > 💡 *Reveals that even top-performming agents fail at complex hierarchical rule application—a core skill in numerous important vertical domains, like law, medical, customs, and taxation.*
 
 ---
 
-### 🌐 [**DeepWideSearch**](HSCodeComp/README.md)
+### 🌐 [**DeepWideSearch**](DeepWideSearch/README.md)
 
 *Evaluating Advanced Agent Systems on Deep-and-Wide Agentic Information Seeking*
 
@@ -75,7 +79,7 @@ These applications reveal fundamental limitations between current AI agents and 
 - **Best AI (WebSailor + Claude Sonnet 4)**: **2.39% Success Rate**
 
 <div align="center">
-  <img src="DeepWideSearch/assets/teaser_img_v2.png" alt="Overview" width="100%" style="display: inline-block; vertical-align: top; margin-right: 2%;">
+  <img src="assets/HSCODE-workflow.png" alt="Overview" width="100%" style="display: inline-block; vertical-align: top; margin-right: 2%;">
 </div>
 
 
