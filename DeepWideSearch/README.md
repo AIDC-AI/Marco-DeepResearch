@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Dataset-yellow.svg)](https://huggingface.co/datasets/AIDC-AI/DeepWideSearch)
+[![arXiv:2510.20168](https://img.shields.io/badge/arXiv-2510.20168-red.svg)](https://arxiv.org/pdf/2510.20168)
 
 
 <div align="center">
