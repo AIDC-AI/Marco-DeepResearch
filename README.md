@@ -75,7 +75,7 @@ These applications reveal fundamental limitations between current AI agents and 
 - **Best AI (WebSailor + Claude Sonnet 4)**: **2.39% Success Rate**
 
 <div align="center">
-  <img src="DeepWideSearch/assets/teaser_img_v2.png" alt="Overview" width="50%" style="display: inline-block; vertical-align: top; margin-right: 2%;">
+  <img src="DeepWideSearch/assets/teaser_img_v2.png" alt="Overview" width="100%" style="display: inline-block; vertical-align: top; margin-right: 2%;">
 </div>
 
 
