@@ -10,8 +10,6 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 <img src="https://img.shields.io/github/issues/AIDC-AI/Marco-Search-Agent?color=red" alt="Open Issues">
 <img src="https://img.shields.io/github/issues-closed/AIDC-AI/Marco-Search-Agent?color=green" alt="Closed Issues">
-[![Hugging Face Paper](https://img.shields.io/badge/Hugging%20Face-Paper-yellow)](https://huggingface.co/papers/2510.19631)
-[![Hugging Face Paper](https://img.shields.io/badge/Hugging%20Face-Paper-yellow)](https://huggingface.co/papers/2510.20168)
 <img src="https://img.shields.io/github/stars/AIDC-AI/Marco-Search-Agent?color=yellow" alt="Stars"> 
 
 <div align="center">
