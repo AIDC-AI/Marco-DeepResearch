@@ -14,9 +14,7 @@
 
 <div align="center">
 
-⭐ _**MarcoPolo Team**_ ⭐
-
-[_**Alibaba International Digital Commerce**_](https://aidc-ai.com)
+⭐ [_**Alibaba International Digital Commerce**_](https://aidc-ai.com) ⭐
 
 <img src="https://octodex.github.com/images/original.png" alt="GitHub Octocat" width="22" height="22"> [**Github**](https://github.com/AIDC-AI/Marco-Search-Agent) 📝  [**HSCodeComp Paper**](https://arxiv.org/abs/2510.19631) 📝  [**DeepWideSearch Paper**](https://arxiv.org/abs/2510.20168) 🤗  [**HSCodeComp Dataset**](https://huggingface.co/datasets/AIDC-AI/HSCodeComp) 🤗  [**DeepWideSearch Dataset**](https://huggingface.co/datasets/AIDC-AI/DeepWideSearch)
 
