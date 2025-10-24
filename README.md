@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/roadmap.png" alt="Roadmap" width="600">
+  <img src="assets/Timeline.png" alt="Roadmap" width="600">
 </div>
 
 🎯 Marco-Search-Agent introduces two challenging agent benchmarks that expose critical gaps in current AI systems across two fundamental dimensions:
@@ -61,7 +61,7 @@ These applications reveal fundamental limitations between current AI agents and 
 </div> -->
 
 <div align="center">
-  <img src="assets/DWS-workflow.png" alt="Overview" width="100%" style="display: inline-block; vertical-align: top; margin-right: 2%;">
+  <img src="assets/HSCODE-workflow.png" alt="Overview" width="100%" style="display: inline-block; vertical-align: top; margin-right: 2%;">
 </div>
 
 > 💡 *Reveals that even top-performming agents fail at complex hierarchical rule application—a core skill in numerous important vertical domains, like law, medical, customs, and taxation.*
@@ -79,7 +79,7 @@ These applications reveal fundamental limitations between current AI agents and 
 - **Best AI (WebSailor + Claude Sonnet 4)**: **2.39% Success Rate**
 
 <div align="center">
-  <img src="assets/HSCODE-workflow.png" alt="Overview" width="100%" style="display: inline-block; vertical-align: top; margin-right: 2%;">
+  <img src="assets/DWS-workflow.png" alt="Overview" width="100%" style="display: inline-block; vertical-align: top; margin-right: 2%;">
 </div>
 
 
