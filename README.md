@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="assets/deepwidesearch-logo.png" alt="DeepWideSearch Logo" width="160" height="120">
+  <img src="assets/logo_1.png" alt="DeepWideSearch Logo" width="160" height="120">
 </div>
 
 
-# Marco Search Agent: Towards Real‑World and Challenging Agentic Search
+# Marco DeepResearch: Towards Real‑World and Efficient Agents
+<!-- Marco Search Agent: Towards Real‑World and Challenging Agentic Search -->
 
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)]()
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
