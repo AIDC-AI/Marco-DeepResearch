@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/Timeline_2.png" alt="Roadmap" width="600">
+  <img src="assets/Timeline_2.png" alt="Roadmap" width="800">
 </div>
 
 🎯 Marco-Search-Agent introduces two challenging agent benchmarks that expose critical gaps in current AI systems across two fundamental dimensions:
