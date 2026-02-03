@@ -1,9 +1,9 @@
-<div align="center">
-  <img src="assets/logo_1.png" alt="DeepWideSearch Logo" width="160" height="120">
-</div>
+<p align="center">
+    <img src="image/logo_1.png" width="250" style="margin-bottom: 0.2;"/>
+<p>
 
 
-# Marco DeepResearch: Towards Real‑World and Efficient Agents
+# 🍓 Marco DeepResearch: Towards Real‑World and Efficient Agents
 <!-- Marco Search Agent: Towards Real‑World and Challenging Agentic Search -->
 
 [![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)]()
