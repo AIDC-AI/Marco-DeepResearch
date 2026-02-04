@@ -27,7 +27,7 @@
   <img src="assets/Timeline_2.png" alt="Roadmap" width="800">
 </div>
 
-🎯 Marco-Search-Agent introduces two challenging agent benchmarks that expose critical gaps in current AI systems across two fundamental dimensions:
+🎯 Marco DeepResearch introduces two challenging agent benchmarks that expose critical gaps in current AI systems across two fundamental dimensions:
 
 1. **HSCodeComp** ([`HSCodeComp`](HSCodeComp/README.md)): Evaluates **hierarchical rule application** in E-Commerce—*"What is the correct 10-digit HSCode for this silicone medical bracelet?"*. This benchmark tests the ability to apply complex, ambiguous rules embedded with hierarchical decision logic (e.g., tariff, legal, medical manuals) in domain-specific applications.
 
@@ -39,7 +39,7 @@ These applications reveal fundamental limitations between current AI agents and 
 
 
 ## 🔥 News
-* [2025-10] 🔥 We released Marco-Search-Agent. This initial release includes two challenging benchmarks for cutting-edge agent systems——DeepWideSearch and HSCodeComp benchmarks.
+* [2025-10] 🔥 We released Marco DeepResearch. This initial release includes two challenging benchmarks for cutting-edge agent systems——DeepWideSearch and HSCodeComp benchmarks.
 
 ---
 
