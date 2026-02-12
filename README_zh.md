@@ -103,11 +103,11 @@
 
 **问题：规则细微且持续变化**
 
-在电商商品审核场景（如「透图检测」「情感标题审核」）中，规则多模态、细微且不断演化。当智能体判断与专家标注不一致（如将正品误判为「假货」）时，以往需 **3–5 天人工调优** 才能修正。
+在电商商品审核场景中，规则多模态、细微且不断演化。当智能体判断与专家标注不一致（如将正品误判为「假货」）时，以往需 **3–5 天人工调优** 才能修正。
 
 **我们的方案：自进化智能体 + UMEM**
 
-**自进化智能体** 从智能体判断与专家标注的差距中学习：提取细粒度洞察（如「高端品牌需结合视觉水印核对『正品』描述」）并写入长期记忆。引擎是 **UMEM**（统一记忆抽取与管理）：将交互轨迹提炼为可执行、可泛化的洞察，而非简单检索历史。闭环为 **Action → Rewarding**（与 Ground Truth 对比、发现 Badcase）**→ Memory Extraction**（反思、生成候选规则）**→ Validation**（安全门控后更新 Memory 或重试）。
+**自进化智能体** 从智能体判断与专家标注的差距中学习：提取细粒度洞察（如「高端品牌需结合视觉水印核对『正品』描述」）并写入长期记忆。引擎是我们提出的 [**UMEM**（统一记忆抽取与管理）](./Marco-DeepResearch-Family/UMEM/)方法：将交互轨迹提炼为可执行、可泛化的洞察，而非简单检索历史。闭环为 **Action → Rewarding**（与 Ground Truth 对比、发现 Badcase）**→ Memory Extraction**（反思、生成候选规则）**→ Validation**（安全门控后更新 Memory 或重试）。
 
 **效果：调优效率约 30–50 倍提升，质量同步提升**
 
@@ -129,7 +129,7 @@
 | **HSCodeComp** | [🤗 AIDC-AI/HSCodeComp](https://huggingface.co/datasets/AIDC-AI/HSCodeComp) | [📁 HSCodeComp/data](Marco-DeepResearch-Family/HSCodeComp/data/test_data.jsonl) | [📝 arXiv](https://arxiv.org/abs/2510.19631) |
 | **DeepWideSearch** | [🤗 AIDC-AI/DeepWideSearch](https://huggingface.co/datasets/AIDC-AI/DeepWideSearch) | [📁 DeepWideSearch/data](Marco-DeepResearch-Family/DeepWideSearch/data/) | [📝 arXiv](https://arxiv.org/abs/2510.20168) |
 | **Table-as-Search** | [🤗 Table-as-Search Paper](https://huggingface.co/papers/2602.06724) | [📁 Table-as-Search Codebase](Marco-DeepResearch-Family/Table-as-Search/) | [📝 arXiv](https://arxiv.org/abs/2602.06724) |
-| **UMEM** | [🤗 UMEM Paper](https://huggingface.co/papers/2602.06724) | [📁 Table-as-Search Codebase](Marco-DeepResearch-Family/UMEM/) | [📝 arXiv](https://arxiv.org/abs/2602.10652) |
+| **UMEM** | [🤗 UMEM Paper](https://huggingface.co/papers/2602.06724) | [📁 UMEM Codebase](Marco-DeepResearch-Family/UMEM/) | [📝 arXiv](https://arxiv.org/abs/2602.10652) |
 
 ---
 
