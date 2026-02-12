@@ -1,0 +1,17 @@
+# Core dependencies
+aiohttp==3.13.0
+datasets==4.2.0
+dateparser==1.2.2
+huggingface_hub==0.35.3
+loguru==0.7.3
+numpy==2.3.4
+openai==2.3.0
+pandarallel==1.6.5
+pandas==2.3.3
+pydantic==2.12.2
+tenacity==9.1.2
+typing_extensions==4.15.0
+python-dotenv==1.0.1
+dotenv==0.9.9
+# Development dependencies (optional)
+ipdb==0.13.13

@@ -1,0 +1,18 @@
+# 核心依赖
+openai>=1.52.2
+anthropic>=0.37.1
+
+# 工具依赖
+requests>=2.32.3
+beautifulsoup4>=4.12.3
+markdownify>=0.13.1
+pymongo>=4.0.0
+
+# UI 和日志
+rich>=13.0.0
+
+# 其他工具
+pandas>=2.2.3
+numpy>=2.1.2
+datasets>=2.14.0
+

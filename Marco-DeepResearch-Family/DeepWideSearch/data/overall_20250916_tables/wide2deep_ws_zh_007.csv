@@ -1,0 +1,516 @@
+﻿产品系列,产品名称,芯片名称,发布日期,总线接口,显存容量,显存类型,显存位宽,核心频率(基础频率),显存频率
+NV1 系列,STG-2000,NV1,"Sep 30th, 1995",PCI,1 MB, FPM, 64 bit,75 MHz,50 MHz
+NV1 系列,NV1,NV1,"Sep 30th, 1995",PCI,2 MB, EDO, 64 bit,75 MHz,60 MHz
+Riva 系列,Riva 128 PCI,NV3,"Apr 1st, 1997",PCI,4 MB, SDR, 128 bit,100 MHz,100 MHz
+Riva 系列,Riva 128,NV3,"Apr 1st, 1997",AGP 2x,4 MB, SDR, 128 bit,100 MHz,100 MHz
+Riva 系列,Riva 128ZX,NV3,"Feb 23rd, 1998",AGP 2x,8 MB, SDR, 128 bit,100 MHz,100 MHz
+Riva 系列,Riva TNT,NV4,"Mar 23rd, 1998",AGP 2x,16 MB, SDR, 128 bit,90 MHz,110 MHz
+TNT2 系列,Vanta LT,NV5,"Mar 1st, 2000",AGP 2x,8 MB, SDR, 64 bit,105 MHz,100 MHz
+TNT2 系列,Riva TNT2 M64 Vanta,NV5,"Mar 22nd, 1999",AGP 4x,16 MB, SDR, 64 bit,100 MHz,133 MHz
+TNT2 系列,Riva TNT2 M64 Vanta-16,NV5,"Mar 22nd, 1999",AGP 4x,16 MB, SDR, 64 bit,100 MHz,133 MHz
+TNT2 系列,Riva TNT2 M64,NV5,"Oct 12th, 1999",AGP 4x,16 MB, SDR, 64 bit,125 MHz,143 MHz
+TNT2 系列,Riva TNT2,NV5,"Oct 12th, 1999",AGP 4x,16 MB, SDR, 128 bit,125 MHz,150 MHz
+TNT2 系列,Riva TNT2 PRO,NV5,"Oct 12th, 1999",AGP 4x,32 MB, SDR, 128 bit,143 MHz,167 MHz
+TNT2 系列,Riva TNT2 Ultra,NV5,"Mar 15th, 1999",AGP 4x,32 MB, SDR, 128 bit,150 MHz,183 MHz
+GeForce 256 系列,GeForce 256 SDR,NV10,"Oct 11th, 1999",AGP 4x,32 MB, SDR, 64 bit,120 MHz,143 MHz
+GeForce 256 系列,GeForce 256 DDR,NV10,"Dec 23rd, 1999",AGP 4x,32 MB, DDR, 128 bit,120 MHz,150 MHz
+GeForce 2 MX 系列,GeForce2 MX PCI,NV11,"Jun 28th, 2000",PCI,32 MB, SDR, 64 bit,175 MHz,166 MHz
+GeForce 2 MX 系列,GeForce2 MX DH Pro TV PCI,NV11,"Jun 28th, 2000",PCI,32 MB, SDR, 128 bit,175 MHz,166 MHz
+GeForce 2 MX 系列,GeForce2 MX 200 PCI,NV11B,"Mar 3rd, 2001",PCI,64 MB, SDR, 64 bit,175 MHz,166 MHz
+GeForce 2 MX 系列,GeForce2 MX 400 PCI,NV11B,"Mar 3rd, 2001",PCI,32 MB, DDR, 64 bit,200 MHz,166 MHz
+GeForce 2 MX 系列,GeForce2 MX,NV11,"Jun 28th, 2000",AGP 4x,32 MB, SDR, 128 bit,175 MHz,166 MHz
+GeForce 2 MX 系列,GeForce2 MX DH Pro TV,NV11,"Jun 28th, 2000",AGP 4x,32 MB, SDR, 128 bit,175 MHz,166 MHz
+GeForce 2 MX 系列,GeForce2 MX 200 LP,NV11B,"Mar 3rd, 2001",AGP 4x,32 MB, SDR, 64 bit,175 MHz,166 MHz
+GeForce 2 MX 系列,GeForce2 MX 200,NV11B,"Mar 3rd, 2001",AGP 4x,32 MB, SDR, 64 bit,175 MHz,166 MHz
+GeForce 2 MX 系列,GeForce2 MX 400,NV11B,"Mar 3rd, 2001",AGP 4x,32 MB, SDR, 128 bit,200 MHz,166 MHz
+GeForce 2 MX 系列,GeForce2 MX + nForce 220,Crush11,"Jun 4th, 2001",AGP 4x,System Shared,System Shared,System Shared,175 MHz,System Shared
+GeForce 2 MX 系列,GeForce2 MX + nForce 420,Crush11,"Jun 4th, 2001",AGP 4x,System Shared,System Shared,System Shared,175 MHz,System Shared
+GeForce 2 系列,GeForce2 GTS,NV15,"Apr 26th, 2000",AGP 4x,32 MB, DDR, 128 bit,200 MHz,166 MHz
+GeForce 2 系列,GeForce2 GTS PRO,NV15,"Apr 26th, 2000",AGP 4x,32 MB, DDR, 128 bit,200 MHz,200 MHz
+GeForce 2 系列,GeForce2 PRO,NV15,"Dec 5th, 2000",AGP 4x,64 MB, DDR, 128 bit,200 MHz,200 MHz
+GeForce 2 系列,GeForce2 Ti,NV15,"Oct 1st, 2001",AGP 4x,64 MB, DDR, 128 bit,250 MHz,200 MHz
+GeForce 2 系列,GeForce2 Ultra,NV15,"Aug 14th, 2000",AGP 4x,64 MB, DDR, 128 bit,250 MHz,230 MHz
+GeForce 3 系列,GeForce3,NV20,"Feb 27th, 2001",AGP 4x,64 MB, DDR, 128 bit,200 MHz,230 MHz
+GeForce 3 系列,GeForce3 Ti200,NV20,"Oct 1st, 2001",AGP 4x,64 MB, DDR, 128 bit,175 MHz,200 MHz
+GeForce 3 系列,GeForce3 Ti500,NV20,"Oct 1st, 2001",AGP 4x,64 MB, DDR, 128 bit,240 MHz,250 MHz
+GeForce 4 MX 系列,GeForce4 MX 420 PCI,NV17,"Feb 6th, 2002",PCI,64 MB, SDR, 64 bit,250 MHz,166 MHz
+GeForce 4 MX 系列,GeForce4 MX 420,NV17,"Feb 6th, 2002",AGP 4x,64 MB, SDR, 128 bit,250 MHz,166 MHz
+GeForce 4 MX 系列,GeForce4 MX 440-SE,NV17,"Feb 6th, 2002",AGP 4x,64 MB, DDR, 128 bit,250 MHz,166 MHz
+GeForce 4 MX 系列,GeForce4 MX 440-SE,NV18,"Feb 6th, 2002",AGP 8x,64 MB, DDR, 64 bit,250 MHz,200 MHz
+GeForce 4 MX 系列,GeForce4 MX 440,NV17,"Feb 6th, 2002",AGP 4x,64 MB, DDR, 128 bit,275 MHz,200 MHz
+GeForce 4 MX 系列,GeForce4 MX 440 Mac Edition,NV17,"Feb 6th, 2002",AGP 4x,64 MB, DDR, 128 bit,275 MHz,200 MHz
+GeForce 4 MX 系列,GeForce4 MX 440-8x,NV18,"Sep 25th, 2002",AGP 8x,32 MB, DDR, 32 bit,275 MHz,250 MHz
+GeForce 4 MX 系列,GeForce4 MX 440-8x,NV18,"Sep 25th, 2002",AGP 8x,64 MB, DDR, 128 bit,275 MHz,250 MHz
+GeForce 4 MX 系列,GeForce4 MX 460,NV17,"Feb 6th, 2002",AGP 4x,64 MB, DDR, 128 bit,300 MHz,225 MHz
+GeForce 4 MX 系列,GeForce4 MX 4000 PCI,NV18C,"Dec 14th, 2003",PCI,128 MB, DDR, 64 bit,250 MHz,166 MHz
+GeForce 4 MX 系列,GeForce4 MX 4000,NV18,"Dec 14th, 2003",AGP 8x,128 MB, DDR, 64 bit,250 MHz,166 MHz
+GeForce 4 MX 系列,GeForce4 MX 4000 Rev. 2,NV18C,"Dec 14th, 2003",AGP 8x,128 MB, DDR, 64 bit,250 MHz,166 MHz
+GeForce 4 MX 系列,GeForce4 MX + nForce2,Crush17,"Oct 1st, 2002",AGP 4x,System Shared,System Shared,System Shared,200 MHz,System Shared
+GeForce4 Ti 系列,GeForce4 Ti 4200,NV25,"Feb 6th, 2002",AGP 4x,64 MB, DDR, 128 bit,250 MHz,250 MHz
+GeForce4 Ti 系列,GeForce4 Ti 4200,NV25,"Feb 6th, 2002",AGP 4x,64 MB, DDR, 64 bit,250 MHz,250 MHz
+GeForce4 Ti 系列,GeForce4 Ti 4200-8X,NV28,"Feb 6th, 2002",AGP 8x,64 MB, SDR, 128 bit,250 MHz,250 MHz
+GeForce4 Ti 系列,GeForce4 Ti 4400,NV25,"Feb 6th, 2002",AGP 4x,128 MB, DDR, 128 bit,275 MHz,275 MHz
+GeForce4 Ti 系列,GeForce4 Ti 4600,NV25,"Feb 6th, 2002",AGP 4x,128 MB, DDR, 128 bit,300 MHz,324 MHz
+GeForce4 Ti 系列,GeForce4 Ti 4800 SE,NV28,"Feb 16th, 2003",AGP 8x,128 MB, DDR, 128 bit,275 MHz,275 MHz
+GeForce4 Ti 系列,GeForce4 Ti 4800,NV28,"Mar 15th, 2003",AGP 8x,128 MB, DDR, 128 bit,300 MHz,325 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5100,NV34,"Mar 6th, 2003",AGP 8x,64 MB, DDR, 64 bit,200 MHz,166 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5200 PCI,NV34B,"Mar 6th, 2003",PCI,256 MB, DDR, 128 bit,250 MHz,200 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5200 LE,NV34,"Mar 17th, 2003",AGP 8x,128 MB, DDR, 64 bit,250 MHz,166 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5200,NV18C,"Mar 6th, 2003",AGP 8x,128 MB, DDR, 128 bit,250 MHz,200 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5200,NV34,"Mar 6th, 2003",AGP 8x,128 MB, DDR, 128 bit,250 MHz,200 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5200 Rev. 2,NV34B,"Mar 6th, 2003",AGP 8x,128 MB, DDR, 64 bit,250 MHz,200 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5200 Ultra Mac Edition,NV34,"Mar 6th, 2003",AGP Pro 8x,128 MB, DDR, 128 bit,325 MHz,325 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5200 Ultra,NV34,"Mar 6th, 2003",AGP 8x,128 MB, DDR, 128 bit,325 MHz,325 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5500 PCI,NV34B,"Mar 17th, 2004",PCI,256 MB, DDR, 128 bit,270 MHz,200 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5500,NV34B,"Mar 17th, 2004",AGP 8x,64 MB, DDR, 128 bit,270 MHz,166 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5600 XT PCI,NV31,"Mar 17th, 2003",PCI,64 MB, DDR, 128 bit,235 MHz,200 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5600 XT,NV31,"Mar 17th, 2003",AGP 8x,128 MB, DDR, 128 bit,235 MHz,200 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5600,NV31,"Mar 6th, 2003",AGP 8x,128 MB, DDR, 128 bit,325 MHz,250 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5600 Ultra,NV31,"Mar 17th, 2003",AGP 8x,128 MB, DDR, 128 bit,400 MHz,400 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5700 LE,NV36,"Mar 1st, 2004",AGP 8x,128 MB, DDR, 64 bit,250 MHz,200 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5700 VE,NV36,"Sep 1st, 2004",AGP 8x,128 MB, DDR, 128 bit,250 MHz,200 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5700 EP,NV36,"Sep 1st, 2004",AGP 8x,128 MB, DDR, 64 bit,425 MHz,200 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5700 Engineering Sample,NV36S,"Aug 18th, 2003",AGP 8x,128 MB, DDR, 128 bit,425 MHz,250 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5700,NV36B,"Oct 23rd, 2003",AGP 8x,128 MB, DDR, 128 bit,425 MHz,250 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5700 Ultra,NV36B,"Oct 23rd, 2003",AGP 8x,128 MB, GDDR2, 128 bit,475 MHz,453 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5800,NV30,"Mar 6th, 2003",AGP 8x,128 MB, GDDR2, 128 bit,400 MHz,400 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5800 Ultra,NV30,"Mar 6th, 2003",AGP 8x,128 MB, GDDR2, 128 bit,500 MHz,500 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5900 ZT,NV35,"May 12th, 2003",AGP 8x,128 MB, DDR, 256 bit,325 MHz,350 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5900,NV35,"May 12th, 2003",AGP 8x,128 MB, DDR, 256 bit,400 MHz,425 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5900 XT,NV35,"May 12th, 2003",AGP 8x,128 MB, DDR, 256 bit,400 MHz,350 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5900 Ultra,NV35,"Oct 23rd, 2003",AGP 8x,256 MB, DDR, 256 bit,450 MHz,425 MHz
+GeForce FX (5xxx) 系列,GeForce FX 5950 Ultra,NV38,"Oct 23rd, 2003",AGP 8x,256 MB, DDR, 256 bit,475 MHz,475 MHz
+GeForce PCX 系列,GeForce PCX 4300,NV18C,"Feb 19th, 2004",PCIe 1.0 x16,64 MB, DDR, 64 bit,250 MHz,166 MHz
+GeForce PCX 系列,GeForce PCX 5300,NV37,"Feb 17th, 2004",PCIe 1.0 x16,128 MB, DDR, 128 bit,250 MHz,200 MHz
+GeForce PCX 系列,GeForce PCX 5750,NV39,"Feb 17th, 2004",PCIe 1.0 x16,128 MB, DDR, 128 bit,425 MHz,275 MHz
+GeForce PCX 系列,GeForce PCX 5900,NV35,"Mar 17th, 2003",PCIe 1.0 x16,128 MB, DDR, 256 bit,350 MHz,275 MHz
+GeForce PCX 系列,GeForce PCX 5950,NV38,"Feb 17th, 2004",PCIe 1.0 x16,256 MB, GDDR3, 256 bit,475 MHz,425 MHz
+GeForce 6 PCI (6200) 系列,GeForce 6200 LE PCI,NV43,"Oct 11th, 2004",PCI,256 MB, DDR, 64 bit,300 MHz,266 MHz
+GeForce 6 PCI (6200) 系列,GeForce 6200 PCI,NV44,"Jan 16th, 2008",PCI,256 MB, DDR2, 64 bit,280 MHz,200 MHz
+GeForce 6 PCI (6200) 系列,GeForce 6200 X2 PCI,NV44,"Jan 16th, 2008",PCI,256 MB, DDR2, 64 bit,280 MHz,200 MHz
+GeForce 6 AGP (6xxx) 系列,GeForce 6200 AGP,NV18C,"Dec 14th, 2003",AGP 8x,128 MB, DDR, 64 bit,230 MHz,66 MHz
+GeForce 6 AGP (6xxx) 系列,GeForce 6200 LE AGP,NV44,"Apr 4th, 2005",AGP 8x,128 MB, DDR, 64 bit,350 MHz,266 MHz
+GeForce 6 AGP (6xxx) 系列,GeForce 6200 LE AGP 512 MB,NV44,"Oct 11th, 2004",AGP 8x,512 MB, DDR2, 128 bit,300 MHz,275 MHz
+GeForce 6 AGP (6xxx) 系列,GeForce 6200 TurboCache,NV44B,"Dec 15th, 2004",AGP 4x,64 MB, DDR, 64 bit,350 MHz,250 MHz
+GeForce 6 AGP (6xxx) 系列,GeForce 6200 AGP,NV44,"Apr 4th, 2005",AGP 8x,128 MB, DDR, 64 bit,350 MHz,250 MHz
+GeForce 6 AGP (6xxx) 系列,GeForce 6200 AGP,NV44,"Apr 4th, 2005",AGP 8x,256 MB, DDR2, 64 bit,350 MHz,266 MHz
+GeForce 6 AGP (6xxx) 系列,GeForce 6600 LE AGP,NV43,2005,AGP 8x,128 MB, DDR, 128 bit,300 MHz,200 MHz
+GeForce 6 AGP (6xxx) 系列,GeForce 6600 AGP,NV43,"Aug 12th, 2004",AGP 8x,128 MB, DDR, 128 bit,300 MHz,250 MHz
+GeForce 6 AGP (6xxx) 系列,GeForce 6600 GT AGP,NV43,"Nov 14th, 2004",AGP 8x,128 MB, GDDR3, 128 bit,500 MHz,475 MHz
+GeForce 6 AGP (6xxx) 系列,GeForce 6800 XE,NV40,"Sep 30th, 2005",AGP 8x,256 MB, DDR2, 128 bit,275 MHz,266 MHz
+GeForce 6 AGP (6xxx) 系列,GeForce 6800 LE,NV40,"Jul 21st, 2004",AGP 8x,128 MB, DDR, 256 bit,300 MHz,350 MHz
+GeForce 6 AGP (6xxx) 系列,GeForce 6800 XT,NV48,"Sep 30th, 2005",AGP 8x,256 MB, DDR, 128 bit,300 MHz,266 MHz
+GeForce 6 AGP (6xxx) 系列,GeForce 6800 XT,NV40,"Sep 30th, 2005",AGP 8x,256 MB, DDR, 256 bit,300 MHz,350 MHz
+GeForce 6 AGP (6xxx) 系列,GeForce 6800,NV40,"Apr 14th, 2004",AGP 8x,128 MB, DDR, 256 bit,325 MHz,350 MHz
+GeForce 6 AGP (6xxx) 系列,GeForce 6800,NV48,"Apr 14th, 2004",AGP 8x,256 MB, DDR, 256 bit,325 MHz,350 MHz
+GeForce 6 AGP (6xxx) 系列,GeForce 6800 GS,NV40,"Dec 8th, 2005",AGP 8x,256 MB, GDDR3, 256 bit,350 MHz,500 MHz
+GeForce 6 AGP (6xxx) 系列,GeForce 6800 XT,NV42,"Sep 30th, 2005",AGP 8x,256 MB, GDDR3, 256 bit,450 MHz,600 MHz
+GeForce 6 AGP (6xxx) 系列,GeForce 6800 GT,NV40,"Apr 14th, 2004",AGP 8x,128 MB, DDR, 256 bit,350 MHz,250 MHz
+GeForce 6 AGP (6xxx) 系列,GeForce 6800 GT,NV48,"Apr 14th, 2004",AGP 8x,256 MB, GDDR3, 256 bit,350 MHz,500 MHz
+GeForce 6 AGP (6xxx) 系列,GeForce 6800 GT DDL,NV40,"Apr 14th, 2004",AGP Pro 8x,256 MB, GDDR3, 256 bit,350 MHz,500 MHz
+GeForce 6 AGP (6xxx) 系列,GeForce 6800 Ultra,NV40,"Apr 14th, 2004",AGP 8x,256 MB, GDDR3, 256 bit,425 MHz,550 MHz
+GeForce 6 AGP (6xxx) 系列,GeForce 6800 Ultra DDL,NV40,"Apr 14th, 2004",AGP Pro 8x,256 MB, GDDR3, 256 bit,400 MHz,550 MHz
+GeForce 6 PCIe (6xxx) 系列,GeForce 6200 LE,NV44,"Apr 4th, 2005",PCIe 1.0 x16,128 MB, DDR, 64 bit,350 MHz,266 MHz
+GeForce 6 PCIe (6xxx) 系列,GeForce 6200 LE,NV44,"Apr 4th, 2005",PCIe 1.0 x16,64 MB, DDR2, 32 bit,350 MHz,266 MHz
+GeForce 6 PCIe (6xxx) 系列,GeForce 6200 SE TurboCache,NV44,"Dec 15th, 2004",PCIe 1.0 x16,64 MB, DDR, 32 bit,350 MHz,250 MHz
+GeForce 6 PCIe (6xxx) 系列,GeForce 6200,NV43,"Oct 11th, 2004",PCIe 1.0 x16,128 MB, DDR, 128 bit,300 MHz,275 MHz
+GeForce 6 PCIe (6xxx) 系列,GeForce 6500,NV44,"Oct 1st, 2005",PCIe 1.0 x16,128 MB, DDR2, 128 bit,400 MHz,266 MHz
+GeForce 6 PCIe (6xxx) 系列,GeForce 6600 LE,NV43,2005,PCIe 1.0 x16,128 MB, DDR, 128 bit,300 MHz,250 MHz
+GeForce 6 PCIe (6xxx) 系列,GeForce 6600 VE,NV43,"Jan 1st, 2005",PCIe 1.0 x16,128 MB, GDDR3, 128 bit,300 MHz,200 MHz
+GeForce 6 PCIe (6xxx) 系列,GeForce 6600,NV43,"Aug 12th, 2004",PCIe 1.0 x16,256 MB, DDR, 128 bit,300 MHz,250 MHz
+GeForce 6 PCIe (6xxx) 系列,GeForce 6600 GT,NV43,"Aug 12th, 2004",PCIe 1.0 x16,128 MB, GDDR3, 128 bit,500 MHz,500 MHz
+GeForce 6 PCIe (6xxx) 系列,GeForce 6600 GT Dual,NV43,"Aug 12th, 2004",PCIe 1.0 x16,128 MB, GDDR3, 128 bit,500 MHz,560 MHz
+GeForce 6 PCIe (6xxx) 系列,GeForce 6610 XL,NV43,"Nov 14th, 2004",PCIe 1.0 x16,128 MB, GDDR3, 128 bit,400 MHz,400 MHz
+GeForce 6 PCIe (6xxx) 系列,GeForce 6700 XL,NV43,"Nov 14th, 2004",PCIe 1.0 x16,128 MB, GDDR3, 128 bit,525 MHz,550 MHz
+GeForce 6 PCIe (6xxx) 系列,GeForce 6800 LE,NV41,"Jan 16th, 2005",PCIe 1.0 x16,256 MB, DDR, 256 bit,325 MHz,300 MHz
+GeForce 6 PCIe (6xxx) 系列,GeForce 6800 XT,NV41,"Sep 30th, 2005",PCIe 1.0 x16,256 MB, GDDR3, 256 bit,425 MHz,500 MHz
+GeForce 6 PCIe (6xxx) 系列,GeForce 6800,NV41,"Nov 8th, 2004",PCIe 1.0 x16,256 MB, DDR, 256 bit,325 MHz,300 MHz
+GeForce 6 PCIe (6xxx) 系列,GeForce 6800 GTO,NV45,"Apr 14th, 2004",PCIe 1.0 x16,256 MB, GDDR3, 256 bit,350 MHz,500 MHz
+GeForce 6 PCIe (6xxx) 系列,GeForce 6800 GS,NV41,"Nov 7th, 2005",PCIe 1.0 x16,256 MB, GDDR3, 256 bit,425 MHz,500 MHz
+GeForce 6 PCIe (6xxx) 系列,GeForce 6800 GT,NV45,"Jun 8th, 2004",PCIe 1.0 x16,256 MB, GDDR3, 256 bit,350 MHz,500 MHz
+GeForce 6 PCIe (6xxx) 系列,GeForce 6800 GT Dual,NV45,"Jun 8th, 2004",PCIe 1.0 x16,256 MB, GDDR3, 256 bit,350 MHz,500 MHz
+GeForce 6 PCIe (6xxx) 系列,GeForce 6800 Ultra,NV45,"Jul 26th, 2004",PCIe 1.0 x16,256 MB, GDDR3, 256 bit,425 MHz,550 MHz
+GeForce 6 IGP 系列,GeForce 6100,C51,"Oct 11th, 2004",PCI,System Shared,System Shared,System Shared,425 MHz,System Shared
+GeForce 6 IGP 系列,GeForce 6100 + nForce 400,C61,"Oct 11th, 2004",PCI,System Shared,System Shared,System Shared,425 MHz,System Shared
+GeForce 6 IGP 系列,GeForce 6100 + nForce 405,C61,"Oct 11th, 2004",PCI,System Shared,System Shared,System Shared,425 MHz,System Shared
+GeForce 6 IGP 系列,GeForce 6100 + nForce 420,C61,"Oct 11th, 2004",PCI,System Shared,System Shared,System Shared,425 MHz,System Shared
+GeForce 6 IGP 系列,GeForce 6100 + nForce 430,C61,"Oct 11th, 2004",PCI,System Shared,System Shared,System Shared,425 MHz,System Shared
+GeForce 6 IGP 系列,GeForce 6150 LE,C51,"Oct 11th, 2004",PCI,System Shared,System Shared,System Shared,425 MHz,System Shared
+GeForce 6 IGP 系列,GeForce 6150,C51,"Oct 11th, 2004",PCI,System Shared,System Shared,System Shared,475 MHz,System Shared
+GeForce 6 IGP 系列,GeForce 6150 SE + nForce 430,C61,"Oct 11th, 2004",PCI,System Shared,System Shared,System Shared,425 MHz,System Shared
+GeForce 7 AGP (7xxx) 系列,GeForce 7300 GT AGP,G73B,"May 15th, 2006",AGP 8x,128 MB, DDR2, 128 bit,350 MHz,325 MHz
+GeForce 7 AGP (7xxx) 系列,GeForce 7600 GS AGP,G73B,"Jul 1st, 2006",AGP 8x,256 MB, DDR2, 128 bit,400 MHz,400 MHz
+GeForce 7 AGP (7xxx) 系列,GeForce 7600 GS AGP,G71,"Jul 1st, 2006",AGP 8x,256 MB, GDDR3, 128 bit,500 MHz,725 MHz
+GeForce 7 AGP (7xxx) 系列,GeForce 7600 GT AGP,G73B,"Jan 8th, 2007",AGP 8x,256 MB, GDDR3, 128 bit,560 MHz,700 MHz
+GeForce 7 AGP (7xxx) 系列,GeForce 7800 GS AGP,G70,"Feb 2nd, 2006",AGP 8x,256 MB, GDDR3, 256 bit,375 MHz,600 MHz
+GeForce 7 AGP (7xxx) 系列,GeForce 7800 GS 20Pipes AGP,G70,"Feb 2nd, 2006",AGP 8x,512 MB, GDDR3, 256 bit,425 MHz,625 MHz
+GeForce 7 AGP (7xxx) 系列,GeForce 7800 GS 24Pipes AGP,G70,"Feb 2nd, 2006",AGP 8x,512 MB, GDDR3, 256 bit,425 MHz,625 MHz
+GeForce 7 AGP (7xxx) 系列,GeForce 7800 GS+ AGP,G71,"Sep 28th, 2006",AGP 8x,256 MB, GDDR3, 256 bit,375 MHz,600 MHz
+GeForce 7 AGP (7xxx) 系列,GeForce 7800 GS+ 20Pipes AGP,G71,"Sep 28th, 2006",AGP 8x,512 MB, GDDR3, 256 bit,425 MHz,625 MHz
+GeForce 7 AGP (7xxx) 系列,GeForce 7800 GS+ 24Pipes AGP,G71,"Sep 28th, 2006",AGP 8x,512 MB, GDDR3, 256 bit,425 MHz,625 MHz
+GeForce 7 AGP (7xxx) 系列,GeForce 7900 GS AGP,G71,"Apr 2nd, 2006",AGP 8x,256 MB, GDDR3, 256 bit,450 MHz,660 MHz
+GeForce 7 AGP (7xxx) 系列,GeForce 7950 GT AGP,G71,"Apr 2nd, 2007",AGP 8x,512 MB, GDDR3, 256 bit,500 MHz,600 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7100 GS,NV44B,"Aug 8th, 2006",PCIe 1.0 x16,128 MB, DDR2, 64 bit,350 MHz,266 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7200 GS,G72,"Jan 18th, 2006",PCIe 1.0 x16,128 MB, DDR2, 64 bit,450 MHz,334 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7300 SE,G72,"Mar 22nd, 2006",PCIe 1.0 x16,256 MB, DDR2, 64 bit,450 MHz,266 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7300 GS,G72,"Jan 18th, 2006",PCIe 1.0 x16,256 MB, DDR2, 64 bit,450 MHz,266 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7300 GS Low Profile,G72,"Jan 18th, 2006",PCIe 1.0 x16,256 MB, DDR2, 64 bit,450 MHz,266 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7300 LE,G72,"Mar 22nd, 2006",PCIe 1.0 x16,128 MB, DDR2, 64 bit,450 MHz,324 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7300 GT,G73,"May 15th, 2006",PCIe 1.0 x16,128 MB, DDR2, 128 bit,350 MHz,325 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7300 GT,G73B,"May 15th, 2006",PCIe 1.0 x16,128 MB, DDR2, 128 bit,350 MHz,325 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7300 GT Mac Edition,G73,"Aug 26th, 2006",PCIe 1.0 x16,128 MB, GDDR3, 128 bit,350 MHz,500 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7350 LE,G72,"Mar 22nd, 2006",PCIe 1.0 x16,128 MB, DDR2, 64 bit,450 MHz,400 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7500 LE,G72,"Mar 22nd, 2006",PCIe 1.0 x16,64 MB, DDR2, 64 bit,475 MHz,405 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7600 LE,G73B,"Mar 22nd, 2006",PCIe 1.0 x16,256 MB, DDR2, 128 bit,400 MHz,400 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7600 GS,G73B,"Mar 22nd, 2006",PCIe 1.0 x16,256 MB, DDR2, 128 bit,400 MHz,400 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7600 GT Mac Edition,G73,"Sep 2nd, 2006",PCIe 1.0 x16,256 MB, GDDR3, 128 bit,560 MHz,700 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7600 GT Mac Edition,G73B,"Sep 2nd, 2006",PCIe 1.0 x16,256 MB, GDDR3, 128 bit,560 MHz,700 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7600 GT,G73B,"Mar 9th, 2006",PCIe 1.0 x16,256 MB, GDDR3, 128 bit,560 MHz,700 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7650 GS,G73B,"Mar 22nd, 2006",PCIe 1.0 x16,256 MB, DDR2, 128 bit,450 MHz,400 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7800 GT,G70,"Aug 11th, 2005",PCIe 1.0 x16,256 MB, GDDR3, 256 bit,400 MHz,500 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7800 GTX,G70,"Jun 22nd, 2005",PCIe 1.0 x16,256 MB, GDDR3, 256 bit,430 MHz,600 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7800 GTX 512,G70,"Nov 14th, 2005",PCIe 1.0 x16,512 MB, GDDR3, 256 bit,500 MHz,800 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7800 GT Dual,G70,"Aug 11th, 2005",PCIe 1.0 x16,256 MB, GDDR3, 256 bit,400 MHz,500 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7900 GS,G71,"May 1st, 2006",PCIe 1.0 x16,256 MB, GDDR3, 256 bit,450 MHz,660 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7900 GT,G71,"Mar 9th, 2006",PCIe 1.0 x16,256 MB, GDDR3, 256 bit,450 MHz,660 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7900 GTO,G71,"Oct 1st, 2006",PCIe 1.0 x16,512 MB, GDDR3, 256 bit,650 MHz,660 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7900 GTX,G71,"Mar 9th, 2006",PCIe 1.0 x16,512 MB, GDDR3, 256 bit,650 MHz,800 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7900 GX2,G71,"Apr 30th, 2006",PCIe 1.0 x16,512 MB, GDDR3, 256 bit,500 MHz,600 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7950 GT,G71,"Aug 6th, 2006",PCIe 1.0 x16,512 MB, GDDR3, 256 bit,550 MHz,700 MHz
+GeForce 7 PCIe (7xxx) 系列,GeForce 7950 GX2,G71,"Jun 5th, 2006",PCIe 1.0 x16,512 MB, GDDR3, 256 bit,500 MHz,600 MHz
+GeForce 7 IGP 系列,GeForce 7050 + nForce 630i,C73,"Oct 4th, 2007",PCI,System Shared,System Shared,System Shared,500 MHz,System Shared
+GeForce 7 IGP 系列,GeForce 7050 + nForce 610i,C73B,"Jan 13th, 2008",PCI,System Shared,System Shared,System Shared,500 MHz,System Shared
+GeForce 7 IGP 系列,GeForce 7050 + nForce 620i,C73,"Oct 4th, 2007",PCI,System Shared,System Shared,System Shared,500 MHz,System Shared
+GeForce 7 IGP 系列,GeForce 7050 SE + nForce 630a,C68,"Feb 1st, 2006",PCI,System Shared,System Shared,System Shared,425 MHz,System Shared
+GeForce 7 IGP 系列,GeForce 7050 PV + nForce 630a,C68,"Feb 1st, 2006",PCI,System Shared,System Shared,System Shared,425 MHz,System Shared
+GeForce 7 IGP 系列,GeForce 7050 + nForce 630a,C61,"Feb 1st, 2006",PCI,System Shared,System Shared,System Shared,425 MHz,System Shared
+GeForce 7 IGP 系列,GeForce 7025 + nForce 630a,C61,"Feb 1st, 2006",PCI,System Shared,System Shared,System Shared,425 MHz,System Shared
+GeForce 7 IGP 系列,GeForce 7025 + nForce 630a,C67,"Feb 1st, 2006",PCI,System Shared,System Shared,System Shared,425 MHz,System Shared
+GeForce 7 IGP 系列,GeForce 7025 + nForce 630a,C68,"Feb 1st, 2006",PCI,System Shared,System Shared,System Shared,425 MHz,System Shared
+GeForce 7 IGP 系列,GeForce 7100 + nForce 630i,C73,"Oct 4th, 2007",PCI,System Shared,System Shared,System Shared,600 MHz,System Shared
+GeForce 7 IGP 系列,GeForce 7150 + nForce 630i,C73,"Nov 16th, 2007",PCI,System Shared,System Shared,System Shared,630 MHz,System Shared
+GeForce 8 (8xxx) 系列,GeForce 8300 GS,G86S,"Apr 17th, 2007",PCIe 1.0 x16,128 MB, DDR2, 64 bit,459 MHz,400 MHz
+GeForce 8 (8xxx) 系列,GeForce 8400 GS PCI,G98S,"Dec 4th, 2007",PCI,512 MB, DDR2, 64 bit,567 MHz,333 MHz
+GeForce 8 (8xxx) 系列,GeForce 8400 GS PCI Rev. 2,GT218S,"Apr 17th, 2007",PCI,512 MB, DDR3, 64 bit,520 MHz,500 MHz
+GeForce 8 (8xxx) 系列,GeForce 8400,G98S,"Dec 4th, 2007",PCIe 2.0 x16,256 MB, DDR2, 64 bit,540 MHz,500 MHz
+GeForce 8 (8xxx) 系列,GeForce 8400 GS Rev. 2,G98S,"Dec 4th, 2007",PCIe 2.0 x16,512 MB, DDR2, 64 bit,567 MHz,400 MHz
+GeForce 8 (8xxx) 系列,GeForce 8400 GS Rev. 3,GT218S,"Jul 12th, 2010",PCIe 2.0 x16,512 MB, DDR2, 64 bit,520 MHz,400 MHz
+GeForce 8 (8xxx) 系列,GeForce 8400 SE,G86S,"Aug 1st, 2008",PCIe 1.0 x16,128 MB, DDR2, 64 bit,459 MHz,400 MHz
+GeForce 8 (8xxx) 系列,GeForce 8400 GS,G86S,"Apr 17th, 2007",PCIe 1.0 x16,256 MB, DDR2, 64 bit,459 MHz,400 MHz
+GeForce 8 (8xxx) 系列,GeForce 8500 GT,G86,"Apr 17th, 2007",PCIe 1.0 x16,256 MB, GDDR3, 128 bit,459 MHz,400 MHz
+GeForce 8 (8xxx) 系列,GeForce 8600 GS,G84,"Apr 17th, 2007",PCIe 1.0 x16,512 MB, DDR2, 128 bit,540 MHz,400 MHz
+GeForce 8 (8xxx) 系列,GeForce 8600 GT,G84,"Apr 17th, 2007",PCIe 1.0 x16,512 MB, GDDR3, 128 bit,540 MHz,700 MHz
+GeForce 8 (8xxx) 系列,GeForce 8600 GT Mac Edition,G84,"Apr 17th, 2007",PCIe 1.0 x16,128 MB, GDDR3, 128 bit,600 MHz,750 MHz
+GeForce 8 (8xxx) 系列,GeForce 8600 GTS,G84,"Apr 17th, 2007",PCIe 1.0 x16,256 MB, GDDR3, 128 bit,675 MHz,1000 MHz
+GeForce 8 (8xxx) 系列,GeForce 8600 GTS Mac Edition,G84,"Sep 21st, 2007",PCIe 1.0 x16,512 MB, GDDR3, 128 bit,675 MHz,1008 MHz
+GeForce 8 (8xxx) 系列,GeForce 8800 GS,G92,"Jan 31st, 2008",PCIe 2.0 x16,384 MB, GDDR3, 192 bit,550 MHz,800 MHz
+GeForce 8 (8xxx) 系列,GeForce 8800 GT,G92,"Oct 29th, 2007",PCIe 2.0 x16,512 MB, GDDR3, 256 bit,600 MHz,900 MHz
+GeForce 8 (8xxx) 系列,GeForce 8800 GT Mac Edition,G92,"Feb 1st, 2008",PCIe 2.0 x16,512 MB, GDDR3, 256 bit,600 MHz,900 MHz
+GeForce 8 (8xxx) 系列,GeForce 8800 GTS 320,G80,"Feb 12th, 2007",PCIe 1.0 x16,320 MB, GDDR3, 320 bit,513 MHz,792 MHz
+GeForce 8 (8xxx) 系列,GeForce 8800 GTS 512,G92,"Dec 11th, 2007",PCIe 2.0 x16,512 MB, GDDR3, 256 bit,650 MHz,820 MHz
+GeForce 8 (8xxx) 系列,GeForce 8800 GTS 640,G80,"Nov 8th, 2006",PCIe 1.0 x16,640 MB, GDDR3, 320 bit,513 MHz,792 MHz
+GeForce 8 (8xxx) 系列,GeForce 8800 GTS Core 112,G80,"Nov 19th, 2007",PCIe 1.0 x16,640 MB, GDDR3, 320 bit,500 MHz,800 MHz
+GeForce 8 (8xxx) 系列,GeForce 8800 GTX,G80,"Nov 8th, 2006",PCIe 1.0 x16,768 MB, GDDR3, 384 bit,576 MHz,900 MHz
+GeForce 8 (8xxx) 系列,GeForce 8800 Ultra,G80,"May 2nd, 2007",PCIe 1.0 x16,768 MB, GDDR3, 384 bit,612 MHz,1080 MHz
+GeForce 8 IGP 系列,GeForce 8100 + nForce 720a,C78,"Apr 17th, 2007",PCI,System Shared,System Shared,System Shared,500 MHz,System Shared
+GeForce 8 IGP 系列,GeForce 8200,C78,"Apr 17th, 2007",PCI,System Shared,System Shared,System Shared,500 MHz,System Shared
+GeForce 8 IGP 系列,GeForce 8300,C78,"Apr 17th, 2007",PCI,System Shared,System Shared,System Shared,500 MHz,System Shared
+GeForce 9 (9xxx) 系列,GeForce 9300 GE,G98,"Jun 1st, 2008",PCIe 2.0 x16,256 MB, DDR2, 64 bit,540 MHz,400 MHz
+GeForce 9 (9xxx) 系列,GeForce 9300 SE,G98S,"Jun 1st, 2008",PCIe 2.0 x16,256 MB, DDR2, 64 bit,540 MHz,400 MHz
+GeForce 9 (9xxx) 系列,GeForce 9300 GS,G98S,"Jun 1st, 2008",PCIe 2.0 x16,512 MB, DDR2, 64 bit,567 MHz,333 MHz
+GeForce 9 (9xxx) 系列,GeForce 9300 GS Rev. 2,GT218S,"Mar 12th, 2011",PCIe 2.0 x16,256 MB, DDR2, 64 bit,589 MHz,333 MHz
+GeForce 9 (9xxx) 系列,GeForce 9400 GT PCI,G96C,"Aug 27th, 2008",PCI,256 MB, DDR2, 128 bit,550 MHz,400 MHz
+GeForce 9 (9xxx) 系列,GeForce 9400 GT,G96C,"Aug 27th, 2008",PCIe 2.0 x16,512 MB, DDR2, 128 bit,550 MHz,400 MHz
+GeForce 9 (9xxx) 系列,GeForce 9400 GT,G86S,"Aug 1st, 2008",PCIe 2.0 x16,128 MB, DDR2, 64 bit,459 MHz,600 MHz
+GeForce 9 (9xxx) 系列,GeForce 9400 GT Rev. 2,G96C,"Aug 27th, 2008",PCIe 2.0 x16,512 MB, GDDR3, 128 bit,550 MHz,400 MHz
+GeForce 9 (9xxx) 系列,GeForce 9400 GT Rev. 3,GT218S,"Jun 13th, 2012",PCIe 2.0 x16,128 MB, DDR2, 64 bit,589 MHz,600 MHz
+GeForce 9 (9xxx) 系列,GeForce 9500 GS,G96,"Jul 29th, 2008",PCIe 2.0 x16,512 MB, DDR2, 128 bit,550 MHz,504 MHz
+GeForce 9 (9xxx) 系列,GeForce 9500 GS Rev. 2,G96C,"Jul 29th, 2008",PCIe 2.0 x16,512 MB, DDR2, 128 bit,500 MHz,500 MHz
+GeForce 9 (9xxx) 系列,GeForce 9500 GT,G96,"Jul 29th, 2008",PCIe 2.0 x16,512 MB, GDDR3, 128 bit,600 MHz,1000 MHz
+GeForce 9 (9xxx) 系列,GeForce 9500 GT Rev. 2,G96B,"Jul 29th, 2008",PCIe 2.0 x16,512 MB, GDDR3, 128 bit,600 MHz,900 MHz
+GeForce 9 (9xxx) 系列,GeForce 9500 GT Rev. 3,G96C,"Jul 29th, 2008",PCIe 2.0 x16,512 MB, GDDR3, 128 bit,550 MHz,800 MHz
+GeForce 9 (9xxx) 系列,GeForce 9500 GT Mac Edition,G96C,"May 19th, 2010",PCIe 2.0 x16,512 MB, GDDR3, 128 bit,550 MHz,800 MHz
+GeForce 9 (9xxx) 系列,GeForce 9600 GS OEM,G94,"Jul 29th, 2008",PCIe 2.0 x16,768 MB, DDR2, 192 bit,500 MHz,1000 MHz
+GeForce 9 (9xxx) 系列,GeForce 9600 GSO 512,G94,"Oct 23rd, 2008",PCIe 2.0 x16,512 MB, GDDR3, 256 bit,650 MHz,900 MHz
+GeForce 9 (9xxx) 系列,GeForce 9600 GT Green Edition,G94,"Feb 21st, 2008",PCIe 2.0 x16,512 MB, GDDR3, 256 bit,600 MHz,700 MHz
+GeForce 9 (9xxx) 系列,GeForce 9600 GT,G94,"Feb 21st, 2008",PCIe 2.0 x16,512 MB, GDDR3, 256 bit,650 MHz,900 MHz
+GeForce 9 (9xxx) 系列,GeForce 9600 GT Rev. 2,G94B,"Feb 21st, 2008",PCIe 2.0 x16,512 MB, GDDR3, 256 bit,650 MHz,900 MHz
+GeForce 9 (9xxx) 系列,GeForce 9600 GT Mac Edition,G94,"Dec 22nd, 2008",PCIe 2.0 x16,1024 MB, DDR2, 256 bit,600 MHz,266 MHz
+GeForce 9 (9xxx) 系列,GeForce 9600 GSO,G92,"Apr 28th, 2008",PCIe 2.0 x16,384 MB, GDDR3, 192 bit,550 MHz,800 MHz
+GeForce 9 (9xxx) 系列,GeForce 9600 GTX,G92,"May 27th, 2009",PCIe 2.0 x16,512 MB, GDDR3, 256 bit,580 MHz,700 MHz
+GeForce 9 (9xxx) 系列,GeForce 9800 GT,G92B,"Jul 21st, 2008",PCIe 2.0 x16,512 MB, GDDR3, 256 bit,600 MHz,900 MHz
+GeForce 9 (9xxx) 系列,GeForce 9800 GT,G92,"Jul 21st, 2008",PCIe 2.0 x16,512 MB, GDDR3, 256 bit,600 MHz,900 MHz
+GeForce 9 (9xxx) 系列,GeForce 9800 GT Rebrand,G92,"Jul 21st, 2008",PCIe 2.0 x16,512 MB, GDDR3, 256 bit,725 MHz,1000 MHz
+GeForce 9 (9xxx) 系列,GeForce 9800 GTX,G92,"Mar 28th, 2008",PCIe 2.0 x16,512 MB, GDDR3, 256 bit,675 MHz,1100 MHz
+GeForce 9 (9xxx) 系列,GeForce 9800 GTX+,G92B,"Jan 16th, 2009",PCIe 2.0 x16,512 MB, GDDR3, 256 bit,738 MHz,1100 MHz
+GeForce 9 (9xxx) 系列,GeForce 9800 GX2,G92,"Mar 18th, 2008",PCIe 2.0 x16,512 MB, GDDR3, 256 bit,600 MHz,1000 MHz
+GeForce 9 IGP 系列,GeForce 9100,C78,"Apr 17th, 2007",PCI,System Shared,System Shared,System Shared,500 MHz,System Shared
+GeForce 9 IGP 系列,GeForce 9200,C78,"Apr 17th, 2007",PCI,System Shared,System Shared,System Shared,500 MHz,System Shared
+GeForce 9 IGP 系列,GeForce 9200,C79,"Apr 17th, 2007",PCI,System Shared,System Shared,System Shared,450 MHz,System Shared
+GeForce 9 IGP 系列,GeForce 9300 + nForce 730i,C79,"Apr 17th, 2007",PCI,System Shared,System Shared,System Shared,450 MHz,System Shared
+GeForce 9 IGP 系列,GeForce 9400,C79,"Apr 17th, 2007",PCI,System Shared,System Shared,System Shared,450 MHz,System Shared
+GeForce 9 IGP 系列,GeForce 9400,C7A,"Apr 17th, 2007",PCI,System Shared,System Shared,System Shared,580 MHz,System Shared
+GeForce 100 系列,GeForce G100 OEM,G98S,"Mar 10th, 2009",PCIe 2.0 x16,256 MB, DDR2, 64 bit,540 MHz,400 MHz
+GeForce 100 系列,GeForce GT 120 OEM,G96C,"Mar 10th, 2009",PCIe 2.0 x16,512 MB, DDR2, 128 bit,738 MHz,504 MHz
+GeForce 100 系列,GeForce GT 120 Mac Edition,G96C,"Jan 20th, 2009",PCIe 2.0 x16,512 MB, GDDR3, 128 bit,550 MHz,800 MHz
+GeForce 100 系列,GeForce GT 130 OEM,G94B,"Mar 10th, 2009",PCIe 2.0 x16,512 MB, DDR2, 192 bit,500 MHz,500 MHz
+GeForce 100 系列,GeForce GT 130 Mac Edition,G94B,"Dec 12th, 2008",PCIe 2.0 x16,512 MB, GDDR3, 192 bit,600 MHz,792 MHz
+GeForce 100 系列,GeForce GT 140 OEM,G94B,"Mar 10th, 2009",PCIe 2.0 x16,1024 MB, GDDR3, 256 bit,650 MHz,900 MHz
+GeForce 100 系列,GeForce GTS 150 OEM,G92,"Mar 10th, 2009",PCIe 2.0 x16,1024 MB, GDDR3, 256 bit,738 MHz,1000 MHz
+GeForce 200 系列,GeForce 205 OEM,GT218S,"Nov 26th, 2009",PCIe 2.0 x16,512 MB, DDR2, 64 bit,589 MHz,400 MHz
+GeForce 200 系列,GeForce 210 PCI,GT216,"Oct 12th, 2009",PCI,512 MB, DDR2, 64 bit,475 MHz,400 MHz
+GeForce 200 系列,GeForce 210 OEM,GT216,"Sep 4th, 2009",PCIe 2.0 x16,1024 MB, DDR2, 64 bit,475 MHz,400 MHz
+GeForce 200 系列,GeForce 210,GT218S,"Oct 12th, 2009",PCIe 2.0 x16,512 MB, DDR3, 64 bit,520 MHz,400 MHz
+GeForce 200 系列,GeForce 210 Rev. 2,GT218S,"Oct 12th, 2009",PCIe 2.0 x16,1024 MB, DDR3, 64 bit,520 MHz,400 MHz
+GeForce 200 系列,GeForce G210 OEM,G96C,"May 26th, 2009",PCIe 1.0 x16,512 MB, DDR2, 64 bit,550 MHz,504 MHz
+GeForce 200 系列,GeForce G210 OEM Rev. 2,GT218S,"Aug 24th, 2009",PCIe 2.0 x16,128 MB, DDR2, 64 bit,589 MHz,400 MHz
+GeForce 200 系列,GeForce GT 220 OEM,GT215,"Oct 12th, 2009",PCIe 2.0 x16,512 MB, GDDR3, 128 bit,506 MHz,700 MHz
+GeForce 200 系列,GeForce GT 220,GT216,"Oct 12th, 2009",PCIe 2.0 x16,512 MB, DDR2, 128 bit,615 MHz,1000 MHz
+GeForce 200 系列,GeForce GT 220,G94,"Jan 26th, 2010",PCIe 2.0 x16,1024 MB, GDDR3, 128 bit,600 MHz,700 MHz
+GeForce 200 系列,GeForce GT 230 OEM,G92B,"Apr 27th, 2009",PCIe 2.0 x16,1536 MB, DDR2, 192 bit,500 MHz,500 MHz
+GeForce 200 系列,GeForce GT 230,G94B,"Oct 12th, 2009",PCIe 2.0 x16,512 MB, GDDR3, 256 bit,650 MHz,900 MHz
+GeForce 200 系列,GeForce GTS 240 OEM,G92B,"Jul 1st, 2009",PCIe 2.0 x16,1024 MB, GDDR3, 256 bit,675 MHz,1100 MHz
+GeForce 200 系列,GeForce GT 240,GT215,"Nov 17th, 2009",PCIe 2.0 x16,1024 MB, GDDR5, 128 bit,550 MHz,850 MHz
+GeForce 200 系列,GeForce GTS 250,G92B,"Mar 4th, 2009",PCIe 2.0 x16,1024 MB, GDDR3, 256 bit,675 MHz,1008 MHz
+GeForce 200 系列,GeForce GTS 250,G92B,"Mar 4th, 2009",PCIe 2.0 x16,1024 MB, GDDR3, 256 bit,702 MHz,1000 MHz
+GeForce 200 系列,GeForce GTX 260 OEM,GT200,"Dec 8th, 2009",PCIe 2.0 x16,1792 MB, GDDR3, 448 bit,518 MHz,1008 MHz
+GeForce 200 系列,GeForce GTX 260,GT200,"Jun 16th, 2008",PCIe 2.0 x16,896 MB, GDDR3, 448 bit,576 MHz,999 MHz
+GeForce 200 系列,GeForce GTX 260 Rev. 2,GT200B,"Jul 23rd, 2008",PCIe 2.0 x16,896 MB, GDDR3, 448 bit,576 MHz,999 MHz
+GeForce 200 系列,GeForce GTX 260 Core 216,GT200,"Sep 16th, 2008",PCIe 2.0 x16,896 MB, GDDR3, 448 bit,576 MHz,999 MHz
+GeForce 200 系列,GeForce GTX 260 Core 216 Rev. 2,GT200B,"Nov 27th, 2008",PCIe 2.0 x16,896 MB, GDDR3, 448 bit,576 MHz,999 MHz
+GeForce 200 系列,GeForce GTX 275,GT200B,"Jan 15th, 2009",PCIe 2.0 x16,896 MB, GDDR3, 448 bit,633 MHz,1134 MHz
+GeForce 200 系列,GeForce GTX 275 PhysX Edition,GT200B,"Feb 16th, 2010",PCIe 2.0 x16,896 MB, GDDR3, 448 bit,633 MHz,1134 MHz
+GeForce 200 系列,GeForce GTX 280,GT200,"Jun 16th, 2008",PCIe 2.0 x16,1024 MB, GDDR3, 512 bit,602 MHz,1107 MHz
+GeForce 200 系列,GeForce GTX 285 Mac Edition,GT200B,"Jan 15th, 2009",PCIe 2.0 x16,1024 MB, GDDR3, 512 bit,648 MHz,1242 MHz
+GeForce 200 系列,GeForce GTX 285,GT200B,"Dec 23rd, 2008",PCIe 2.0 x16,1024 MB, GDDR3, 512 bit,648 MHz,1242 MHz
+GeForce 200 系列,GeForce GTX 285 X2,GT200B,"Jun 17th, 2009",PCIe 2.0 x16,2 GB, GDDR3, 512 bit,648 MHz,1152 MHz
+GeForce 200 系列,GeForce GTX 295,GT200B,"Jan 8th, 2009",PCIe 2.0 x16,896 MB, GDDR3, 448 bit,576 MHz,999 MHz
+GeForce 200 系列,GeForce GTX 295 Single PCB,GT200B,"Jun 16th, 2009",PCIe 2.0 x16,896 MB, GDDR3, 448 bit,576 MHz,1008 MHz
+GeForce 300 系列,GeForce 310 OEM,GT218S,"Nov 27th, 2009",PCIe 2.0 x16,512 MB, DDR2, 64 bit,589 MHz,333 MHz
+GeForce 300 系列,GeForce 315 OEM,GT218S,"Feb 22nd, 2011",PCIe 2.0 x16,1024 MB, DDR3, 64 bit,589 MHz,600 MHz
+GeForce 300 系列,GeForce 315 OEM,GT215,"Apr 28th, 2011",PCIe 2.0 x16,256 MB, DDR2, 64 bit,506 MHz,350 MHz
+GeForce 300 系列,GeForce 315 OEM,GT216,"Mar 31st, 2010",PCIe 2.0 x16,512 MB, DDR3, 64 bit,475 MHz,790 MHz
+GeForce 300 系列,GeForce GT 320 OEM,GT215,"Feb 2nd, 2010",PCIe 2.0 x16,1024 MB, GDDR3, 128 bit,540 MHz,790 MHz
+GeForce 300 系列,GeForce GT 330 OEM,GT215,"Feb 2nd, 2010",PCIe 2.0 x16,1024 MB, GDDR3, 128 bit,540 MHz,790 MHz
+GeForce 300 系列,GeForce GT 330 OEM,GT215,"Feb 2nd, 2010",PCIe 2.0 x16,512 MB, GDDR3, 128 bit,550 MHz,1000 MHz
+GeForce 300 系列,GeForce GT 330 OEM,G92B,"Feb 2nd, 2010",PCIe 2.0 x16,256 MB, DDR2, 128 bit,500 MHz,510 MHz
+GeForce 300 系列,GeForce GT 330 OEM,G92,"Feb 2nd, 2010",PCIe 2.0 x16,1024 MB, GDDR3, 256 bit,500 MHz,800 MHz
+GeForce 300 系列,GeForce GT 340 OEM,GT215,"Feb 2nd, 2010",PCIe 2.0 x16,1024 MB, GDDR3, 128 bit,550 MHz,850 MHz
+GeForce 400 系列,GeForce 405 OEM,GT218S,"Sep 3rd, 2010",PCIe 2.0 x16,512 MB, DDR3, 64 bit,589 MHz,790 MHz
+GeForce 400 系列,GeForce 405 OEM,GT216,"Sep 3rd, 2010",PCIe 2.0 x16,1024 MB, DDR2, 128 bit,475 MHz,400 MHz
+GeForce 400 系列,GeForce 405 OEM,GT216,"Sep 3rd, 2010",PCIe 2.0 x16,512 MB, DDR3, 64 bit,475 MHz,800 MHz
+GeForce 400 系列,GeForce GT 415 OEM,GT216,"Sep 3rd, 2010",PCIe 2.0 x16,512 MB, DDR3, 128 bit,625 MHz,333 MHz
+GeForce 400 系列,GeForce GT 420 OEM,GF108,"Sep 3rd, 2010",PCIe 2.0 x16,1024 MB, DDR3, 128 bit,700 MHz,900 MHz
+GeForce 400 系列,GeForce GT 430 PCI,GF108,"Oct 11th, 2010",PCI,512 MB, DDR3, 64 bit,700 MHz,600 MHz
+GeForce 400 系列,GeForce GT 430,GF108,"Oct 11th, 2010",PCIe 2.0 x16,512 MB, DDR3, 64 bit,700 MHz,800 MHz
+GeForce 400 系列,GeForce GT 430 OEM,GF108,"Oct 11th, 2010",PCIe 2.0 x16,2 GB, DDR3, 128 bit,700 MHz,800 MHz
+GeForce 400 系列,GeForce GT 440,GF108,"Feb 1st, 2011",PCIe 2.0 x16,1024 MB, DDR3, 128 bit,810 MHz,900 MHz
+GeForce 400 系列,GeForce GT 440 Mac Edition,GF108,"Feb 9th, 2011",PCIe 1.0 x16,1024 MB, DDR3, 128 bit,810 MHz,667 MHz
+GeForce 400 系列,GeForce GT 440 OEM,GF106,"Oct 11th, 2010",PCIe 2.0 x16,1536 MB, DDR3, 192 bit,810 MHz,900 MHz
+GeForce 400 系列,GeForce GTS 450 OEM,GF106,"Sep 13th, 2010",PCIe 2.0 x16,512 MB, GDDR5, 128 bit,783 MHz,902 MHz
+GeForce 400 系列,GeForce GTS 450 OEM,GF106,"Oct 11th, 2010",PCIe 2.0 x16,1536 MB, GDDR5, 192 bit,790 MHz,1000 MHz
+GeForce 400 系列,GeForce GTS 450,GF106,"Sep 13th, 2010",PCIe 2.0 x16,1024 MB, GDDR5, 128 bit,783 MHz,902 MHz
+GeForce 400 系列,GeForce GTS 450 Rev. 2,GF116,"Mar 15th, 2011",PCIe 2.0 x16,1024 MB, GDDR5, 128 bit,783 MHz,902 MHz
+GeForce 400 系列,GeForce GTS 450 Rev. 3,GF116,"Jul 11th, 2012",PCIe 2.0 x16,1024 MB, DDR3, 128 bit,783 MHz,700 MHz
+GeForce 400 系列,GeForce GTX 460 SE,GF104,"Nov 15th, 2010",PCIe 2.0 x16,1024 MB, GDDR5, 256 bit,650 MHz,850 MHz
+GeForce 400 系列,GeForce GTX 460 SE v2,GF114,"Nov 15th, 2010",PCIe 2.0 x16,768 MB, GDDR5, 192 bit,650 MHz,850 MHz
+GeForce 400 系列,GeForce GTX 460 OEM,GF104,"Oct 11th, 2010",PCIe 2.0 x16,1024 MB, GDDR5, 256 bit,650 MHz,850 MHz
+GeForce 400 系列,GeForce GTX 460,GF104,"Jul 12th, 2010",PCIe 2.0 x16,768 MB, GDDR5, 192 bit,675 MHz,900 MHz
+GeForce 400 系列,GeForce GTX 460,GF104,"Jul 12th, 2010",PCIe 2.0 x16,1024 MB, GDDR5, 256 bit,675 MHz,900 MHz
+GeForce 400 系列,GeForce GTX 460 v2,GF114,"Sep 24th, 2011",PCIe 2.0 x16,1024 MB, GDDR5, 192 bit,779 MHz,1002 MHz
+GeForce 400 系列,GeForce GTX 460 v2 ES,GF114,"Sep 24th, 2011",PCIe 2.0 x16,1280 MB, GDDR5, 256 bit,779 MHz,1002 MHz
+GeForce 400 系列,GeForce GTX 460 X2,GF104,"Mar 11th, 2011",PCIe 2.0 x16,1024 MB, GDDR5, 256 bit,701 MHz,900 MHz
+GeForce 400 系列,GeForce GTX 465,GF100,"May 31st, 2010",PCIe 2.0 x16,1024 MB, GDDR5, 256 bit,608 MHz,802 MHz
+GeForce 400 系列,GeForce GTX 470,GF100,"Mar 26th, 2010",PCIe 2.0 x16,1280 MB, GDDR5, 320 bit,608 MHz,837 MHz
+GeForce 400 系列,GeForce GTX 480,GF100,"Mar 26th, 2010",PCIe 2.0 x16,1536 MB, GDDR5, 384 bit,701 MHz,924 MHz
+GeForce 500 系列,GeForce 505 OEM,GT218S,"Jan 6th, 2013",PCIe 1.0 x16,512 MB, DDR3, 64 bit,589 MHz,600 MHz
+GeForce 500 系列,GeForce 505 OEM,GT216,"Feb 17th, 2013",PCIe 1.0 x16,1024 MB, DDR3, 128 bit,615 MHz,700 MHz
+GeForce 500 系列,GeForce 510 OEM,GF119S,"Sep 29th, 2011",PCIe 2.0 x16,1024 MB, DDR3, 64 bit,523 MHz,898 MHz
+GeForce 500 系列,GeForce GT 520 PCI,GF119S,"Apr 13th, 2011",PCI,1024 MB, DDR3, 64 bit,810 MHz,900 MHz
+GeForce 500 系列,GeForce GT 520 PCIe x1,GF119S,"Apr 13th, 2011",PCIe 2.0 x1,1024 MB, DDR3, 64 bit,810 MHz,900 MHz
+GeForce 500 系列,GeForce GT 520 OEM,GF108,"Feb 1st, 2012",PCIe 2.0 x16,1024 MB, DDR3, 64 bit,700 MHz,667 MHz
+GeForce 500 系列,GeForce GT 520 OEM,GF119S,"Aug 20th, 2012",PCIe 2.0 x16,1024 MB, DDR3, 64 bit,589 MHz,500 MHz
+GeForce 500 系列,GeForce GT 520,GF119S,"Apr 13th, 2011",PCIe 2.0 x16,1024 MB, DDR3, 64 bit,810 MHz,900 MHz
+GeForce 500 系列,GeForce GT 530 OEM,GF108,"May 14th, 2011",PCIe 2.0 x16,1024 MB, DDR3, 128 bit,700 MHz,900 MHz
+GeForce 500 系列,GeForce GT 545 OEM,GF116,"May 14th, 2011",PCIe 2.0 x16,1024 MB, GDDR5, 128 bit,871 MHz,1000 MHz
+GeForce 500 系列,GeForce GT 545,GF116,"May 14th, 2011",PCIe 2.0 x16,1536 MB, DDR3, 192 bit,720 MHz,800 MHz
+GeForce 500 系列,GeForce GTX 550 Ti,GF116,"Mar 15th, 2011",PCIe 2.0 x16,1024 MB, GDDR5, 192 bit,900 MHz,1026 MHz
+GeForce 500 系列,GeForce GTX 555 OEM,GF114,"May 14th, 2011",PCIe 2.0 x16,1024 MB, GDDR5, 192 bit,736 MHz,957 MHz
+GeForce 500 系列,GeForce GTX 560 SE,GF114,"Feb 20th, 2012",PCIe 2.0 x16,1024 MB, GDDR5, 192 bit,736 MHz,957 MHz
+GeForce 500 系列,GeForce GTX 560,GF114,"May 17th, 2011",PCIe 2.0 x16,1024 MB, GDDR5, 256 bit,810 MHz,1000 MHz
+GeForce 500 系列,GeForce GTX 560 OEM,GF110,"Nov 29th, 2011",PCIe 2.0 x16,1280 MB, GDDR5, 320 bit,552 MHz,802 MHz
+GeForce 500 系列,GeForce GTX 560 Ti OEM,GF110,"Mar 30th, 2011",PCIe 2.0 x16,1280 MB, GDDR5, 256 bit,732 MHz,950 MHz
+GeForce 500 系列,GeForce GTX 560 Ti,GF114,"Jan 25th, 2011",PCIe 2.0 x16,1024 MB, GDDR5, 256 bit,823 MHz,1002 MHz
+GeForce 500 系列,GeForce GTX 560 Ti OEM,GF114,"Mar 8th, 2011",PCIe 2.0 x16,1024 MB, GDDR5, 256 bit,823 MHz,1002 MHz
+GeForce 500 系列,GeForce GTX 560 Ti 448,GF110,"Nov 29th, 2011",PCIe 2.0 x16,1280 MB, GDDR5, 320 bit,732 MHz,950 MHz
+GeForce 500 系列,GeForce GTX 560 Ti X2,GF114,"Jan 25th, 2011",PCIe 2.0 x16,1024 MB, GDDR5, 256 bit,850 MHz,1002 MHz
+GeForce 500 系列,GeForce GTX 570,GF110,"Dec 7th, 2010",PCIe 2.0 x16,1280 MB, GDDR5, 320 bit,732 MHz,950 MHz
+GeForce 500 系列,GeForce GTX 570 Rev. 2,GF110,"Dec 7th, 2010",PCIe 2.0 x16,1280 MB, GDDR5, 320 bit,732 MHz,950 MHz
+GeForce 500 系列,GeForce GTX 580,GF110,"Nov 9th, 2010",PCIe 2.0 x16,1536 MB, GDDR5, 384 bit,772 MHz,1002 MHz
+GeForce 500 系列,GeForce GTX 580 Rev. 2,GF110,"Jun 6th, 2011",PCIe 2.0 x16,1536 MB, GDDR5, 384 bit,772 MHz,1002 MHz
+GeForce 500 系列,GeForce GTX 590,GF110,"Mar 24th, 2011",PCIe 2.0 x16,1536 MB, GDDR5, 384 bit,608 MHz,854 MHz
+GeForce 600 系列,GeForce 605 OEM,GF119S,"Apr 2nd, 2012",PCIe 2.0 x16,512 MB, DDR3, 64 bit,523 MHz,897 MHz
+GeForce 600 系列,GeForce 615 OEM,GF108,"May 15th, 2012",PCIe 2.0 x16,1024 MB, DDR3, 128 bit,660 MHz,900 MHz
+GeForce 600 系列,GeForce GT 610 PCI,GF119S,"Apr 2nd, 2012",PCI,512 MB, DDR3, 64 bit,810 MHz,667 MHz
+GeForce 600 系列,GeForce GT 610 PCIe x1,GF119S,"Apr 2nd, 2012",PCIe 2.0 x1,512 MB, DDR3, 64 bit,810 MHz,500 MHz
+GeForce 600 系列,GeForce GT 610 OEM,GF108,"Apr 2nd, 2016",PCIe 2.0 x16,2 GB, DDR3, 64 bit,701 MHz,500 MHz
+GeForce 600 系列,GeForce GT 610 OEM,GF119S,"Sep 9th, 2012",PCIe 2.0 x16,1024 MB, DDR3, 64 bit,550 MHz,500 MHz
+GeForce 600 系列,GeForce GT 610,GF119S,"Apr 2nd, 2012",PCIe 2.0 x16,1024 MB, DDR3, 64 bit,810 MHz,898 MHz
+GeForce 600 系列,GeForce GT 620 OEM,GF119S,"Apr 2nd, 2012",PCIe 2.0 x16,512 MB, DDR3, 64 bit,810 MHz,898 MHz
+GeForce 600 系列,GeForce GT 620,GF108,"May 15th, 2012",PCIe 2.0 x16,1024 MB, DDR3, 64 bit,700 MHz,900 MHz
+GeForce 600 系列,GeForce GT 625 OEM,GF119S,"Feb 18th, 2013",PCIe 2.0 x16,1024 MB, DDR3, 64 bit,874 MHz,825 MHz
+GeForce 600 系列,GeForce GT 630 OEM,GK107,"Apr 24th, 2012",PCIe 3.0 x16,1024 MB, DDR3, 128 bit,875 MHz,891 MHz
+GeForce 600 系列,GeForce GT 630,GF108,"May 15th, 2012",PCIe 2.0 x16,1024 MB, DDR3, 128 bit,810 MHz,900 MHz
+GeForce 600 系列,GeForce GT 630 Rev. 2 PCIe x8,GK208,"May 29th, 2013",PCIe 2.0 x8,2 GB, DDR3, 64 bit,902 MHz,900 MHz
+GeForce 600 系列,GeForce GT 630 Rev. 2,GK208,"May 29th, 2013",PCIe 2.0 x8,2 GB, DDR3, 64 bit,902 MHz,900 MHz
+GeForce 600 系列,GeForce GT 635 OEM,GK208,"Oct 1st, 2013",PCIe 3.0 x8,1024 MB, DDR3, 64 bit,967 MHz,900 MHz
+GeForce 600 系列,GeForce GT 640 OEM Rebrand,GF116,"Apr 24th, 2012",PCIe 2.0 x16,1536 MB, DDR3, 192 bit,720 MHz,800 MHz
+GeForce 600 系列,GeForce GT 640 OEM,GK107,"Apr 24th, 2012",PCIe 3.0 x16,2 GB, DDR3, 128 bit,797 MHz,891 MHz
+GeForce 600 系列,GeForce GT 640,GK107,"Jun 5th, 2012",PCIe 3.0 x16,2 GB, DDR3, 128 bit,902 MHz,891 MHz
+GeForce 600 系列,GeForce GT 640 Rev. 2,GK208,"May 29th, 2013",PCIe 2.0 x8,1024 MB, GDDR5, 64 bit,1046 MHz,1252 MHz
+GeForce 600 系列,GeForce GT 645 OEM,GF114,"Apr 24th, 2012",PCIe 2.0 x16,1024 MB, GDDR5, 192 bit,776 MHz,957 MHz
+GeForce 600 系列,GeForce GTX 645 OEM,GK106S,"Apr 22nd, 2013",PCIe 3.0 x16,1024 MB, GDDR5, 128 bit,824 MHz,1000 MHz
+GeForce 600 系列,GeForce GTX 650,GK107,"Sep 6th, 2012",PCIe 3.0 x16,1024 MB, GDDR5, 128 bit,1058 MHz,1250 MHz
+GeForce 600 系列,GeForce GTX 650,GK106,"Nov 27th, 2013",PCIe 3.0 x16,1024 MB, GDDR5, 128 bit,1058 MHz,1250 MHz
+GeForce 600 系列,GeForce GTX 650 Ti,GK106S,"Oct 9th, 2012",PCIe 3.0 x16,1024 MB, GDDR5, 128 bit,928 MHz,1350 MHz
+GeForce 600 系列,GeForce GTX 650 Ti OEM,GK106,"Mar 31st, 2013",PCIe 3.0 x16,2 GB, GDDR5, 128 bit,928 MHz,1350 MHz
+GeForce 600 系列,GeForce GTX 650 Ti Boost,GK106,"Mar 26th, 2013",PCIe 3.0 x16,2 GB, GDDR5, 192 bit,980 MHz,1502 MHz
+GeForce 600 系列,GeForce GTX 660,GK106,"Sep 6th, 2012",PCIe 3.0 x16,2 GB, GDDR5, 192 bit,980 MHz,1502 MHz
+GeForce 600 系列,GeForce GTX 660 Rev. 2,GK104,"Sep 13th, 2014",PCIe 3.0 x16,2 GB, GDDR5, 192 bit,980 MHz,1502 MHz
+GeForce 600 系列,GeForce GTX 660 OEM,GK104,"Aug 22nd, 2012",PCIe 3.0 x16,1536 MB, GDDR5, 192 bit,823 MHz,1400 MHz
+GeForce 600 系列,GeForce GTX 660 OEM,GK104,"Aug 22nd, 2012",PCIe 3.0 x16,2 GB, GDDR5, 256 bit,823 MHz,1400 MHz
+GeForce 600 系列,GeForce GTX 660 Ti,GK104,"Aug 16th, 2012",PCIe 3.0 x16,2 GB, GDDR5, 192 bit,915 MHz,1502 MHz
+GeForce 600 系列,GeForce GTX 670,GK104,"May 10th, 2012",PCIe 3.0 x16,2 GB, GDDR5, 256 bit,915 MHz,1502 MHz
+GeForce 600 系列,GeForce GTX 680,GK104,"Mar 22nd, 2012",PCIe 3.0 x16,2 GB, GDDR5, 256 bit,1006 MHz,1502 MHz
+GeForce 600 系列,GeForce GTX 680 Mac Edition,GK104,"Apr 3rd, 2013",PCIe 2.0 x16,2 GB, GDDR5, 256 bit,1006 MHz,1502 MHz
+GeForce 600 系列,GeForce GTX 690,GK104,"May 3rd, 2012",PCIe 3.0 x16,2 GB, GDDR5, 256 bit,915 MHz,1502 MHz
+GeForce 700 系列,GeForce GT 705 OEM,GF119S,"Mar 27th, 2014",PCIe 2.0 x16,1024 MB, DDR3, 64 bit,874 MHz,825 MHz
+GeForce 700 系列,GeForce GT 710,GF119S,"Jan 26th, 2016",PCIe 2.0 x16,1024 MB, DDR3, 64 bit,810 MHz,898 MHz
+GeForce 700 系列,GeForce GT 710 OEM,GK208B,"Apr 9th, 2015",PCIe 2.0 x8,1024 MB, DDR3, 64 bit,797 MHz,900 MHz
+GeForce 700 系列,GeForce GT 710 PCIe x1,GK208B,"Mar 27th, 2014",PCIe 2.0 x1,1024 MB, DDR3, 64 bit,954 MHz,800 MHz
+GeForce 700 系列,GeForce GT 710,GK208,"Mar 27th, 2014",PCIe 2.0 x8,2 GB, DDR3, 64 bit,954 MHz,900 MHz
+GeForce 700 系列,GeForce GT 710,GK208B,"Mar 27th, 2014",PCIe 2.0 x8,2 GB, DDR3, 64 bit,954 MHz,900 MHz
+GeForce 700 系列,GeForce GT 720,GK208B,"Sep 29th, 2014",PCIe 2.0 x8,1024 MB, DDR3, 64 bit,797 MHz,800 MHz
+GeForce 700 系列,GeForce GT 720 OEM,GK107,"Oct 29th, 2017",PCIe 3.0 x16,1024 MB, DDR3, 128 bit,993 MHz,891 MHz
+GeForce 700 系列,GeForce GT 720,GK208,"Mar 27th, 2014",PCIe 2.0 x8,2 GB, DDR3, 64 bit,967 MHz,900 MHz
+GeForce 700 系列,GeForce GT 730,GF108,"Jun 18th, 2014",PCIe 2.0 x16,1024 MB, DDR3, 128 bit,700 MHz,900 MHz
+GeForce 700 系列,GeForce GT 730,GF108,"Jun 18th, 2014",PCIe 2.0 x16,2 GB, DDR3, 128 bit,700 MHz,800 MHz
+GeForce 700 系列,GeForce GT 730 OEM,GK107,"Apr 9th, 2015",PCIe 3.0 x16,1024 MB, GDDR5, 64 bit,902 MHz,1253 MHz
+GeForce 700 系列,GeForce GT 730,GK208B,"Jun 18th, 2014",PCIe 2.0 x8,1024 MB, GDDR5, 64 bit,902 MHz,1253 MHz
+GeForce 700 系列,GeForce GT 740,GK107,"May 29th, 2014",PCIe 3.0 x16,1024 MB, GDDR5, 128 bit,993 MHz,1253 MHz
+GeForce 700 系列,GeForce GT 740 OEM,GK106S,"Apr 14th, 2015",PCIe 3.0 x16,1024 MB, GDDR5, 128 bit,1006 MHz,1253 MHz
+GeForce 700 系列,GeForce GT 740 OEM,GK106S,"Apr 14th, 2015",PCIe 3.0 x16,1024 MB, GDDR5, 128 bit,980 MHz,1253 MHz
+GeForce 700 系列,GeForce GTX 745 OEM,GM107,"Feb 18th, 2014",PCIe 3.0 x16,4 GB, DDR3, 128 bit,1033 MHz,900 MHz
+GeForce 700 系列,GeForce GTX 750,GM107,"Feb 18th, 2014",PCIe 3.0 x16,1024 MB, GDDR5, 128 bit,1020 MHz,1253 MHz
+GeForce 700 系列,GeForce GTX 750 GM206,GM206,"Nov 17th, 2015",PCIe 3.0 x16,2 GB, GDDR5, 128 bit,1087 MHz,1253 MHz
+GeForce 700 系列,GeForce GTX 750 Ti,GM107,"Feb 18th, 2014",PCIe 3.0 x16,2 GB, GDDR5, 128 bit,1020 MHz,1350 MHz
+GeForce 700 系列,GeForce GTX 750 Ti OEM,GK106,Unknown,PCIe 3.0 x16,2 GB, GDDR5, 256 bit,1033 MHz,1502 MHz
+GeForce 700 系列,GeForce GTX 760 OEM,GK104,"Jun 27th, 2013",PCIe 3.0 x16,1536 MB, GDDR5, 192 bit,823 MHz,1400 MHz
+GeForce 700 系列,GeForce GTX 760 OEM Rebrand,GK104,"Aug 25th, 2013",PCIe 3.0 x16,1536 MB, GDDR5, 256 bit,823 MHz,1400 MHz
+GeForce 700 系列,GeForce GTX 760,GK104,"Jun 25th, 2013",PCIe 3.0 x16,2 GB, GDDR5, 256 bit,980 MHz,1502 MHz
+GeForce 700 系列,GeForce GTX 760 Ti OEM,GK104,"Sep 27th, 2013",PCIe 3.0 x16,2 GB, GDDR5, 256 bit,915 MHz,1502 MHz
+GeForce 700 系列,GeForce GTX 760 Ti OEM Rebrand,GK104,"Aug 25th, 2013",PCIe 3.0 x16,2 GB, GDDR5, 256 bit,915 MHz,1502 MHz
+GeForce 700 系列,GeForce GTX 760 OEM,GK104,"Nov 6th, 2016",PCIe 3.0 x16,2 GB, GDDR5, 256 bit,993 MHz,1650 MHz
+GeForce 700 系列,GeForce GTX 760 X2,GK104,"Nov 19th, 2013",PCIe 3.0 x16,2 GB, GDDR5, 256 bit,1006 MHz,1502 MHz
+GeForce 700 系列,GeForce GTX 770,GK104,"May 30th, 2013",PCIe 3.0 x16,2 GB, GDDR5, 256 bit,1046 MHz,1753 MHz
+GeForce 700 系列,GeForce GTX 780,GK110,"May 23rd, 2013",PCIe 3.0 x16,3 GB, GDDR5, 384 bit,863 MHz,1502 MHz
+GeForce 700 系列,GeForce GTX 780 Rev. 2,GK110B,"Sep 10th, 2013",PCIe 3.0 x16,3 GB, GDDR5, 384 bit,863 MHz,1502 MHz
+GeForce 700 系列,GeForce GTX 780 6 GB,GK110B,"Sep 10th, 2013",PCIe 3.0 x16,6 GB, GDDR5, 384 bit,863 MHz,1502 MHz
+GeForce 700 系列,GeForce GTX 780 Ti,GK110B,"Nov 7th, 2013",PCIe 3.0 x16,3 GB, GDDR5, 384 bit,875 MHz,1753 MHz
+GeForce 700 系列,GeForce GTX TITAN,GK110,"Feb 19th, 2013",PCIe 3.0 x16,6 GB, GDDR5, 384 bit,836 MHz,1502 MHz
+GeForce 700 系列,GeForce GTX TITAN BLACK,GK110B,"Feb 18th, 2014",PCIe 3.0 x16,6 GB, GDDR5, 384 bit,889 MHz,1750 MHz
+GeForce 700 系列,GeForce GTX TITAN Z,GK110B,"May 28th, 2014",PCIe 3.0 x16,6 GB, GDDR5, 384 bit,705 MHz,1750 MHz
+GeForce 900 系列,GeForce GTX 950 Low Power,GM206,"Mar 1st, 2016",PCIe 3.0 x16,2 GB, GDDR5, 128 bit,1026 MHz,1653 MHz
+GeForce 900 系列,GeForce GTX 950,GM206,"Aug 20th, 2015",PCIe 3.0 x16,2 GB, GDDR5, 128 bit,1024 MHz,1653 MHz
+GeForce 900 系列,GeForce GTX 950 OEM,GM206S,2016,PCIe 3.0 x16,4 GB, GDDR5, 128 bit,937 MHz,1253 MHz
+GeForce 900 系列,GeForce GTX 960 OEM,GM206,"Nov 26th, 2015",PCIe 3.0 x16,4 GB, GDDR5, 128 bit,1176 MHz,1753 MHz
+GeForce 900 系列,GeForce GTX 960,GM206,"Jan 22nd, 2015",PCIe 3.0 x16,2 GB, GDDR5, 128 bit,1127 MHz,1753 MHz
+GeForce 900 系列,GeForce GTX 960 OEM,GM204,"Nov 26th, 2015",PCIe 3.0 x16,3 GB, GDDR5, 192 bit,924 MHz,1253 MHz
+GeForce 900 系列,GeForce GTX 970,GM204,"Sep 19th, 2014",PCIe 3.0 x16,4 GB, GDDR5, 256 bit,1050 MHz,1753 MHz
+GeForce 900 系列,GeForce GTX 980,GM204,"Sep 19th, 2014",PCIe 3.0 x16,4 GB, GDDR5, 256 bit,1127 MHz,1753 MHz
+GeForce 900 系列,GeForce GTX 980 Ti,GM200,"Jun 2nd, 2015",PCIe 3.0 x16,6 GB, GDDR5, 384 bit,1000 MHz,1753 MHz
+GeForce 900 系列,GeForce GTX TITAN X,GM200,"Mar 17th, 2015",PCIe 3.0 x16,12 GB, GDDR5, 384 bit,1000 MHz,1753 MHz
+GeForce 10 系列,GeForce GT 1010 DDR4,GP108,"Jan 13th, 2021",PCIe 3.0 x4,2 GB, DDR4, 64 bit,1152 MHz,1050 MHz
+GeForce 10 系列,GeForce GT 1010,GP108,"Jan 13th, 2021",PCIe 3.0 x4,2 GB, GDDR5, 64 bit,1228 MHz,1502 MHz
+GeForce 10 系列,GeForce GT 1030 DDR4,GP108,"Mar 12th, 2018",PCIe 3.0 x4,2 GB, DDR4, 64 bit,1152 MHz,1050 MHz
+GeForce 10 系列,GeForce GT 1030,GP108,"May 17th, 2017",PCIe 3.0 x4,2 GB, GDDR5, 64 bit,1228 MHz,1502 MHz
+GeForce 10 系列,GeForce GT 1030 GK107,GK107,"Sep 30th, 2018",PCIe 3.0 x16,2 GB, GDDR5, 128 bit,1058 MHz,1250 MHz
+GeForce 10 系列,GeForce GTX 1050,GP107,"Oct 25th, 2016",PCIe 3.0 x16,2 GB, GDDR5, 128 bit,1354 MHz,1752 MHz
+GeForce 10 系列,GeForce GTX 1050 3 GB,GP107,"May 21st, 2018",PCIe 3.0 x16,3 GB, GDDR5, 96 bit,1392 MHz,1752 MHz
+GeForce 10 系列,GeForce GTX 1050 Ti,GP107,"Oct 25th, 2016",PCIe 3.0 x16,4 GB, GDDR5, 128 bit,1291 MHz,1752 MHz
+GeForce 10 系列,GeForce GTX 1060 3 GB,GP106,"Aug 18th, 2016",PCIe 3.0 x16,3 GB, GDDR5, 192 bit,1506 MHz,2002 MHz
+GeForce 10 系列,GeForce GTX 1060 3 GB GP104,GP104,"Dec 25th, 2016",PCIe 3.0 x16,3 GB, GDDR5, 192 bit,1506 MHz,2002 MHz
+GeForce 10 系列,GeForce GTX 1060 5 GB,GP106,"Dec 26th, 2017",PCIe 3.0 x16,5 GB, GDDR5, 160 bit,1506 MHz,2002 MHz
+GeForce 10 系列,GeForce GTX 1060 6 GB,GP106,"Jul 19th, 2016",PCIe 3.0 x16,6 GB, GDDR5, 192 bit,1506 MHz,2002 MHz
+GeForce 10 系列,GeForce GTX 1060 6 GB Rev. 2,GP106,"Jan 5th, 2018",PCIe 3.0 x16,6 GB, GDDR5, 192 bit,1506 MHz,2002 MHz
+GeForce 10 系列,GeForce GTX 1060 6 GB GP104,GP104,"Mar 8th, 2018",PCIe 3.0 x16,6 GB, GDDR5, 192 bit,1506 MHz,2002 MHz
+GeForce 10 系列,GeForce GTX 1060 6 GB 9Gbps,GP106,"Apr 20th, 2017",PCIe 3.0 x16,6 GB, GDDR5, 192 bit,1506 MHz,2257 MHz
+GeForce 10 系列,GeForce GTX 1060 6 GB GDDR5X,GP104,"Oct 18th, 2018",PCIe 3.0 x16,6 GB, GDDR5X, 192 bit,1506 MHz,1001 MHz
+GeForce 10 系列,GeForce GTX 1070,GP104,"Jun 10th, 2016",PCIe 3.0 x16,8 GB, GDDR5, 256 bit,1506 MHz,2002 MHz
+GeForce 10 系列,GeForce GTX 1070 GDDR5X,GP104,"Dec 4th, 2018",PCIe 3.0 x16,8 GB, GDDR5X, 256 bit,1506 MHz,1001 MHz
+GeForce 10 系列,GeForce GTX 1070 Ti,GP104,"Nov 2nd, 2017",PCIe 3.0 x16,8 GB, GDDR5, 256 bit,1607 MHz,2002 MHz
+GeForce 10 系列,GeForce GTX 1080,GP104,"May 27th, 2016",PCIe 3.0 x16,8 GB, GDDR5X, 256 bit,1607 MHz,1251 MHz
+GeForce 10 系列,GeForce GTX 1080 11Gbps,GP104,"Apr 20th, 2017",PCIe 3.0 x16,8 GB, GDDR5X, 256 bit,1607 MHz,1376 MHz
+GeForce 10 系列,GeForce GTX 1080 Ti,GP102,"Mar 10th, 2017",PCIe 3.0 x16,11 GB, GDDR5X, 352 bit,1481 MHz,1376 MHz
+GeForce 10 系列,TITAN X Pascal,GP102,"Aug 2nd, 2016",PCIe 3.0 x16,12 GB, GDDR5X, 384 bit,1417 MHz,1251 MHz
+GeForce 10 系列,TITAN Xp,GP102,"Apr 6th, 2017",PCIe 3.0 x16,12 GB, GDDR5X, 384 bit,1405 MHz,1426 MHz
+GeForce 10 系列,TITAN V,GV100,"Dec 7th, 2017",PCIe 3.0 x16,12 GB, HBM2, 3072 bit,1200 MHz,848 MHz
+GeForce 10 系列,TITAN V CEO Edition,GV100,"Jun 21st, 2018",PCIe 3.0 x16,32 GB, HBM2, 4096 bit,1200 MHz,848 MHz
+GeForce 16 系列,GeForce GTX 1630,TU117,"Jun 28th, 2022",PCIe 3.0 x16,4 GB, GDDR6, 64 bit,1740 MHz,1500 MHz
+GeForce 16 系列,GeForce GTX 1650,TU117,"Apr 23rd, 2019",PCIe 3.0 x16,4 GB, GDDR5, 128 bit,1485 MHz,2001 MHz
+GeForce 16 系列,GeForce GTX 1650 GDDR6,TU117,"Apr 1st, 2020",PCIe 3.0 x16,4 GB, GDDR6, 128 bit,1410 MHz,1500 MHz
+GeForce 16 系列,GeForce GTX 1650 TU116,TU116,"Jul 7th, 2020",PCIe 3.0 x16,4 GB, GDDR6, 128 bit,1410 MHz,1500 MHz
+GeForce 16 系列,GeForce GTX 1650 TU106,TU106,"Jun 18th, 2020",PCIe 3.0 x16,4 GB, GDDR6, 128 bit,1410 MHz,1500 MHz
+GeForce 16 系列,GeForce GTX 1650 SUPER,TU116,"Nov 22nd, 2019",PCIe 3.0 x16,4 GB, GDDR6, 128 bit,1530 MHz,1500 MHz
+GeForce 16 系列,GeForce GTX 1660,TU116,"Mar 14th, 2019",PCIe 3.0 x16,6 GB, GDDR5, 192 bit,1530 MHz,2001 MHz
+GeForce 16 系列,GeForce GTX 1660 SUPER,TU116,"Oct 29th, 2019",PCIe 3.0 x16,6 GB, GDDR6, 192 bit,1530 MHz,1750 MHz
+GeForce 16 系列,GeForce GTX 1660 Ti,TU116,"Feb 22nd, 2019",PCIe 3.0 x16,6 GB, GDDR6, 192 bit,1500 MHz,1500 MHz
+GeForce 20 系列,GeForce RTX 2060,TU106,"Jan 7th, 2019",PCIe 3.0 x16,6 GB, GDDR6, 192 bit,1365 MHz,1750 MHz
+GeForce 20 系列,GeForce RTX 2060 TU104,TU104,"Jan 10th, 2020",PCIe 3.0 x16,6 GB, GDDR6, 192 bit,1365 MHz,1750 MHz
+GeForce 20 系列,GeForce RTX 2060 12 GB,TU106,"Dec 7th, 2021",PCIe 3.0 x16,12 GB, GDDR6, 192 bit,1470 MHz,1750 MHz
+GeForce 20 系列,GeForce RTX 2060 SUPER,TU106,"Jul 9th, 2019",PCIe 3.0 x16,8 GB, GDDR6, 256 bit,1470 MHz,1750 MHz
+GeForce 20 系列,GeForce RTX 2070,TU106,"Oct 17th, 2018",PCIe 3.0 x16,8 GB, GDDR6, 256 bit,1410 MHz,1750 MHz
+GeForce 20 系列,GeForce RTX 2070 SUPER,TU104,"Jul 9th, 2019",PCIe 3.0 x16,8 GB, GDDR6, 256 bit,1605 MHz,1750 MHz
+GeForce 20 系列,GeForce RTX 2080,TU104,"Sep 20th, 2018",PCIe 3.0 x16,8 GB, GDDR6, 256 bit,1515 MHz,1750 MHz
+GeForce 20 系列,GeForce RTX 2080 SUPER,TU104,"Jul 23rd, 2019",PCIe 3.0 x16,8 GB, GDDR6, 256 bit,1650 MHz,1937 MHz
+GeForce 20 系列,GeForce RTX 2080 Ti,TU102,"Sep 20th, 2018",PCIe 3.0 x16,11 GB, GDDR6, 352 bit,1350 MHz,1750 MHz
+GeForce 20 系列,TITAN RTX,TU102,"Dec 18th, 2018",PCIe 3.0 x16,24 GB, GDDR6, 384 bit,1350 MHz,1750 MHz
+GeForce 30 系列,GeForce RTX 3050 4 GB,GA107,"Jan 27th, 2022",PCIe 4.0 x8,4 GB, GDDR6, 128 bit,1545 MHz,1500 MHz
+GeForce 30 系列,GeForce RTX 3050 6 GB,GA107,"Feb 2nd, 2024",PCIe 4.0 x8,6 GB, GDDR6, 96 bit,1042 MHz,1750 MHz
+GeForce 30 系列,GeForce RTX 3050 OEM,GA106,"Jan 4th, 2022",PCIe 4.0 x8,8 GB, GDDR6, 128 bit,1515 MHz,1750 MHz
+GeForce 30 系列,GeForce RTX 3050 8 GB GA107,GA107,"Dec 16th, 2022",PCIe 4.0 x8,8 GB, GDDR6, 128 bit,1552 MHz,1750 MHz
+GeForce 30 系列,GeForce RTX 3050 8 GB,GA106,"Jan 4th, 2022",PCIe 4.0 x8,8 GB, GDDR6, 128 bit,1552 MHz,1750 MHz
+GeForce 30 系列,GeForce RTX 3060 8 GB,GA106,"Oct 12th, 2022",PCIe 4.0 x16,8 GB, GDDR6, 128 bit,1320 MHz,1875 MHz
+GeForce 30 系列,GeForce RTX 3060 8 GB GA104,GA104,Oct 2022,PCIe 4.0 x16,8 GB, GDDR6, 128 bit,1320 MHz,1875 MHz
+GeForce 30 系列,GeForce RTX 3060 12 GB,GA106,"Jan 12th, 2021",PCIe 4.0 x16,12 GB, GDDR6, 192 bit,1320 MHz,1875 MHz
+GeForce 30 系列,GeForce RTX 3060 12 GB GA104,GA104,"Sep 1st, 2021",PCIe 4.0 x16,12 GB, GDDR6, 192 bit,1320 MHz,1875 MHz
+GeForce 30 系列,GeForce RTX 3060 3840SP,GA106,2021,PCIe 4.0 x16,6 GB, GDDR6, 192 bit,1627 MHz,1750 MHz
+GeForce 30 系列,GeForce RTX 3060 Ti,GA104,"Dec 1st, 2020",PCIe 4.0 x16,8 GB, GDDR6, 256 bit,1410 MHz,1750 MHz
+GeForce 30 系列,GeForce RTX 3060 Ti GA103,GA103,"Feb 23rd, 2022",PCIe 4.0 x16,8 GB, GDDR6, 256 bit,1410 MHz,1750 MHz
+GeForce 30 系列,GeForce RTX 3060 Ti GDDR6X,GA104,"Oct 19th, 2022",PCIe 4.0 x16,8 GB, GDDR6X, 256 bit,1410 MHz,1188 MHz
+GeForce 30 系列,GeForce RTX 3070,GA104,"Sep 1st, 2020",PCIe 4.0 x16,8 GB, GDDR6, 256 bit,1500 MHz,1750 MHz
+GeForce 30 系列,GeForce RTX 3070 TiM,GA104,Nov 2022,PCIe 4.0 x16,8 GB, GDDR6, 256 bit,915 MHz,1750 MHz
+GeForce 30 系列,GeForce RTX 3070 Ti,GA104,"May 31st, 2021",PCIe 4.0 x16,8 GB, GDDR6X, 256 bit,1575 MHz,1188 MHz
+GeForce 30 系列,GeForce RTX 3070 Ti 8 GB GA102,GA102,"Oct 21st, 2022",PCIe 4.0 x16,8 GB, GDDR6X, 256 bit,1575 MHz,1188 MHz
+GeForce 30 系列,GeForce RTX 3080,GA102,"Sep 1st, 2020",PCIe 4.0 x16,10 GB, GDDR6X, 320 bit,1440 MHz,1188 MHz
+GeForce 30 系列,GeForce RTX 3080 12 GB,GA102,"Jan 11th, 2022",PCIe 4.0 x16,12 GB, GDDR6X, 384 bit,1260 MHz,1188 MHz
+GeForce 30 系列,GeForce RTX 3080 Ti,GA102,"May 31st, 2021",PCIe 4.0 x16,12 GB, GDDR6X, 384 bit,1365 MHz,1188 MHz
+GeForce 30 系列,GeForce RTX 3080 Ti 20 GB,GA102,Jan 2022,PCIe 4.0 x16,20 GB, GDDR6X, 320 bit,1335 MHz,1188 MHz
+GeForce 30 系列,GeForce RTX 3090,GA102,"Sep 1st, 2020",PCIe 4.0 x16,24 GB, GDDR6X, 384 bit,1395 MHz,1219 MHz
+GeForce 30 系列,GeForce RTX 3090 Ti,GA102,"Jan 27th, 2022",PCIe 4.0 x16,24 GB, GDDR6X, 384 bit,1560 MHz,1313 MHz
+GeForce 40 系列,GeForce RTX 4060,AD107,"May 18th, 2023",PCIe 4.0 x8,8 GB, GDDR6, 128 bit,1830 MHz,2125 MHz
+GeForce 40 系列,GeForce RTX 4060 AD106,AD106,Apr 2024,PCIe 4.0 x8,8 GB, GDDR6, 128 bit,1830 MHz,2125 MHz
+GeForce 40 系列,GeForce RTX 4060 Ti 8 GB,AD106,"May 18th, 2023",PCIe 4.0 x8,8 GB, GDDR6, 128 bit,2310 MHz,2250 MHz
+GeForce 40 系列,GeForce RTX 4060 Ti AD104,AD104,Apr 2024,PCIe 4.0 x8,8 GB, GDDR6, 128 bit,2310 MHz,2250 MHz
+GeForce 40 系列,GeForce RTX 4060 Ti 16 GB,AD106,"May 18th, 2023",PCIe 4.0 x8,16 GB, GDDR6, 128 bit,2310 MHz,2250 MHz
+GeForce 40 系列,GeForce RTX 4070 GDDR6,AD104,"Aug 20th, 2024",PCIe 4.0 x16,12 GB, GDDR6, 192 bit,1920 MHz,2500 MHz
+GeForce 40 系列,GeForce RTX 4070,AD104,"Apr 12th, 2023",PCIe 4.0 x16,12 GB, GDDR6X, 192 bit,1920 MHz,1313 MHz
+GeForce 40 系列,GeForce RTX 4070 AD103,AD103,Mar 2024,PCIe 4.0 x16,12 GB, GDDR6X, 192 bit,1920 MHz,1313 MHz
+GeForce 40 系列,GeForce RTX 4070 SUPER,AD104,"Jan 8th, 2024",PCIe 4.0 x16,12 GB, GDDR6X, 192 bit,1980 MHz,1313 MHz
+GeForce 40 系列,GeForce RTX 4070 Ti,AD104,"Jan 3rd, 2023",PCIe 4.0 x16,12 GB, GDDR6X, 192 bit,2310 MHz,1313 MHz
+GeForce 40 系列,GeForce RTX 4070 Ti SUPER,AD103,"Jan 8th, 2024",PCIe 4.0 x16,16 GB, GDDR6X, 256 bit,2340 MHz,1313 MHz
+GeForce 40 系列,GeForce RTX 4070 Ti SUPER AD102,AD102,"Jun 10th, 2024",PCIe 4.0 x16,16 GB, GDDR6X, 256 bit,2340 MHz,1313 MHz
+GeForce 40 系列,GeForce RTX 4080,AD103,"Sep 20th, 2022",PCIe 4.0 x16,16 GB, GDDR6X, 256 bit,2205 MHz,1400 MHz
+GeForce 40 系列,GeForce RTX 4080 SUPER,AD103,"Jan 8th, 2024",PCIe 4.0 x16,16 GB, GDDR6X, 256 bit,2295 MHz,1438 MHz
+GeForce 40 系列,GeForce RTX 4090 D,AD102,"Dec 28th, 2023",PCIe 4.0 x16,24 GB, GDDR6X, 384 bit,2280 MHz,1313 MHz
+GeForce 40 系列,GeForce RTX 4090,AD102,"Sep 20th, 2022",PCIe 4.0 x16,24 GB, GDDR6X, 384 bit,2235 MHz,1313 MHz

@@ -1,0 +1,5 @@
+﻿Award Type,Vehicle Make,Year,Model,Major Trims,Body Style,Fuel type(s),Drivetrain(s),Passengers,Doors,Overall Ratings 2025,Quality & Reliability Score 2025,Driving Experience Score 2025,Resale Value Score 2025
+Compact Car,Toyota,2022,Corolla ,"L, LE, SE, XLE, XSE, Apex Edition, Hybrid LE/SE",sedan,"Gasoline, Hybrid",FWD,5,4,80,85,77,75
+Compact Premium Car,BMW,2022,3 Series,"330i, 330e (PHEV), M340i",sedan,"Gasoline,  Hybrid",RWD / AWD,5,4,81,81,81,83
+Compact Premium SUV,Mercedes-Benz,2022,GLC," GLC 300, GLC 300 4MATIC, AMG GLC 43",SUV,"Gasoline, mild-hybrid ",RWD / AWD,5,4,79,81,79,75
+Compact SUV,Toyota,2022,RAV4 ,"LE, XLE, XLE Premium, Adventure, TRD Off-Road, Limited, Hybrid XLE/Limited",SUV,"Gasoline, Hybrid",FWD / AWD,5,4,79,81,81,75

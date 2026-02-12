@@ -1,0 +1,18 @@
+﻿Model Name,Release Date, Pre-installed OS, Processor Brand,CPU Model, CPU Manufacturing Process, CPU Core Count,Screen Size, Resolution,Battery Capacity,RAM Size, Storage Size, Highest Camera Resolution,Launch Price (USD)
+Galaxy S6,2015-04-10,Android 5,Samsung,Exynos 7420,14nm,8-core,5.1inches,2560x1440,2550mAh,3GB,32GB,16mp,699
+Galaxy Note 5,2015-08-21,Android 5,Samsung,Exynos 7 Octa 7420,14nm,8-core,5.7inches,1440x2560,3000mAh,4GB,32GB,16mp,768
+Galaxy S7,2016-03-11,Android 6,Qualcomm,Snapdragon 820,14nm,4-core,5.1inches,2560×1440,3000mAh,4GB,32GB,12mp,699
+Galaxy Note7,2016-08-19,Android 6,Qualcomm,Snapdragon820,14nm,8-core,5.7inches,1440x2560,3500mAh,4GB,64GB,12mp,849
+Galaxy S8,2017-04-21,Android 7,Qualcomm,Snapdragon 835,10nm,8-core,5.8inches,2960x1440,3000mAh,4GB,64GB,12mp,720
+Galaxy Note8,2017-09-15,Android 7,Qualcomm,Snapdragon835,10nm,8-core,6.3inches,2960x1440,3300mAh,6GB,64GB,12mp,930
+Galaxy S9,2018-03-16,Android 8,Qualcomm,Snapdragon845,10nm,8-core,5.8inches,2960x1440,3000mAh,4GB,64GB,12mp,719.99
+Galaxy Note9,2018-08-24,Android 8,Qualcomm,Snapdragon845,10nm,8-core,6.4inches,2960x1440,4000mAh,6GB,128GB,12mp,999
+Galaxy S10,2019-03-08,Android 9,Qualcomm,Snapdragon855,7nm,8-core,6.1inches,3040x1440,3400mAh,8GB,128GB,16mp,799
+Galaxy Note10,2019-08-23,Android 9,Qualcomm,Snapdragon855,7nm,8-core,6.3inches,2280×1080,3500mAh,8GB,256GB,16mp,949
+Galaxy S20,2020-03-06,Android 10,Qualcomm,Snapdragon865,7nm,8-core,6.2inches,3200×1440,4000mAh,8GB,128GB,64 MP,999
+Galaxy Note20,2020-08-21,Android 10,Qualcomm,Snapdragon 865 Plus,7nm+,8-core,6.7inches,2400x1080,4300mAh,8GB,128GB,64mp,999
+Galaxy S21,2021-01-29,Android 11,Qualcomm,Snapdragon 888,5nm,8-core,6.2inches,2400 x1080,4000mAh,8GB,128GB,64 MP,799.99
+Galaxy S22,2022-02-25,Android 12,Qualcomm,Snapdragon8 Gen1,4nm,8-core,6.1inches,2340x1080,3700mAh,8GB,128GB,50 MP,799.99
+Galaxy S23,2023-02-17,Android 13,Qualcomm,Snapdragon 8 Gen 2 for Galaxy,4nm,8-core,6.1inches,2340 x 1080,3900mAh,8GB,128GB,50 MP,799.99
+Galaxy S24,2024-01-31,Android 14,Qualcomm,Snapdragon 8 Gen 3,4nm,8-core,6.2inches,2340 x 1080,4000mAh,8GB,256GB,50mp,799.99
+Galaxy S25,2025-02-07,Android 15,Qualcomm,Snapdragon 8 Elite for Galaxy,3nm ,8-core,6.2inches,2340 x 1080 ,4000mAh,12GB,128GB,50mp,799

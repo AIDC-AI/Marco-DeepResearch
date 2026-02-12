@@ -1,0 +1,21 @@
+﻿Country,Year,Per Capita Health Expenditure (EUR),Life Expectancy (Years),Domestic government health expenditure (% of GDP),Out-of-pocket expenditure (% of current health expenditure)
+Denmark,2020,"5,640",82,8.96,13.38
+Denmark,2021,"6,447",81,9.05,12.7
+Denmark,2022,"5,576",81.3,7.96,13.03
+Denmark,2023,"5,555",81.85,NA,13.84
+Finland,2020,"4,090",82,7.83,16.47
+Finland,2021,"4,544",82,8,16.66
+Finland,2022,"4,234",81,7.89,16.1
+Finland,2023,NA,81.69,NA,NA
+Iceland,2020,"4,916",83,8.08,14.87
+Iceland,2021,"5,806",83,8.2,14.54
+Iceland,2022,"5,917",82,7.86,13.67
+Iceland,2023,"6,215",82.61,NA,14.38
+Norway,2020,"6,758",83,9.82,13.79
+Norway,2021,"7,914",83,8.43,13.85
+Norway,2022,"8,507",82.51,6.81,14.08
+Norway,2023,NA,83.11,NA,NA
+Sweden,2020,"5,181",82,9.77,12.83
+Sweden,2021,"5,905",83,9.56,12.8
+Sweden,2022,"5,129",83.06,9.02,12.87
+Sweden,2023,"5,310",83.31,NA,12.68

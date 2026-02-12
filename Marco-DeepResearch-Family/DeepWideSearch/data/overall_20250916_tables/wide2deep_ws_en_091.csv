@@ -1,0 +1,332 @@
+﻿Time,Product Series,Processor Model,Core Architecture,Manufacturing Process (nm),Cores,Threads,Core Frequency (GHz),L2 Cache (MB),L3 Cache (MB),Graphics Model,Number of Graphics Cores
+2017/3/2,Ryzen 1000 series,AMD Ryzen 7 1800X,Zen,14nm,8,16,3.6,4,16,Requires discrete graphics card,NA
+2017/3/2,Ryzen 1000 series,AMD Ryzen 7 1700X,Zen,14nm,8,16,3.4,4,16,Requires discrete graphics card,NA
+2017/3/2,Ryzen 1000 series,AMD Ryzen 7 1700,Zen,14nm,8,16,3,4,16,Requires discrete graphics card,NA
+2017/4/11,Ryzen 1000 series,AMD Ryzen 5 1600X,Zen,14nm,6,12,3.6,3,16,Requires discrete graphics card,NA
+2017/4/11,Ryzen 1000 series,AMD Ryzen 5 1600,Zen,14nm,6,12,3.2,3,16,Requires discrete graphics card,NA
+2017/4/11,Ryzen 1000 series,AMD Ryzen 5 1500X,Zen,14nm,4,8,3.5,2,16,Requires discrete graphics card,NA
+2017/4/11,Ryzen 1000 series,AMD Ryzen 5 1400,Zen,14nm,4,8,3.2,2,8,Requires discrete graphics card,NA
+2017/6/29,Ryzen PRO 1000 series,AMD Ryzen 7 PRO 1700X,Zen,14nm,8,16,3.4,4,16,Requires discrete graphics card,NA
+2017/6/29,Ryzen PRO 1000 series,AMD Ryzen 7 PRO 1700,Zen,14nm,8,16,3,4,16,Requires discrete graphics card,NA
+2017/6/29,Ryzen PRO 1000 series,AMD Ryzen 5 PRO 1600,Zen,14nm,6,12,3.2,3,16,Requires discrete graphics card,NA
+2017/6/29,Ryzen PRO 1000 series,AMD Ryzen 5 PRO 1500,Zen,14nm,4,8,3.5,2,16,Requires discrete graphics card,NA
+2017/6/29,Ryzen PRO 1000 series,AMD Ryzen 3 PRO 1300,Zen,14nm,4,4,3.5,2,8,Requires discrete graphics card,NA
+2017/6/29,Ryzen PRO 1000 series,AMD Ryzen 3 PRO 1200,Zen,14nm,4,4,3.1,2,8,Requires discrete graphics card,NA
+2017/7/27,Ryzen 1000 series,AMD Ryzen 3 1300X,Zen,14nm,4,4,3.5,2,8,Requires discrete graphics card,NA
+2017/7/27,Ryzen 1000 series,AMD Ryzen 3 1200,Zen,14nm,4,4,3.1,2,8,Requires discrete graphics card,NA
+2017/7/27,Athlon X4,7th Gen AMD Athlon™ X4 970,Zen,28nm,4,4,3.8,2,NA,Requires discrete graphics card,NA
+2017/7/27,Athlon X4,7th Gen AMD Athlon™ X4 950,Zen,28nm,4,4,3.5,2,NA,Requires discrete graphics card,NA
+2017/7/27,Athlon X4,7th Gen AMD Athlon™ X4 940,Zen,28nm,4,4,3.2,2,NA,Requires discrete graphics card,NA
+2017/7/31,Ryzen Threadripper 1000 series,AMD Ryzen Threadripper 1950X,Zen,14nm,16,32,3.4,8,32,Requires discrete graphics card,NA
+2017/7/31,Ryzen Threadripper 1000 series,AMD Ryzen Threadripper 1920X,Zen,14nm,12,24,3.5,6,32,Requires discrete graphics card,NA
+2017/8/31,Ryzen Threadripper 1000 series,AMD Ryzen Threadripper 1900X,Zen,14nm,8,16,3.8,4,16,Requires discrete graphics card,NA
+2017/10/26,Ryzen PRO 2000 series,AMD Ryzen 7 PRO 2700U,Zen,14nm,4,8,2.2,2,4,Radeon™ Vega 10 Graphics,10
+2017/10/26,Ryzen PRO 2000 series,AMD Ryzen 5 PRO 2500U,Zen,14nm,4,8,2,2,4,Radeon™ Vega 8 Graphics,8
+2017/10/26,Ryzen 2000 series,AMD Ryzen 7 2700U,Zen,14nm,4,8,2.2,2,4,Radeon™ RX Vega 10 Graphics,10
+2017/10/26,Ryzen 2000 series,AMD Ryzen 5 2500U,Zen,14nm,4,8,2,2,4,Radeon™ Vega 8 Graphics,8
+2018/1/8,Ryzen PRO 2000 series,AMD Ryzen 3 PRO 2300U,Zen,14nm,4,4,2,2,4,Radeon™ Vega 6 Graphics,6
+2018/1/8,Ryzen 2000 series,AMD Ryzen 3 2300U,Zen,14nm,4,4,2,2,4,Radeon™ Vega 6 Graphics,6
+2018/1/8,Ryzen 2000 series,AMD Ryzen 3 2200U,Zen,14nm,2,4,2.5,1,4,Radeon™ Vega 3 Graphics,3
+2018/2/12,Ryzen 2000 series,AMD Ryzen 5 2400G with Radeon RX Vega 11 graphics card,Zen,14nm FinFET,4,8,3.6,2,4,Radeon™ RX Vega 11 Graphics,11
+2018/2/12,Ryzen 2000 series,AMD Ryzen 3 2200G with Radeon Vega 8 graphics card,Zen,14nm FinFET,4,4,3.5,2,4,Radeon™ Vega 8 Graphics,8
+2018/4/19,Ryzen PRO 2000 series,AMD Ryzen 7 PRO 2700X,Zen,12nm,8,16,3.6,4,16,Requires discrete graphics card,NA
+2018/4/19,Ryzen 2000 series,AMD Ryzen 7 2700X,Zen,12nm FinFET,8,16,3.7,4,16,Requires discrete graphics card,NA
+2018/4/19,Ryzen 2000 series,AMD Ryzen 7 2700,Zen,12nm FinFET,8,16,3.2,4,16,Requires discrete graphics card,NA
+2018/4/19,Ryzen 2000 series,AMD Ryzen 5 2600X,Zen,12nm FinFET,6,12,3.6,3,16,Requires discrete graphics card,NA
+2018/4/19,Ryzen 2000 series,AMD Ryzen 5 2600,Zen,12nm FinFET,6,12,3.4,3,16,Requires discrete graphics card,NA
+2018/4/19,Ryzen 2000 series,AMD Ryzen 5 2400GE with Radeon RX Vega 11 graphics card,Zen,14nm FinFET,4,8,3.2,2,4,Radeon™ RX Vega 11 Graphics,11
+2018/4/19,Ryzen 2000 series,AMD Ryzen 3 2200GE with Radeon Vega 8 graphics card,Zen,14nm FinFET,4,4,3.2,2,4,Radeon™ Vega 8 Graphics,8
+2018/5/10,Ryzen PRO 2000 series,AMD Ryzen 5 PRO 2400GE with Radeon Vega 11 graphics card,Zen,14nm FinFET,4,8,3.2,2,4,Radeon™ Vega 11 Graphics,11
+2018/5/10,Ryzen PRO 2000 series,AMD Ryzen 5 PRO 2400G with Radeon Vega 11 graphics card,Zen,14nm FinFET,4,8,3.6,2,4,Radeon™ Vega 11 Graphics,11
+2018/5/10,Ryzen PRO 2000 series,AMD Ryzen 3 PRO 2200GE with Radeon Vega 8 graphics card,Zen,14nm FinFET,4,4,3.2,2,4,Radeon™ Vega 8 Graphics,8
+2018/5/10,Ryzen PRO 2000 series,AMD Ryzen 3 PRO 2200G with Radeon Vega 8 graphics card,Zen,14nm FinFET,4,4,3.5,2,4,Radeon™ Vega 8 Graphics,8
+2018/8/13,Ryzen Threadripper 2000 series,AMD Ryzen Threadripper 2990WX,Zen,12nm,32,64,3,16,64,Requires discrete graphics card,NA
+2018/8/31,Ryzen Threadripper 2000 series,AMD Ryzen Threadripper 2950X,Zen,12nm,16,32,3.5,8,32,Requires discrete graphics card,NA
+2018/9/10,Ryzen 2000 series,AMD Ryzen 7 2800H,Zen,14nm,4,8,3.3,2,4,Radeon™ RX Vega 11 Graphics,11
+2018/9/10,Ryzen 2000 series,AMD Ryzen 5 2600H,Zen,14nm,4,8,3.2,2,4,Radeon™ Vega 8 Graphics,8
+2018/9/10,Ryzen 2000 series,AMD Ryzen 5 2500X,Zen,12nm,4,8,3.6,2,8,Requires discrete graphics card,NA
+2018/9/10,Ryzen 2000 series,AMD Ryzen 3 2300X,Zen,12nm,4,4,3.5,2,8,Requires discrete graphics card,NA
+2018/9/11,Ryzen 2000 series,AMD Ryzen 5 2600E,Zen,12nm,6,12,3.1,3,16,Requires discrete graphics card,NA
+2018/9/19,Ryzen PRO 2000 series,AMD Ryzen 7 PRO 2700,Zen,12nm,8,16,3.2,4,16,Requires discrete graphics card,NA
+2018/9/19,Ryzen PRO 2000 series,AMD Ryzen 5 PRO 2600,Zen,12nm,6,12,3.4,3,16,Requires discrete graphics card,NA
+2018/9/19,Ryzen 2000 series,AMD Ryzen 7 2700E,Zen,12nm,8,16,2.8,4,16,Requires discrete graphics card,NA
+2018/10/29,Ryzen Threadripper 2000 series,AMD Ryzen Threadripper 2970WX,Zen,12nm,24,48,3,12,64,Requires discrete graphics card,NA
+2018/10/29,Ryzen Threadripper 2000 series,AMD Ryzen Threadripper 2920X,Zen,12nm,12,24,3.5,6,32,Requires discrete graphics card,NA
+2018/12/21,Athlon PRO 200 Series,AMD Athlon™ PRO 200U Mobile Processor with Radeon™ Vega 3 Graphics,Zen,14nm,2,4,2.3,1,4,Radeon™ Vega 3 Graphics,3
+2018/12/21,Athlon PRO 200 Series,AMD Athlon™ PRO 200GE,Zen,14nm,2,4,3.2,1,4,Radeon™ Vega 3 Graphics,3
+2018/12/21,Athlon 200 Series,AMD Athlon™ 240GE,Zen,14nm,2,4,3.5,1,4,Radeon™ Vega 3 Graphics,3
+2018/12/21,Athlon 200 Series,AMD Athlon™ 220GE,Zen,14nm,2,4,3.4,1,4,Radeon™ Vega 3 Graphics,3
+2018/12/21,Athlon 200 Series,AMD Athlon™ 200GE,Zen,14nm,2,4,3.2,1,4,Radeon™ Vega 3 Graphics,3
+2019/1/6,Ryzen 3000 series,AMD Ryzen 7 3750H,Zen,12nm,4,8,2.3,2,4,Radeon™ RX Vega 10 Graphics,10
+2019/1/6,Ryzen 3000 series,AMD Ryzen 7 3700U,Zen,12nm,4,8,2.3,2,4,Radeon™ RX Vega 10 Graphics,10
+2019/1/6,Ryzen 3000 series,AMD Ryzen 5 3550H,Zen,12nm,4,8,2.1,2,4,Radeon™ Vega 8 Graphics,8
+2019/1/6,Ryzen 3000 series,AMD Ryzen 5 3500U,Zen,12nm,4,8,2.1,2,4,Radeon™ Vega 8 Graphics,8
+2019/1/6,Ryzen 3000 series,AMD Ryzen 3 3350U,Zen,12nm,4,4,2.1,2,4,Radeon™ Vega 6 Graphics,6
+2019/1/6,Ryzen 3000 series,AMD Ryzen 3 3300U,Zen,12nm,4,4,2.1,2,4,Radeon™ Vega 6 Graphics,6
+2019/1/6,Ryzen 3000 series,AMD Ryzen 3 3200U,Zen,14nm,2,4,2.6,1,4,Radeon™ Vega 3 Graphics,3
+2019/1/6,Athlon 300 Series,AMD Athlon™ 300U,Zen,14nm,2,4,2.4,1,4,Radeon™ Vega 3 Graphics,3
+2019/4/8,Ryzen PRO 3000 series,AMD Ryzen 7 PRO 3700U,Zen,12nm,4,8,2.3,2,4,Radeon™ Vega 10 Graphics,10
+2019/4/8,Ryzen PRO 3000 series,AMD Ryzen 5 PRO 3500U,Zen,12nm,4,8,2.1,2,4,Radeon™ Vega 8 Graphics,8
+2019/4/8,Ryzen PRO 3000 series,AMD Ryzen 3 PRO 3300U,Zen,12nm,4,4,2.1,2,4,Radeon™ Vega 6 Graphics,6
+2019/7/7,Ryzen 3000 series,AMD Ryzen 9 3900X,Zen,TSMC 7nm FinFET,12,24,3.8,6,64,Requires discrete graphics card,NA
+2019/7/7,Ryzen 3000 series,AMD Ryzen 7 3800X,Zen,TSMC 7nm FinFET,8,16,3.9,4,32,Requires discrete graphics card,NA
+2019/7/7,Ryzen 3000 series,AMD Ryzen 7 3700X,Zen,TSMC 7nm FinFET,8,16,3.6,4,32,Requires discrete graphics card,NA
+2019/7/7,Ryzen 3000 series,AMD Ryzen 5 3600X,Zen,TSMC 7nm FinFET,6,12,3.8,3,32,Requires discrete graphics card,NA
+2019/7/7,Ryzen 3000 series,AMD Ryzen 5 3600,Zen,TSMC 7nm FinFET,6,12,3.6,3,32,Requires discrete graphics card,NA
+2019/7/7,Ryzen 3000 series,AMD Ryzen 5 3400GE（only OEM）,Zen,12nm,4,8,3.3,2,4,Radeon™ Vega 11 Graphics,11
+2019/7/7,Ryzen 3000 series,AMD Ryzen 5 3400G with Radeon RX Vega 11 graphics card,Zen,12nm FinFET,4,8,3.7,2,4,Radeon™ RX Vega 11 Graphics,11
+2019/7/7,Ryzen 3000 series,AMD Ryzen 3 3200GE（only OEM）,Zen,12nm,4,4,3.3,2,4,Radeon™ Vega 8 Graphics,8
+2019/7/7,Ryzen 3000 series,AMD Ryzen 3 3200G with Radeon Vega 8 graphics card,Zen,12nm FinFET,4,4,3.6,2,4,Radeon™ Vega 8 Graphics,8
+2019/7/7,Athlon 300 Series,AMD Athlon™ 320GE,Zen,14nm FinFET,2,4,3.5,1,4,Radeon™ Vega 3 Graphics,3
+2019/7/7,Athlon 300 Series,AMD Athlon™ 300GE,Zen,14nm,2,4,3.4,1,4,Radeon™ Vega 3 Graphics,3
+2019/9/24,Ryzen 3000 series,AMD Ryzen 9 3900（only OEM）,Zen,TSMC 7nm FinFET,12,24,3.1,6,64,Requires discrete graphics card,NA
+2019/9/24,Ryzen 3000 series,AMD Ryzen 5 3500X,Zen,TSMC 7nm FinFET,6,6,3.6,3,32,Requires discrete graphics card,NA
+2019/9/30,Ryzen PRO 3000 series,AMD Ryzen 9 PRO 3900,Zen,TSMC 7nm FinFET,12,24,3.1,6,64,Requires discrete graphics card,NA
+2019/9/30,Ryzen PRO 3000 series,AMD Ryzen 7 PRO 3700,Zen,TSMC 7nm FinFET,8,16,3.6,4,32,Requires discrete graphics card,NA
+2019/9/30,Ryzen PRO 3000 series,AMD Ryzen 5 PRO 3600,Zen,TSMC 7nm FinFET,6,12,3.6,3,32,Requires discrete graphics card,NA
+2019/9/30,Ryzen PRO 3000 series,AMD Ryzen 5 PRO 3400GE,Zen,12nm,4,8,3.3,2,4,Radeon™ Vega 11 Graphics,11
+2019/9/30,Ryzen PRO 3000 series,AMD Ryzen 5 PRO 3400G,Zen,12nm,4,8,3.7,2,4,Radeon™ Vega 11 Graphics,11
+2019/9/30,Ryzen PRO 3000 series,AMD Ryzen 3 PRO 3200GE,Zen,12nm,4,4,3.3,2,4,Radeon™ Vega 8 Graphics,8
+2019/9/30,Ryzen PRO 3000 series,AMD Ryzen 3 PRO 3200G,Zen,12nm,4,4,3.6,2,4,Radeon™ Vega 8 Graphics,8
+2019/9/30,Athlon PRO 300 Series,AMD Athlon™ PRO 300U Mobile Processor with Radeon™ Vega 3 Graphics,Zen,14nm,2,4,2.4,1,4,Radeon™ Vega 3 Graphics,3
+2019/9/30,Athlon PRO 300 Series,AMD Athlon™ PRO 300GE,Zen,12nm,2,4,3.4,1,4,Radeon™ Vega 3 Graphics,3
+2019/10/2,Ryzen 3000 series,AMD Ryzen 7 3780U Microsoft Surface® Edition,Zen,12nm,4,8,2.3,2,4,Radeon™ RX Vega 11 Graphics,11
+2019/10/2,Ryzen 3000 series,AMD Ryzen 5 3580U Microsoft Surface version,Zen,12nm,4,8,2.1,2,4,Radeon™ Vega 9 Graphics,9
+2019/10/9,Ryzen 3000 series,AMD Ryzen 5 3500（only OEM）,Zen,TSMC 7nm FinFET,6,6,3.6,3,16,Requires discrete graphics card,NA
+2019/10/11,Ryzen 1000 series,AMD Ryzen 5 1600 (AF),Zen,12nm,6,12,3.2,3,16,Requires discrete graphics card,NA
+2019/11/19,Athlon 3000 Series,AMD Athlon™ 3000G,Zen,14nm,2,4,3.5,1,4,Radeon™ Vega 3 Graphics,3
+2019/11/25,Ryzen Threadripper 3000 series,AMD Ryzen Threadripper 3970X,Zen,TSMC 7nm FinFET,32,64,3.7,16,128,Requires discrete graphics card,NA
+2019/11/25,Ryzen Threadripper 3000 series,AMD Ryzen Threadripper 3960X,Zen,TSMC 7nm FinFET,24,48,3.8,12,128,Requires discrete graphics card,NA
+2019/11/25,Ryzen 3000 series,AMD Ryzen 9 3950X,Zen,TSMC 7nm FinFET,16,32,3.5,8,64,Requires discrete graphics card,NA
+2020/1/6,Ryzen 4000 series,AMD Ryzen 7 4800U,Zen,TSMC 7nm FinFET,8,16,1.8,4,8,AMD Radeon™ Graphics,8
+2020/1/6,Ryzen 4000 series,AMD Ryzen 7 4800H,Zen,TSMC 7nm FinFET,8,16,2.9,4,8,AMD Radeon™ Graphics,7
+2020/1/6,Ryzen 4000 series,AMD Ryzen 7 4700U,Zen,TSMC 7nm FinFET,8,8,2,4,8,AMD Radeon™ Graphics,7
+2020/1/6,Ryzen 4000 series,AMD Ryzen 5 4600U,Zen,TSMC 7nm FinFET,6,12,2.1,3,8,AMD Radeon™ Graphics,6
+2020/1/6,Ryzen 4000 series,AMD Ryzen 5 4600H,Zen,TSMC 7nm FinFET,6,12,3,3,8,AMD Radeon™ Graphics,6
+2020/1/6,Ryzen 4000 series,AMD Ryzen 5 4500U,Zen,TSMC 7nm FinFET,6,6,2.3,3,8,AMD Radeon™ Graphics,6
+2020/1/6,Ryzen 4000 series,AMD Ryzen 3 4300U,Zen,TSMC 7nm FinFET,4,4,2.7,2,4,AMD Radeon™ Graphics,5
+2020/1/6,Ryzen 3000 series,AMD Ryzen 3 3250U,Zen,14nm,2,4,2.6,1,4,AMD Radeon™ Graphics,3
+2020/1/6,Athlon 3000 Series,AMD Athlon™ Gold 3150U,Zen,14nm,2,4,2.4,1,4,AMD Radeon™ Graphics,3
+2020/1/6,Athlon 3000 Series,AMD Athlon™ Silver 3050U,Zen,14nm,2,2,2.3,1,4,AMD Radeon™ Graphics,2
+2020/1/6,Athlon 3000 Series,AMD Athlon™ Silver 3050e,Zen,14nm,2,4,1.4,1,4,AMD Radeon™ Graphics,3
+2020/1/6,AMD 3000 Series,AMD 3020e,Zen,14nm,2,2,1.2,1,4,AMD Radeon™ Graphics,3
+2020/2/7,Ryzen Threadripper 3000 series,AMD Ryzen Threadripper 3990X,Zen,TSMC 7nm FinFET,64,128,2.9,32,256,Requires discrete graphics card,NA
+2020/3/16,Ryzen 4000 series,AMD Ryzen 9 4900H,Zen,TSMC 7nm FinFET,8,16,3.3,4,8,AMD Radeon™ Graphics,8
+2020/3/16,Ryzen 4000 series,AMD Ryzen 7 4800HS,Zen,TSMC 7nm FinFET,8,16,2.9,4,8,AMD Radeon™ Graphics,7
+2020/3/17,Ryzen 4000 series,AMD Ryzen 9 4900HS,Zen,TSMC 7nm FinFET,8,16,3,4,8,AMD Radeon™ Graphics,8
+2020/4/21,Ryzen 3000 series,AMD Ryzen 3 3300X,Zen,TSMC 7nm FinFET,4,8,3.8,2,16,Requires discrete graphics card,NA
+2020/4/21,Ryzen 3000 series,AMD Ryzen 3 3100,Zen,TSMC 7nm FinFET,4,8,3.6,2,16,Requires discrete graphics card,NA
+2020/5/1,Ryzen 3000 series,AMD Ryzen 5 3450U,Zen,12nm,4,8,2.1,2,4,Radeon™ Vega 8 Graphics,NA
+2020/5/7,Ryzen PRO 4000 series,AMD Ryzen 7 PRO 4750U,Zen,TSMC 7nm FinFET,8,16,1.7,4,8,AMD Radeon™ Graphics,7
+2020/5/7,Ryzen PRO 4000 series,AMD Ryzen 5 PRO 4650U,Zen,TSMC 7nm FinFET,6,12,2.1,3,8,AMD Radeon™ Graphics,6
+2020/5/7,Ryzen PRO 4000 series,AMD Ryzen 3 PRO 4450U,Zen,TSMC 7nm FinFET,4,8,2.5,2,4,AMD Radeon™ Graphics,5
+2020/7/6,AMD 3000 Series,AMD 3015e,Zen,14nm,2,4,1.2,1,4,AMD Radeon™ Graphics,3
+2020/7/7,Ryzen 3000 series,AMD Ryzen 9 3900XT,Zen,TSMC 7nm FinFET,12,24,3.8,6,64,Requires discrete graphics card,NA
+2020/7/7,Ryzen 3000 series,AMD Ryzen 7 3800XT,Zen,TSMC 7nm FinFET,8,16,3.9,4,32,Requires discrete graphics card,NA
+2020/7/7,Ryzen 3000 series,AMD Ryzen 5 3600XT,Zen,TSMC 7nm FinFET,6,12,3.8,3,32,Requires discrete graphics card,NA
+2020/7/14,Ryzen Threadripper PRO 3000 WX series,AMD Ryzen Threadripper PRO 3995WX,Zen,TSMC 7nm FinFET,64,128,2.7,32,256,Requires discrete graphics card,NA
+2020/7/14,Ryzen Threadripper PRO 3000 WX series,AMD Ryzen Threadripper PRO 3975WX,Zen,TSMC 7nm FinFET,32,64,3.5,16,128,Requires discrete graphics card,NA
+2020/7/14,Ryzen Threadripper PRO 3000 WX series,AMD Ryzen Threadripper PRO 3955WX,Zen,TSMC 7nm FinFET,16,32,3.9,8,64,Requires discrete graphics card,NA
+2020/7/14,Ryzen Threadripper PRO 3000 WX series,AMD Ryzen Threadripper PRO 3945WX,Zen,TSMC 7nm FinFET,12,24,4,6,64,Requires discrete graphics card,NA
+2020/7/21,Ryzen PRO 4000 series,AMD Ryzen 7 PRO 4750GE,Zen,TSMC 7nm FinFET,8,16,3.1,4,8,Radeon™ Graphics,8
+2020/7/21,Ryzen PRO 4000 series,AMD Ryzen 7 PRO 4750G,Zen,TSMC 7nm FinFET,8,16,3.6,4,8,Radeon™ Graphics,8
+2020/7/21,Ryzen PRO 4000 series,AMD Ryzen 5 PRO 4650GE,Zen,TSMC 7nm FinFET,6,12,3.3,3,8,Radeon™ Graphics,7
+2020/7/21,Ryzen PRO 4000 series,AMD Ryzen 5 PRO 4650G,Zen,TSMC 7nm FinFET,6,12,3.7,3,8,Radeon™ Graphics,7
+2020/7/21,Ryzen PRO 4000 series,AMD Ryzen 3 PRO 4355GE,Zen,TSMC 7nm FinFET,4,8,3.5,2,4,Radeon™ Vega 6 Graphics,6
+2020/7/21,Ryzen PRO 4000 series,AMD Ryzen 3 PRO 4355G,Zen,TSMC 7nm FinFET,4,8,3.8,2,4,Radeon™ Graphics,6
+2020/7/21,Ryzen PRO 4000 series,AMD Ryzen 3 PRO 4350GE,Zen,TSMC 7nm FinFET,4,8,3.5,2,4,Radeon™ Vega 6 Graphics,6
+2020/7/21,Ryzen PRO 4000 series,AMD Ryzen 3 PRO 4350G,Zen,TSMC 7nm FinFET,4,8,3.8,2,4,Radeon™ Graphics,6
+2020/7/21,Ryzen 4000 series,AMD Ryzen 7 4700GE（only OEM）,Zen,TSMC 7nm FinFET,8,16,3.1,4,8,Radeon™  Graphics,8
+2020/7/21,Ryzen 4000 series,AMD Ryzen 7 4700G（only OEM）,Zen,TSMC 7nm FinFET,8,16,3.6,4,8,Radeon™ Graphics,8
+2020/7/21,Ryzen 4000 series,AMD Ryzen 5 4600GE（only OEM）,Zen,TSMC 7nm FinFET,6,12,3.3,3,8,Radeon™  Graphics,7
+2020/7/21,Ryzen 4000 series,AMD Ryzen 5 4600G,Zen,TSMC 7nm FinFET,6,12,3.7,3,8,Radeon™  Graphics,7
+2020/7/21,Ryzen 4000 series,AMD Ryzen 3 4300GE（only OEM）,Zen,TSMC 7nm FinFET,4,8,3.5,2,4,Radeon™  Graphics,6
+2020/7/21,Ryzen 4000 series,AMD Ryzen 3 4300G（only OEM）,Zen,TSMC 7nm FinFET,4,8,3.8,2,4,Radeon™  Graphics,6
+2020/7/21,Ryzen PRO 3000 series,AMD Ryzen 5 PRO 3350GE,Zen,12nm,4,4,3.3,2,4,Radeon™  Graphics,10
+2020/7/21,Ryzen PRO 3000 series,AMD Ryzen 5 PRO 3350G,Zen,12nm,4,8,3.6,2,4,Radeon™  Graphics,10
+2020/7/21,Athlon PRO 3000 Series,AMD Athlon™ Gold PRO 3150GE,Zen,12nm,4,4,3.3,2,4,Radeon™  Graphics,3
+2020/7/21,Athlon PRO 3000 Series,AMD Athlon™ Gold PRO 3150G,Zen,12nm,4,4,3.5,2,4,Radeon™  Graphics,3
+2020/7/21,Athlon PRO 3000 Series,AMD Athlon™ Silver PRO 3125GE,Zen,12nm,2,4,3.4,1,4,Radeon™  Graphics,3
+2020/7/21,Athlon 3000 Series,AMD Athlon™ Gold 3150GE (OEM Only),Zen,12nm,4,4,3.3,2,4,Radeon™  Graphics,3
+2020/7/21,Athlon 3000 Series,AMD Athlon™ Gold 3150G (OEM Only),Zen,12nm,4,4,3.5,2,4,Radeon™  Graphics,3
+2020/7/21,Athlon 3000 Series,AMD Athlon™ Silver 3050GE (OEM Only),Zen,14nm,2,4,3.4,1,4,Radeon™  Graphics,3
+2020/9/22,Ryzen 3000 series,AMD Ryzen 7 3700C,Zen,12nm,4,8,2.3,2,4,AMD Radeon™ Graphics,10
+2020/9/22,Ryzen 3000 series,AMD Ryzen 5 3500C,Zen,12nm,4,8,2.1,2,4,AMD Radeon™ Graphics,8
+2020/9/22,Ryzen 3000 series,AMD Ryzen 3 3250C,Zen,14nm,2,4,2.6,1,4,AMD Radeon™ Graphics,3
+2020/9/22,Athlon 3000 Series,AMD Athlon™ Gold 3150C,Zen,14nm,2,4,2.4,1,4,AMD Radeon™ Graphics,3
+2020/9/22,Athlon 3000 Series,AMD Athlon™  Silver 3050C,Zen,14nm,2,2,2.3,1,4,AMD Radeon™ Graphics,2
+2020/11/5,Ryzen 5000 series,AMD Ryzen 9 5950X,Zen,TSMC 7nm FinFET,16,32,3.4,8,64,Requires discrete graphics card,NA
+2020/11/5,Ryzen 5000 series,AMD Ryzen 9 5900X,Zen,TSMC 7nm FinFET,12,24,3.7,6,64,Requires discrete graphics card,NA
+2020/11/5,Ryzen 5000 series,AMD Ryzen 7 5800X,Zen,TSMC 7nm FinFET,8,16,3.8,4,32,Requires discrete graphics card,NA
+2020/11/5,Ryzen 5000 series,AMD Ryzen 5 5600X,Zen,TSMC 7nm FinFET,6,12,3.7,3,32,Requires discrete graphics card,NA
+2021/1/1,Athlon PRO 3000 Series,AMD Athlon™ PRO 3145B,Zen,14nm,2,4,2.4,1,4,AMD Radeon™ Graphics,3
+2021/1/1,Athlon PRO 3000 Series,AMD Athlon™ PRO 3045B,Zen,14nm,2,2,2.3,1,4,AMD Radeon™ Graphics,2
+2021/1/12,Ryzen 5000 series,AMD Ryzen 9 5980HX,Zen,TSMC 7nm FinFET,8,16,3.3,4,16,AMD Radeon™ Graphics,8
+2021/1/12,Ryzen 5000 series,AMD Ryzen 9 5980HS,Zen,TSMC 7nm FinFET,8,16,3,4,16,AMD Radeon™ Graphics,8
+2021/1/12,Ryzen 5000 series,AMD Ryzen 9 5900HX,Zen,TSMC 7nm FinFET,8,16,3.3,4,16,AMD Radeon™ Graphics,8
+2021/1/12,Ryzen 5000 series,AMD Ryzen 9 5900HS,Zen,TSMC 7nm FinFET,8,16,3,4,16,AMD Radeon™ Graphics,NA
+2021/1/12,Ryzen 5000 series,AMD Ryzen 9 5900（only OEM）,Zen,TSMC 7nm FinFET,12,24,3,6,64,Requires discrete graphics card,NA
+2021/1/12,Ryzen 5000 series,AMD Ryzen 7 5800U,Zen,TSMC 7nm FinFET,8,16,1.9,4,16,AMD Radeon™ Graphics,8
+2021/1/12,Ryzen 5000 series,AMD Ryzen 7 5800HS,Zen,TSMC 7nm FinFET,8,16,2.8,4,16,AMD Radeon™ Graphics,8
+2021/1/12,Ryzen 5000 series,AMD Ryzen 7 5800H,Zen,TSMC 7nm FinFET,8,16,3.2,4,16,AMD Radeon™ Graphics,8
+2021/1/12,Ryzen 5000 series,AMD Ryzen 7 5800（only OEM）,Zen,TSMC 7nm FinFET,8,16,3.4,4,32,Requires discrete graphics card,NA
+2021/1/12,Ryzen 5000 series,AMD Ryzen 7 5700U,Zen,TSMC 7nm FinFET,8,16,1.8,4,8,AMD Radeon™ Graphics,8
+2021/1/12,Ryzen 5000 series,AMD Ryzen 5 5600U,Zen,TSMC 7nm FinFET,6,12,2.3,3,16,AMD Radeon™ Graphics,7
+2021/1/12,Ryzen 5000 series,AMD Ryzen 5 5600HS,Zen,TSMC 7nm FinFET,6,12,3,3,16,AMD Radeon™ Graphics,7
+2021/1/12,Ryzen 5000 series,AMD Ryzen 5 5600H,Zen,TSMC 7nm FinFET,6,12,3.3,3,16,AMD Radeon™ Graphics,7
+2021/1/12,Ryzen 5000 series,AMD Ryzen 5 5560U,Zen,TSMC 7nm FinFET,6,12,2.3,3,8,AMD Radeon™  Graphics,6
+2021/1/12,Ryzen 5000 series,AMD Ryzen 5 5500U,Zen,TSMC 7nm FinFET,6,12,2.1,3,8,AMD Radeon™ Graphics,7
+2021/1/12,Ryzen 5000 series,AMD Ryzen 3 5400U,Zen,TSMC 7nm FinFET,4,8,2.6,2,8,AMD Radeon™ Graphics,6
+2021/1/12,Ryzen 5000 series,AMD Ryzen 3 5300U,Zen,TSMC 7nm FinFET,4,8,2.6,2,4,AMD Radeon™ Graphics,6
+2021/1/23,Ryzen 5000 series,AMD Ryzen 3 5305GE,Zen,TSMC 7nm FinFET,4,8,3.6,2,8,Radeon™ Graphics,6
+2021/3/16,Ryzen PRO 5000 series,AMD Ryzen 7 PRO 5850U,Zen,TSMC 7nm FinFET,8,16,1.9,4,16,AMD Radeon™ Graphics,8
+2021/3/16,Ryzen PRO 5000 series,AMD Ryzen 5 PRO 5650U,Zen,TSMC 7nm FinFET,6,12,2.3,3,16,AMD Radeon™ Graphics,7
+2021/3/16,Ryzen PRO 5000 series,AMD Ryzen 3 PRO 5450U,Zen,TSMC 7nm FinFET,4,8,2.6,2,8,AMD Radeon™ Graphics,6
+2021/4/13,Ryzen 5000 series,AMD Ryzen 7 5700GE,Zen,TSMC 7nm FinFET,8,16,3.2,4,16,Radeon™  Graphics,8
+2021/4/13,Ryzen 5000 series,AMD Ryzen 7 5700G,Zen,TSMC 7nm FinFET,8,16,3.8,4,16,Radeon™  Graphics,8
+2021/4/13,Ryzen 5000 series,AMD Ryzen 5 5600GE,Zen,TSMC 7nm FinFET,6,12,3.4,3,16,Radeon™  Graphics,7
+2021/4/13,Ryzen 5000 series,AMD Ryzen 5 5600G,Zen,TSMC 7nm FinFET,6,12,3.9,3,16,Radeon™  Graphics,7
+2021/4/13,Ryzen 5000 series,AMD Ryzen 3 5300GE（only OEM）,Zen,TSMC 7nm FinFET,4,8,3.6,2,8,Radeon™  Graphics,6
+2021/4/13,Ryzen 5000 series,AMD Ryzen 3 5300G（only OEM）,Zen,TSMC 7nm FinFET,4,8,4,2,8,Radeon™  Graphics,6
+2021/4/13,Ryzen 4000 series,AMD Ryzen 7 4980U Microsoft Surface version,Zen,TSMC 7nm FinFET,8,16,2,4,8,Radeon™  Graphics,8
+2021/4/13,Ryzen 4000 series,AMD Ryzen 5 4680U Microsoft Surface version,Zen,TSMC 7nm FinFET,6,12,2.2,3,8,Radeon™  Graphics,7
+2021/4/29,AMD 3000 Series,AMD 3015Ce,Zen,14nm,2,4,1.2,1,4,Radeon™  Graphics,3
+2021/6/1,Ryzen PRO 5000 series,AMD Ryzen 7 PRO 5750GE,Zen,TSMC 7nm FinFET,8,16,3.2,4,16,Radeon™  Graphics,8
+2021/6/1,Ryzen PRO 5000 series,AMD Ryzen 7 PRO 5750G,Zen,TSMC 7nm FinFET,8,16,3.8,4,16,Radeon™  Graphics,8
+2021/6/1,Ryzen PRO 5000 series,AMD Ryzen 5 PRO 5650GE,Zen,TSMC 7nm FinFET,6,12,3.4,3,16,Radeon™  Graphics,7
+2021/6/1,Ryzen PRO 5000 series,AMD Ryzen 5 PRO 5650G,Zen,TSMC 7nm FinFET,6,12,3.9,3,16,Radeon™  Graphics,7
+2021/6/1,Ryzen PRO 5000 series,AMD Ryzen 3 PRO 5350GE,Zen,TSMC 7nm FinFET,4,8,3.6,2,8,Radeon™  Graphics,6
+2021/6/1,Ryzen PRO 5000 series,AMD Ryzen 3 PRO 5350G,Zen,TSMC 7nm FinFET,4,8,4,2,8,Radeon™  Graphics,6
+2022/1/4,Ryzen 6000 series,AMD Ryzen 9 6980HX,Zen,TSMC 6nm FinFET,8,16,3.3,4,16,AMD Radeon™ 680M,12
+2022/1/4,Ryzen 6000 series,AMD Ryzen 9 6980HS,Zen,TSMC 6nm FinFET,8,16,3.3,4,16,AMD Radeon™ 680M,12
+2022/1/4,Ryzen 6000 series,AMD Ryzen 9 6900HX,Zen,TSMC 6nm FinFET,8,16,3.3,4,16,AMD Radeon™ 680M,12
+2022/1/4,Ryzen 6000 series,AMD Ryzen 9 6900HS​,Zen,TSMC 6nm FinFET,8,16,3.3,4,16,AMD Radeon™ 680M,12
+2022/1/4,Ryzen 6000 series,AMD Ryzen 7 6800U​,Zen,TSMC 6nm FinFET,8,16,2.7,4,16,AMD Radeon™ 680M,12
+2022/1/4,Ryzen 6000 series,AMD Ryzen 7 6800HS,Zen,TSMC 6nm FinFET,8,16,3.2,4,16,AMD Radeon™ 680M,12
+2022/1/4,Ryzen 6000 series,AMD Ryzen 7 6800H,Zen,TSMC 6nm FinFET,8,16,3.2,4,16,AMD Radeon™ 680M,12
+2022/1/4,Ryzen 6000 series,AMD Ryzen 5 6600U,Zen,TSMC 6nm FinFET,6,12,2.9,3,16,AMD Radeon™ 660M,6
+2022/1/4,Ryzen 6000 series,AMD Ryzen 5 6600HS​,Zen,TSMC 6nm FinFET,6,12,3.3,3,16,AMD Radeon™ 660M,6
+2022/1/4,Ryzen 6000 series,AMD Ryzen 5 6600H,Zen,TSMC 6nm FinFET,6,12,3.3,3,16,AMD Radeon™ 660M,6
+2022/1/30,Ryzen PRO 5000 series,AMD Ryzen 7 PRO 5875U,Zen,TSMC 7nm FinFET,8,16,2,4,16,AMD Radeon™ Graphics,8
+2022/1/30,Ryzen PRO 5000 series,AMD Ryzen 5 PRO 5675U,Zen,TSMC 7nm FinFET,6,12,2.3,3,16,AMD Radeon™ Graphics,7
+2022/1/30,Ryzen PRO 5000 series,AMD Ryzen 3 PRO 5475U,Zen,TSMC 7nm FinFET,4,8,2.7,2,8,AMD Radeon™ Graphics,6
+2022/1/30,Ryzen 5000 series,AMD Ryzen 7 5825U,Zen,TSMC 7nm FinFET,8,16,2,4,16,AMD Radeon™ Graphics,8
+2022/1/30,Ryzen 5000 series,AMD Ryzen 5 5625U,Zen,TSMC 7nm FinFET,6,12,2.3,3,16,AMD Radeon™ Graphics,7
+2022/1/30,Ryzen 5000 series,AMD Ryzen 3 5425U,Zen,TSMC 7nm FinFET,4,8,2.7,2,8,AMD Radeon™ Graphics,6
+2022/3/8,Ryzen Threadripper PRO 5000 WX series,AMD Ryzen Threadripper PRO 5995WX,Zen,TSMC 7nm FinFET,64,128,2.7,32,256,Requires discrete graphics card,NA
+2022/3/8,Ryzen Threadripper PRO 5000 WX series,AMD Ryzen Threadripper PRO 5975WX,Zen,TSMC 7nm FinFET,32,64,3.6,16,128,Requires discrete graphics card,NA
+2022/3/8,Ryzen Threadripper PRO 5000 WX series,AMD Ryzen Threadripper PRO 5965WX,Zen,TSMC 7nm FinFET,24,48,3.8,12,128,Requires discrete graphics card,NA
+2022/3/8,Ryzen Threadripper PRO 5000 WX series,AMD Ryzen Threadripper PRO 5955WX,Zen,TSMC 7nm FinFET,16,32,4,8,64,Requires discrete graphics card,NA
+2022/3/8,Ryzen Threadripper PRO 5000 WX series,AMD Ryzen Threadripper PRO 5945WX,Zen,TSMC 7nm FinFET,12,24,4.1,6,64,Requires discrete graphics card,NA
+2022/4/4,Ryzen 5000 series,AMD Ryzen 7 5700X,Zen,TSMC 7nm FinFET,8,16,3.4,4,32,Requires discrete graphics card,NA
+2022/4/4,Ryzen 5000 series,AMD Ryzen 5 5600,Zen,TSMC 7nm FinFET,6,12,3.5,3,32,Requires discrete graphics card,NA
+2022/4/4,Ryzen 5000 series,AMD Ryzen 5 5500,Zen,TSMC 7nm FinFET,6,12,3.6,3,16,Requires discrete graphics card,NA
+2022/4/4,Ryzen 4000 series,AMD Ryzen 5 4500,Zen,TSMC 7nm FinFET,6,12,3.6,3,8,Requires discrete graphics card,NA
+2022/4/4,Ryzen 4000 series,AMD Ryzen 3 4100,Zen,TSMC 7nm FinFET,4,8,3.8,2,4,Requires discrete graphics card,NA
+2022/4/19,Ryzen PRO 6000 series,AMD Ryzen 9 PRO 6950HS,Zen,TSMC 6nm FinFET,8,16,3.3,4,16,AMD Radeon™ 680M,12
+2022/4/19,Ryzen PRO 6000 series,AMD Ryzen 9 PRO 6950H,Zen,TSMC 6nm FinFET,8,16,3.3,4,16,AMD Radeon™ 680M,12
+2022/4/19,Ryzen PRO 6000 series,AMD Ryzen 7 PRO 6860Z,Zen,TSMC 6nm FinFET,8,16,2.7,4,16,AMD Radeon™ 680M,12
+2022/4/19,Ryzen PRO 6000 series,AMD Ryzen 7 PRO 6850U,Zen,TSMC 6nm FinFET,8,16,2.7,4,16,AMD Radeon™ 680M,12
+2022/4/19,Ryzen PRO 6000 series,AMD Ryzen 7 PRO 6850HS,Zen,TSMC 6nm FinFET,8,16,3.2,4,16,AMD Radeon™ 680M,12
+2022/4/19,Ryzen PRO 6000 series,AMD Ryzen 7 PRO 6850H,Zen,TSMC 6nm FinFET,8,16,3.2,4,16,AMD Radeon™ 680M,12
+2022/4/19,Ryzen PRO 6000 series,AMD Ryzen 5 PRO 6650U,Zen,TSMC 6nm FinFET,6,12,2.9,3,16,AMD Radeon™ 660M,6
+2022/4/19,Ryzen PRO 6000 series,AMD Ryzen 5 PRO 6650HS,Zen,TSMC 6nm FinFET,6,12,3.3,3,16,AMD Radeon™ 660M,6
+2022/4/19,Ryzen PRO 6000 series,AMD Ryzen 5 PRO 6650H,Zen,TSMC 6nm FinFET,6,12,3.3,3,16,AMD Radeon™ 660M,6
+2022/4/20,Ryzen 5000 series,AMD Ryzen 7 5800X3D,Zen,TSMC 7nm FinFET,8,16,3.4,4,96,Requires discrete graphics card,NA
+2022/5/5,Ryzen 5000 series,AMD Ryzen 7 5825C,Zen,TSMC 7nm FinFET,8,16,2,4,16,AMD Radeon™ Graphics,8
+2022/5/5,Ryzen 5000 series,AMD Ryzen 5 5625C,Zen,TSMC 7nm FinFET,6,12,2.3,3,16,AMD Radeon™ Graphics,7
+2022/5/5,Ryzen 5000 series,AMD Ryzen 3 5425C,Zen,TSMC 7nm FinFET,4,8,2.7,2,8,AMD Radeon™ Graphics,6
+2022/5/5,Ryzen 5000 series,AMD Ryzen 3 5125C,Zen,TSMC 7nm FinFET,2,4,3,1,8,AMD Radeon™ Graphics,3
+2022/9/7,Ryzen PRO 5000 series,AMD Ryzen 9 PRO 5945,Zen,TSMC 7nm FinFET,12,24,3,6,64,NA,NA
+2022/9/7,Ryzen PRO 5000 series,AMD Ryzen 7 PRO 5845,Zen,TSMC 7nm FinFET,8,16,3.4,4,32,NA,NA
+2022/9/20,Ryzen 7000 series,AMD Ryzen 5 7520U,Zen,TSMC 6nm FinFET,4,8,2.8,2,4,AMD Radeon™ 610M,2
+2022/9/20,Ryzen 7000 series,AMD Ryzen 3 7320U,Zen,TSMC 6nm FinFET,4,8,2.4,2,4,AMD Radeon™ 610M,2
+2022/9/20,Athlon 7000 Series,AMD Athlon™ Gold 7220U,Zen,TSMC 6nm FinFET,2,4,2.4,1,4,AMD Radeon™ 610M,2
+2022/9/20,Athlon 7000 Series,AMD Athlon™ Silver 7120U,Zen,TSMC 6nm FinFET,2,2,2.4,1,2,AMD Radeon™ 610M,2
+2022/9/27,Ryzen 7000 series,AMD Ryzen 9 7950X,Zen,TSMC 5nm FinFET,16,32,4.5,16,64,AMD Radeon™ Graphics,2
+2022/9/27,Ryzen 7000 series,AMD Ryzen 9 7900X,Zen,TSMC 5nm FinFET,12,24,4.7,12,64,AMD Radeon™ Graphics,2
+2022/9/27,Ryzen 7000 series,AMD Ryzen 7 7700X,Zen,TSMC 5nm FinFET,8,16,4.5,8,32,AMD Radeon™ Graphics,2
+2022/9/27,Ryzen 7000 series,AMD Ryzen 5 7600X,Zen,TSMC 5nm FinFET,6,12,4.7,6,32,AMD Radeon™ Graphics,2
+2022/10/25,Ryzen PRO 5000 series,AMD Ryzen 5 PRO 5645,Zen,TSMC 7nm FinFET,6,12,3.7,3,32,NA,NA
+2022/11/11,Ryzen PRO 4000 series,AMD Ryzen 5 PRO 4655GE,Zen,TSMC 7nm FinFET,6,12,3.3,3,8,Radeon™ Graphics,7
+2022/11/11,Ryzen PRO 4000 series,AMD Ryzen 5 PRO 4655G,Zen,TSMC 7nm FinFET,6,12,3.7,3,8,Radeon™ Graphics,7
+2023/1/4,Ryzen PRO 7000 series,AMD Ryzen 7 PRO 7730U,Zen,TSMC 7nm FinFET,8,16,2,4,16,AMD Radeon™ Graphics,8
+2023/1/4,Ryzen PRO 7000 series,AMD Ryzen 5 PRO 7530U,Zen,TSMC 7nm FinFET,6,12,2,3,16,AMD Radeon™ Graphics,7
+2023/1/4,Ryzen PRO 7000 series,AMD Ryzen 3 PRO 7330U,Zen,TSMC 7nm FinFET,4,8,2.3,2,8,AMD Radeon™ Graphics,6
+2023/1/4,Ryzen 7000 series,AMD Ryzen 9 7940HS,Zen,TSMC 4nm FinFET,8,16,4,8,16,AMD Radeon™ 780M,12
+2023/1/4,Ryzen 7000 series,AMD Ryzen 9 7940H,Zen,TSMC 4nm FinFET,8,16,4,8,16,AMD Radeon™ 780M,12
+2023/1/4,Ryzen 7000 series,AMD Ryzen 7 7840HS,Zen,TSMC 4nm FinFET,8,16,3.8,8,16,AMD Radeon™ 780M,12
+2023/1/4,Ryzen 7000 series,AMD Ryzen 7 7840H,Zen,TSMC 4nm FinFET,8,16,3.8,8,16,AMD Radeon™ 780M,12
+2023/1/4,Ryzen 7000 series,AMD Ryzen 7 7736U​,Zen,TSMC 6nm FinFET,8,16,2.7,4,16,AMD Radeon™ 680M,12
+2023/1/4,Ryzen 7000 series,AMD Ryzen 7 7735U,Zen,TSMC 6nm FinFET,8,16,2.7,4,16,AMD Radeon™ 680M,12
+2023/1/4,Ryzen 7000 series,AMD Ryzen 7 7735HS,Zen,TSMC 6nm FinFET,8,16,3.2,4,16,AMD Radeon™ 680M,12
+2023/1/4,Ryzen 7000 series,AMD Ryzen 7 7735H,Zen,TSMC 6nm FinFET,8,16,3.2,4,16,AMD Radeon™ 680M,12
+2023/1/4,Ryzen 7000 series,AMD Ryzen 7 7730U,Zen,TSMC 7nm FinFET,8,16,2,4,16,AMD Radeon™ Graphics,8
+2023/1/4,Ryzen 7000 series,AMD Ryzen 5 7640HS,Zen,TSMC 4nm FinFET,6,12,4.3,6,16,AMD Radeon™ 760M,8
+2023/1/4,Ryzen 7000 series,AMD Ryzen 5 7640H,Zen,TSMC 4nm FinFET,6,12,4.3,6,16,AMD Radeon™ 760M,8
+2023/1/4,Ryzen 7000 series,AMD Ryzen 5 7535H,Zen,TSMC 6nm FinFET,6,12,3.3,3,16,AMD Radeon™ 660M,6
+2023/1/4,Ryzen 7000 series,AMD Ryzen 5 7530U,Zen,TSMC 7nm FinFET,6,12,2,3,16,AMD Radeon™ Graphics,7
+2023/1/4,Ryzen 7000 series,AMD Ryzen 3 7335U,Zen,TSMC 6nm FinFET,4,8,3,2,8,AMD Radeon™ 660M,4
+2023/1/4,Ryzen 7000 series,AMD Ryzen 3 7330U,Zen,TSMC 7nm FinFET,4,8,2.3,2,8,AMD Radeon™ Graphics,6
+2023/1/5,Ryzen 7000 series,AMD Ryzen 5 7535U,Zen,TSMC 6nm FinFET,6,12,2.9,3,16,AMD Radeon™ 660M,6
+2023/1/5,Ryzen 7000 series,AMD Ryzen 5 7535HS,Zen,TSMC 6nm FinFET,6,12,3.3,3,16,AMD Radeon™ 660M,6
+2023/1/5,Ryzen 7000 series,AMD Ryzen 5 7430U,Zen,TSMC 7nm FinFET,6,12,2.3,3,16,AMD Radeon™ Graphics,7
+2023/1/14,Ryzen 7000 series,AMD Ryzen 9 7900,Zen,TSMC 5nm FinFET,12,24,3.7,12,64,AMD Radeon™ Graphics,2
+2023/1/14,Ryzen 7000 series,AMD Ryzen 7 7700,Zen,TSMC 5nm FinFET,8,16,3.8,8,32,AMD Radeon™ Graphics,2
+2023/1/14,Ryzen 7000 series,AMD Ryzen 5 7600,Zen,TSMC 5nm FinFET,6,12,3.8,6,32,AMD Radeon™ Graphics,2
+2023/2/28,Ryzen 7000 series,AMD Ryzen 9 7950X3D,Zen,TSMC 5nm FinFET,16,32,4.2,16,128,AMD Radeon™ Graphics,2
+2023/2/28,Ryzen 7000 series,AMD Ryzen 9 7945HX,Zen,TSMC 5nm FinFET,16,32,2.5,16,64,AMD Radeon™ 610M,2
+2023/2/28,Ryzen 7000 series,AMD Ryzen 9 7900X3D,Zen,TSMC 5nm FinFET,12,24,4.4,12,128,AMD Radeon™ Graphics,2
+2023/2/28,Ryzen 7000 series,AMD Ryzen 9 7845HX,Zen,TSMC 5nm FinFET,12,24,3,12,64,AMD Radeon™ 610M,2
+2023/2/28,Ryzen 7000 series,AMD Ryzen 7 7745HX,Zen,TSMC 5nm FinFET,8,16,3.6,8,32,AMD Radeon™ 610M,2
+2023/2/28,Ryzen 7000 series,AMD Ryzen 5 7645HX,Zen,TSMC 5nm FinFET,6,12,4,6,32,AMD Radeon™ 610M,2
+2023/4/6,Ryzen 7000 series,AMD Ryzen 7 7800X3D,Zen,TSMC 5nm FinFET,8,16,4.2,8,96,AMD Radeon™ Graphics,2
+2023/4/26,Ryzen Z1,AMD Ryzen Z1 Extreme,Zen,NA,8,16,3.3,8,16,AMD Radeon™ Graphics,12
+2023/4/26,Ryzen Z1,AMD Ryzen Z1,Zen,NA,6,12,3.2,6,16,AMD Radeon™ Graphics,4
+2023/5/1,Athlon 7000 Series,AMD Athlon™ Gold 7220C,Zen,TSMC 6nm FinFET,2,4,2.4,1,2,AMD Radeon™ 610M,2
+2023/5/3,Ryzen 7000 series,AMD Ryzen 7 7840U,Zen,TSMC 4nm FinFET,8,16,3.3,8,16,AMD Radeon™ 780M,12
+2023/5/3,Ryzen 7000 series,AMD Ryzen 5 7640U,Zen,TSMC 4nm FinFET,6,12,3.5,6,16,AMD Radeon™ 760M,8
+2023/5/3,Ryzen 7000 series,AMD Ryzen 5 7540U,Zen,TSMC 4nm FinFET,6,12,3.2,6,16,AMD Radeon™ 740M,4
+2023/5/3,Ryzen 7000 series,AMD Ryzen 3 7440U,Zen,TSMC 4nm FinFET,4,8,3,4,8,AMD Radeon™ 740M,4
+2023/5/23,Ryzen 7000 series,AMD Ryzen 5 7520C,Zen,TSMC 6nm FinFET,4,8,2.8,2,4,AMD Radeon™ 610M,2
+2023/5/23,Ryzen 7000 series,AMD Ryzen 3 7320C,Zen,TSMC 6nm FinFET,4,8,2.4,2,4,AMD Radeon™ 610M,2
+2023/5/23,Athlon 7000 Series,AMD Athlon™ Silver 7120C,Zen,TSMC 6nm FinFET,2,2,2.4,1,2,AMD Radeon™ 610M,2
+2023/6/13,Ryzen PRO 7000 series,AMD Ryzen 9 PRO 7945,Zen,TSMC 5nm FinFET,12,24,3.7,12,64,AMD Radeon™ Graphics,2
+2023/6/13,Ryzen PRO 7000 series,AMD Ryzen 9 PRO 7940HS,Zen,TSMC 4nm FinFET,8,16,4,8,16,AMD Radeon™ 780M,12
+2023/6/13,Ryzen PRO 7000 series,AMD Ryzen 7 PRO 7840U,Zen,TSMC 4nm FinFET,8,16,3.3,8,16,AMD Radeon™ 780M,12
+2023/6/13,Ryzen PRO 7000 series,AMD Ryzen 7 PRO 7840HS,Zen,TSMC 4nm FinFET,8,16,3.8,8,16,AMD Radeon™ 780M,12
+2023/6/13,Ryzen PRO 7000 series,AMD Ryzen 7 PRO 7745,Zen,TSMC 5nm FinFET,8,16,3.8,8,32,AMD Radeon™ Graphics,2
+2023/6/13,Ryzen PRO 7000 series,AMD Ryzen 5 PRO 7645,Zen,TSMC 5nm FinFET,6,12,3.8,6,32,AMD Radeon™ Graphics,2
+2023/6/13,Ryzen PRO 7000 series,AMD Ryzen 5 PRO 7640U,Zen,TSMC 4nm FinFET,6,12,3.5,6,16,AMD Radeon™ 760M,8
+2023/6/13,Ryzen PRO 7000 series,AMD Ryzen 5 PRO 7640HS,Zen,TSMC 4nm FinFET,6,12,4.3,6,16,AMD Radeon™ 760M,8
+2023/6/13,Ryzen PRO 7000 series,AMD Ryzen 5 PRO 7540U,Zen,TSMC 4nm FinFET,6,12,3.2,6,16,AMD Radeon™ 740M,4
+2023/6/23,Ryzen 5000 series,AMD Ryzen 5 5500H,Zen,TSMC 7nm FinFET,4,8,3.3,2,8,AMD Radeon™ Graphics,6
+2023/7/7,Ryzen 5000 series,AMD Ryzen 5 5600X3D,Zen,TSMC 7nm FinFET,6,12,3.3,3,96,Requires discrete graphics card,NA
+2023/7/22,Ryzen 7000 series,AMD Ryzen 5 7500F,Zen,TSMC 5nm FinFET,6,12,3.7,6,32,Requires discrete graphics card,NA
+2023/7/27,Ryzen 7000 series,AMD Ryzen 9 7945HX3D,Zen,TSMC 5nm FinFET,16,32,2.3,16,128,AMD Radeon™ 610M,2
+2023/9/30,Ryzen PRO 7000 series,AMD Ryzen 7 PRO 7735U,Zen,TSMC 6nm FinFET,8,16,2.7,4,16,AMD Radeon™ 680M,12
+2023/9/30,Ryzen PRO 7000 series,AMD Ryzen 5 PRO 7535U,Zen,TSMC 6nm FinFET,6,12,2.9,3,16,AMD Radeon™ 660M,6
+2023/9/30,Ryzen PRO 7000 series,AMD Ryzen 3 PRO 7335U,Zen,TSMC 6nm FinFET,4,8,3,8,NA,AMD Radeon™ 660M,4
+2023/10/19,Ryzen Threadripper PRO 7000 WX series,AMD Ryzen Threadripper PRO 7995WX,Zen,TSMC 5nm FinFET,96,192,2.5,96,384,Requires discrete graphics card,NA
+2023/10/19,Ryzen Threadripper PRO 7000 WX series,AMD Ryzen Threadripper PRO 7985WX,Zen,TSMC 5nm FinFET,64,128,3.2,64,256,Requires discrete graphics card,NA
+2023/10/19,Ryzen Threadripper PRO 7000 WX series,AMD Ryzen Threadripper PRO 7975WX,Zen,TSMC 5nm FinFET,32,64,4,32,128,Requires discrete graphics card,NA
+2023/10/19,Ryzen Threadripper PRO 7000 WX series,AMD Ryzen Threadripper PRO 7965WX,Zen,TSMC 5nm FinFET,24,48,4.2,24,128,Requires discrete graphics card,NA
+2023/10/19,Ryzen Threadripper PRO 7000 WX series,AMD Ryzen Threadripper PRO 7955WX,Zen,TSMC 5nm FinFET,16,32,4.5,16,64,Requires discrete graphics card,NA
+2023/10/19,Ryzen Threadripper PRO 7000 WX series,AMD Ryzen Threadripper PRO 7945WX,Zen,TSMC 5nm FinFET,12,24,4.7,12,64,Requires discrete graphics card,NA
+2023/10/19,Ryzen Threadripper 7000 series,AMD Ryzen Threadripper 7980X,Zen,TSMC 5nm FinFET,64,128,3.2,64,256,Requires discrete graphics card,NA
+2023/10/19,Ryzen Threadripper 7000 series,AMD Ryzen Threadripper 7970X,Zen,TSMC 5nm FinFET,32,64,4,32,128,Requires discrete graphics card,NA
+2023/10/19,Ryzen Threadripper 7000 series,AMD Ryzen Threadripper 7960X,Zen,TSMC 5nm FinFET,24,48,4.2,24,128,Requires discrete graphics card,NA
+2023/11/2,Ryzen PRO 7000 series,AMD Ryzen 5 PRO 7545U,Zen,TSMC 4nm FinFET,6,12,3.2,6,16,AMD Radeon™ 740M,4
+2023/11/2,Ryzen 7000 series,AMD Ryzen 5 7545U,Zen,TSMC 4nm FinFET,6,12,3.2,6,16,AMD Radeon™ 740M,4
+2023/12/6,Ryzen 8000 series,AMD Ryzen 9 8945HS,Zen,TSMC 4nm FinFET,8,16,4,8,16,AMD Radeon™ 780M,12
+2023/12/6,Ryzen 8000 series,AMD Ryzen 9 8945H,Zen,TSMC 4nm FinFET,8,16,4,8,16,AMD Radeon™ 780M,12
+2023/12/6,Ryzen 8000 series,AMD Ryzen 7 8845HS,Zen,TSMC 4nm FinFET,8,16,3.8,8,16,AMD Radeon™ 780M,12
+2023/12/6,Ryzen 8000 series,AMD Ryzen 7 8845H,Zen,TSMC 4nm FinFET,8,16,3.8,8,16,AMD Radeon™ 780M,12
+2023/12/6,Ryzen 8000 series,AMD Ryzen 7 8840U,Zen,TSMC 4nm FinFET,8,16,3.3,8,16,AMD Radeon™ 780M,12
+2023/12/6,Ryzen 8000 series,AMD Ryzen 7 8840HS,Zen,TSMC 4nm FinFET,8,16,3.3,8,16,AMD Radeon™ 780M,12
+2023/12/6,Ryzen 8000 series,AMD Ryzen 5 8645HS,Zen,TSMC 4nm FinFET,6,12,4.3,6,16,AMD Radeon™ 760M,8
+2023/12/6,Ryzen 8000 series,AMD Ryzen 5 8645H,Zen,TSMC 4nm FinFET,6,12,4.3,6,16,AMD Radeon™ 760M,8
+2023/12/6,Ryzen 8000 series,AMD Ryzen 5 8640U,Zen,TSMC 4nm FinFET,6,12,3.5,6,16,AMD Radeon™ 760M,8
+2023/12/6,Ryzen 8000 series,AMD Ryzen 5 8640HS,Zen,TSMC 4nm FinFET,6,12,3.5,6,16,AMD Radeon™ 760M,8
+2023/12/6,Ryzen 8000 series,AMD Ryzen 5 8540U,Zen,TSMC 4nm FinFET,6,12,3.2,6,16,AMD Radeon™ 740M,4
+2023/12/6,Ryzen 8000 series,AMD Ryzen 3 8440U,Zen,TSMC 4nm FinFET,4,8,3,4,8,AMD Radeon™ 740M,4

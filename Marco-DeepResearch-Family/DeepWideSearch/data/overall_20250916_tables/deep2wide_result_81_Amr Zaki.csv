@@ -1,0 +1,5 @@
+,start date,contract expiration date,transfer type,outgoing club,incoming club,founding year of the incoming club,incoming club's region
+0,2010-01-17 00:00:00,2010-06-30 00:00:00,Loan,Zamalek Sporting Club,Hull City A.F.C.,1904-06-28 00:00:00,"Kingston upon Hull, Yorkshire, England"
+1,2008-07-17 00:00:00,2009-06-30 00:00:00,Loan,Zamalek Sporting Club,Wigan Athletic F.C.,1905-04-15 00:00:00,"Wigan, Greater Manchester, England"
+2,2007-07-01 00:00:00,2010-06-30 00:00:00,Transfer,FC Lokomotiv Moscow,Zamalek Sporting Club,1905-03-25 00:00:00,"Cairo, Egypt"
+3,2006-01-01 00:00:00,2007-06-30 00:00:00,Transfer,unkown,FC Lokomotiv Moscow,1905-04-06 00:00:00,"Moscow, Russia"

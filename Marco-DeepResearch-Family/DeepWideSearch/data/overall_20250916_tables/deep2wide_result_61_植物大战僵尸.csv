@@ -1,0 +1,34 @@
+,中文名称,外文名称,移动速度
+0,普通僵尸,Zombie/Basic Zombie,约4.7s走完一格
+1,旗子僵尸,Flag Zombie,约3.7s走完一格
+2,路障僵尸,Conehead Zombie,约4.7s走完一格
+3,撑杆僵尸,Pole Vaulting Zombie,跳跃前约2.5s走完一格；跳跃后约4.5s走完一格
+4,铁桶僵尸,Buckethead Zombie,约4.7s走完一格
+5,报纸僵尸,Newspaper Zombie,4.7s/格，1-1.3s/格（失去报纸后）
+6,橄榄球僵尸,Football Zombie,约2.5s走完一格
+7,舞王僵尸,Dancing Zombie,出场太空滑步约1.2s走完一格；第一次召唤之后约5.5s走完一格
+8,伴舞僵尸,BACKUP DANCER,约5.5s走完一格
+9,鸭子救生圈僵尸,DUCKY TUBE ZOMBIE,约4.7s走完一格
+10,潜水僵尸,Snorkel Zombie,约4s走完一格
+11,雪橇车僵尸,Zomboni,约3-8s走完一格
+12,海豚骑士僵尸,DOLPHIN RIDER ZOMBIE,骑乘海豚时约0.8s走完一格；跃过障碍后僵尸普遍速度
+13,玩偶匣僵尸,JACK-IN-THE-BOX ZOMBIE,约2.2s走完一格
+14,气球僵尸,BALLOON ZOMBIE,气球飞行时约2.5s每格；被击落后僵尸普遍速度
+15,矿工僵尸,DIGGER ZOMBIE,挖地时约1.2s每格；出土后约7s走完一格
+16,僵尸雪人,ZOMBIE YETI,出场时约5s走完一格；逃跑时约2.1s走完一格
+17,投石车僵尸,CATAPULT ZOMBIE,约2.5s走完一格
+18,巨人僵尸,Gargantuar,约4.7秒走完一格。
+19,小鬼僵尸,Imp,正常游戏中僵尸普遍速度；解谜模式中约1.9s走完一格
+20,埃德加·乔治·僵王博士,Dr. Edgar George Zomboss,
+21,豌豆僵尸,Pea zombie,僵尸普遍速度
+22,坚果僵尸,nut Zombie,僵尸普遍速度
+23,高坚果僵尸,Tall-nut Zombie,僵尸普遍速度
+24,机枪豌豆僵尸,Gatling Pea zombie,僵尸普遍速度
+25,窝瓜僵尸,Squash Zombie,2.5s/格
+26,火爆辣椒僵尸,Jalapeno Zombie,僵尸普遍速度
+27,红眼巨人僵尸,,僵尸普遍速度
+28,蹦极僵尸,Bungee Zombie,
+29,蹦蹦僵尸,POGO ZOMBIE,弹跳时约1.9s每格；弹跳杆被移除后约3.8s走完一格
+30,梯子僵尸,Ladder Zombie,持梯2秒/格→失梯4-7秒/格
+31,铁门僵尸,SCREEN DOOR ZOMBIE,僵尸普遍速度
+32,小丑僵尸,,约为33/s 大致恒定

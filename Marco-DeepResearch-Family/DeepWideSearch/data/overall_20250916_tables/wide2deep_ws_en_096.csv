@@ -1,0 +1,15 @@
+﻿Camera Model,Effective Pixels,Weight,Maximum Frames per Second,Shutter Speed Range,Highest Number of Focus Points,Digital Image Processor,ISO Range,In-camera Vibration Reduction Technology
+Z9, 45.71 million,1340g, 120 fps,"1/32000−30s (step of 1/3, 1/2, or 1EV; extendable to 900s in M mode), bulb, remote bulb",493,EXPEED 7 image processor,ISO 64-25600 ,5-axis image sensor shift
+Z8, 45.71 million,910g, 120 fps,"1/32000−30s (step of 1/3, 1/2, or 1EV; extendable to 900s in M mode), bulb, remote bulb",493,EXPEED 7 image processor,ISO 64-25600,5-axis image sensor shift
+Z7Ⅱ, 45.75 million,705g, 10 fps,"1/8000−30s (fine-tune with 1/3 or 1/2EV; extendable to 900s in M mode), bulb, remote bulb, X200",493,Dual EXPEED 6 digital image processors,ISO 64-25600 ,5-axis image sensor shift
+Z7, 45.75 million, 675g, 9 fps,"1/8000−30s (fine-tune with 1/3 or 1/2EV), bulb, remote bulb, X200",493,EXPEED 6 digital image processor,ISO 64-25600 ,Image sensor 5-axis shift
+Z6Ⅲ, 24.50 million, 760g, 120 fps,"1/8000−30s (increment of 1/3, 1/2, or 1EV; extendable to 900s in M mode), bulb, remote bulb; electronic shutter up to 1/16000s",299,EXPEED 7 digital image processor,ISO 100-64000 ,5-axis image sensor shift
+Z6Ⅱ, 24.50 million, 705g, 14 fps,"1/8000−30s (fine-tune with 1/3 or 1/2EV; extendable to 900s in M mode), bulb, remote bulb, X200",273,Dual EXPEED 6 digital image processors,ISO 100-51200 ,5-axis image sensor shift
+Z6, 24.50 million, 675g, 12 fps,"1/8000−30s (fine-tune with 1/3 or 1/2EV), bulb, remote bulb, X200",273,EXPEED 6 image processor,ISO 100-51200 ,Image sensor 5-axis shift
+Z5Ⅱ, 24.50 million, 700g, 30 fps,"1/8000−30s (increment of 1/3EV; extendable to 900s in M mode), bulb, remote bulb",299,EXPEED 7 image processor,ISO 100-64000 ,5-axis image sensor shift
+Z5, 24.32 million, 675g, 4.5 fps,"1/8000−30s (fine-tune with 1/3 or 1/2EV), bulb, remote bulb, X200",273,EXPEED 6 image processor,ISO 100-51200 ,Image sensor 5-axis shift
+Zf, 24.50 million, 710g, 30 fps,"1/8000−30s (increment of 1/3EV; extendable to 900s in M mode), bulb, remote bulb, X (flash sync)",273,EXPEED 7 digital image processor,ISO 100-64000 ,5-axis image sensor shift
+Zfc, 20.88 million, 445g, 11 fps,"1/4000−30s (step of 1/3; extendable to 900s in M mode), bulb, remote bulb, X (flash sync)",209,EXPEED 6 digital image processor,ISO 100-51200 ,-
+Z50Ⅱ, 20.90 million, 550g, 30 fps,"1/4000−30s (fine-tune with 1/3, 1/2, or 1EV; extendable to 900s in M mode), bulb, remote bulb",231,EXPEED 7 digital image processor,ISO 100-51200,-
+Z50, 20.88 million, 450g, 11 fps,"1/4000−30s (fine-tune with 1/3 or 1/2EV), bulb, remote bulb",209,EXPEED 6 digital image processor,ISO 100-51200 ,-
+Z30, 20.88 million, 405g, 11 fps,"1/4000−30s (fine-tune with 1/3EV), bulb, remote bulb",209,EXPEED 6 digital image processor,ISO 100-51200 ,-

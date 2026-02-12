@@ -1,0 +1,41 @@
+﻿Product,Launch Year,Capacity,Launch Price(USD),Core New Technologies/Features
+iPhone,2007,4GB/8GB,$499/$599  ,Revolutionary model with touchscreen design
+iPhone 3G,2008,8GB/16GB,$199/$299  ,"Support for 3G network, App Store launched"
+iPhone 3GS,2009,8GB/16GB/32GB,$99/$199/$299  ,First introduction of voice control
+iPhone 4,2010,16GB/32GB,$199/$299  ,"Retina display, first LED flash"
+iPhone 4S,2011,16GB/32GB/64GB,$199/$299/$399  ,Introduction of Siri voice assistant
+iPhone 5,2012,16GB/32GB/64GB,$199/$299/$399  ,"New Lightning connector, first use of Nano-SIM"
+iPhone 5s,2013,16GB/32GB/64GB,$199/$299/$399  ,First introduction of Touch ID fingerprint sensor
+iPhone 6,2014,16GB/64GB/128GB,$199/$299/$399  ,First support for NFC and Apple Pay
+iPhone 6 Plus,2014,16GB/64GB/128GB,$299/$399/$499  ,First support for NFC and Apple Pay
+iPhone 6s,2015,16GB/64GB/128GB,$199/$299/$399  ,Introduction of 3D Touch technology
+iPhone 6s Plus,2015,16GB/64GB/128GB,$299/$399/$499  ,Introduction of 3D Touch technology
+iPhone 7,2016,32GB/128GB/256GB,$649/$749/$849  ,"Removed 3.5 mm headphone jack, IP67 water and dust resistance"
+iPhone 7 Plus,2016,32GB/128GB/256GB,$769/$869/$969  ,"Removed 3.5 mm headphone jack, IP67 water and dust resistance"
+iPhone 8,2017,64GB/256GB,$699/$849  ,Glass back with wireless charging
+iPhone 8 Plus,2017,64GB/256GB,$799/$949  ,Glass back with wireless charging
+iPhone X,2017,64GB/256GB,$999/$1149  ,Full-screen design with Face ID
+iPhone XR,2018,64GB/128GB/256GB,$749/$799/$899  ,Full-screen design with Face ID
+iPhone XS,2018,64GB/256GB/512GB,$999/$1149/$1349  ,"First dual SIM support, Smart HDR"
+iPhone XS Max,2018,64GB/256GB/512GB,$1099/$1249/$1449  ,"First dual SIM support, Smart HDR"
+iPhone 11,2019,64GB/128GB/256GB,$699/$749/$849  ,Ultra-wide camera and U1 chip for UWB
+iPhone 11 Pro,2019,64GB/256GB/512GB,$999/$1149/$1349  ,Ultra-wide camera and U2 chip for UWB
+iPhone 11 Pro Max,2019,64GB/256GB/512GB,$1099/$1249/$1449  ,Ultra-wide camera and U3 chip for UWB
+iPhone 12,2020,64GB/128GB/256GB,$799/$849/$949  ,"5G support, MagSafe magnetic charging"
+iPhone 12 Pro,2020,128GB/256GB/512GB,$999/$1099/$1299,"5G support, MagSafe magnetic charging"
+iPhone 12 Pro Max,2020,128GB/256GB/512GB,$1099/$1199/$1399,"5G support, MagSafe magnetic charging"
+iPhone 13,2021,128GB/256GB/512GB,$799/$899/$1099  ,Introduction of Cinematic video mode
+iPhone 13 Pro,2021,128GB/256GB/512GB/1T,$999/$1099/$1299/$1499  ,Introduction of ProMotion display
+iPhone 13 Pro Max,2021,128GB/256GB/512GB/1T,$1099/$1199/$1399/$1599  ,Introduction of ProMotion display
+iPhone 14,2022,128GB/256GB/512GB,$799/$899/$1099  ,Autofocus
+iPhone 14 Plus,2022,128GB/256GB/512GB,$899/$999/$1199  ,Autofocus
+iPhone 14 Pro,2022,128GB/256GB/512GB/1T,$999/$1099/$1299/$1499  ,"Dynamic Island, Always-On display, Action mode stabilization"
+iPhone 14 Pro Max,2022,128GB/256GB/512GB/1T,$1099/$1199/$1399/$1599  ,"Dynamic Island, Always-On display, Action mode stabilization"
+iPhone 15,2023,128GB/256GB/512GB,$799/$899/$1099  ,"USB-C replaces Lightning, titanium frame"
+iPhone 15 Plus,2023,128GB/256GB/512GB,$899/$999/$1199  ,"USB-C replaces Lightning, titanium frame"
+iPhone 15 Pro,2023,128GB/256GB/512GB/1T,$999/$1099/$1299/$1499  ,"USB-C replaces Lightning, titanium frame"
+iPhone 15 Pro Max,2023,256GB/512GB/1T,$1199/$1399/$1599  ,"USB-C replaces Lightning, titanium frame"
+iPhone 16,2024,128GB/256GB/512GB,$799/$899/$1099  ,"Apple Intelligence, side camera control"
+iPhone 16 Plus,2024,128GB/256GB/512GB,$899/$999/$1199  ,"Apple Intelligence, side camera control"
+iPhone 16 Pro,2024,128GB/256GB/512GB/1T,$999/$1099/$1299/$1499  ,"Apple Intelligence, side camera control"
+iPhone 16 Pro Max,2024,256GB/512GB/1T,$1199/$1399/$1599  ,"Apple Intelligence, side camera control"

@@ -1,0 +1,332 @@
+﻿时间,核心架构,产品系列,处理器型号,制造工艺,核心,线程,核心频率(GHz),二级缓存(MB),三级缓存(MB),显卡型号,显卡核心数
+2023/12/6,Zen架构,锐龙 8000 系列,AMD 锐龙 9 8945HS,TSMC 4nm FinFET,8,16,4,8,16,AMD Radeon™ 780M,12
+2023/12/6,Zen架构,锐龙 8000 系列,AMD 锐龙 9 8945H,TSMC 4nm FinFET,8,16,4,8,16,AMD Radeon™ 780M,12
+2023/12/6,Zen架构,锐龙 8000 系列,AMD 锐龙 7 8845HS,TSMC 4nm FinFET,8,16,3.8,8,16,AMD Radeon™ 780M,12
+2023/12/6,Zen架构,锐龙 8000 系列,AMD 锐龙 7 8845H,TSMC 4nm FinFET,8,16,3.8,8,16,AMD Radeon™ 780M,12
+2023/12/6,Zen架构,锐龙 8000 系列,AMD 锐龙 7 8840U,TSMC 4nm FinFET,8,16,3.3,8,16,AMD Radeon™ 780M,12
+2023/12/6,Zen架构,锐龙 8000 系列,AMD 锐龙 7 8840HS,TSMC 4nm FinFET,8,16,3.3,8,16,AMD Radeon™ 780M,12
+2023/12/6,Zen架构,锐龙 8000 系列,AMD 锐龙 5 8645HS,TSMC 4nm FinFET,6,12,4.3,6,16,AMD Radeon™ 760M,8
+2023/12/6,Zen架构,锐龙 8000 系列,AMD 锐龙 5 8645H,TSMC 4nm FinFET,6,12,4.3,6,16,AMD Radeon™ 760M,8
+2023/12/6,Zen架构,锐龙 8000 系列,AMD 锐龙 5 8640U,TSMC 4nm FinFET,6,12,3.5,6,16,AMD Radeon™ 760M,8
+2023/12/6,Zen架构,锐龙 8000 系列,AMD 锐龙 5 8640HS,TSMC 4nm FinFET,6,12,3.5,6,16,AMD Radeon™ 760M,8
+2023/12/6,Zen架构,锐龙 8000 系列,AMD 锐龙 5 8540U,TSMC 4nm FinFET,6,12,3.2,6,16,AMD Radeon™ 740M,4
+2023/12/6,Zen架构,锐龙 8000 系列,AMD 锐龙 3 8440U,TSMC 4nm FinFET,4,8,3,4,8,AMD Radeon™ 740M,4
+2023/10/19,Zen架构,锐龙 Threadripper PRO 7000 WX 系列,AMD 锐龙 Threadripper PRO 7995WX,TSMC 5nm FinFET,96,192,2.5,96,384,NA,NA
+2023/10/19,Zen架构,锐龙 Threadripper PRO 7000 WX 系列,AMD 锐龙 Threadripper PRO 7985WX,TSMC 5nm FinFET,64,128,3.2,64,256,NA,NA
+2023/10/19,Zen架构,锐龙 Threadripper PRO 7000 WX 系列,AMD 锐龙 Threadripper PRO 7975WX,TSMC 5nm FinFET,32,64,4,32,128,NA,NA
+2023/10/19,Zen架构,锐龙 Threadripper PRO 7000 WX 系列,AMD 锐龙 Threadripper PRO 7965WX,TSMC 5nm FinFET,24,48,4.2,24,128,NA,NA
+2023/10/19,Zen架构,锐龙 Threadripper PRO 7000 WX 系列,AMD 锐龙 Threadripper PRO 7955WX,TSMC 5nm FinFET,16,32,4.5,16,64,NA,NA
+2023/10/19,Zen架构,锐龙 Threadripper PRO 7000 WX 系列,AMD 锐龙 Threadripper PRO 7945WX,TSMC 5nm FinFET,12,24,4.7,12,64,NA,NA
+2023/10/19,Zen架构,锐龙 Threadripper 7000 系列,AMD 锐龙 Threadripper 7980X,TSMC 5nm FinFET,64,128,3.2,64,256,NA,NA
+2023/10/19,Zen架构,锐龙 Threadripper 7000 系列,AMD 锐龙 Threadripper 7970X,TSMC 5nm FinFET,32,64,4,32,128,NA,NA
+2023/10/19,Zen架构,锐龙 Threadripper 7000 系列,AMD 锐龙 Threadripper 7960X,TSMC 5nm FinFET,24,48,4.2,24,128,NA,NA
+2023/6/13,Zen架构,锐龙 PRO 7000 系列,AMD 锐龙 9 PRO 7945,TSMC 5nm FinFET,12,24,3.7,12,64,AMD Radeon™ Graphics,2
+2023/6/13,Zen架构,锐龙 PRO 7000 系列,AMD 锐龙 9 PRO 7940HS,TSMC 4nm FinFET,8,16,4,8,16,AMD Radeon™ 780M,12
+2023/6/13,Zen架构,锐龙 PRO 7000 系列,AMD 锐龙 7 PRO 7840U,TSMC 4nm FinFET,8,16,3.3,8,16,AMD Radeon™ 780M,12
+2023/6/13,Zen架构,锐龙 PRO 7000 系列,AMD 锐龙 7 PRO 7840HS,TSMC 4nm FinFET,8,16,3.8,8,16,AMD Radeon™ 780M,12
+2023/6/13,Zen架构,锐龙 PRO 7000 系列,AMD 锐龙 7 PRO 7745,TSMC 5nm FinFET,8,16,3.8,8,32,AMD Radeon™ Graphics,2
+2023/9/30,Zen架构,锐龙 PRO 7000 系列,AMD 锐龙 7 PRO 7735U,TSMC 6nm FinFET,8,16,2.7,4,16,AMD Radeon™ 680M,12
+2023/1/4,Zen架构,锐龙 PRO 7000 系列,AMD 锐龙 7 PRO 7730U,TSMC 7nm FinFET,8,16,2,4,16,AMD Radeon™ Graphics,8
+2023/6/13,Zen架构,锐龙 PRO 7000 系列,AMD 锐龙 5 PRO 7645,TSMC 5nm FinFET,6,12,3.8,6,32,AMD Radeon™ Graphics,2
+2023/6/13,Zen架构,锐龙 PRO 7000 系列,AMD 锐龙 5 PRO 7640U,TSMC 4nm FinFET,6,12,3.5,6,16,AMD Radeon™ 760M,8
+2023/6/13,Zen架构,锐龙 PRO 7000 系列,AMD 锐龙 5 PRO 7640HS,TSMC 4nm FinFET,6,12,4.3,6,16,AMD Radeon™ 760M,8
+2023/11/2,Zen架构,锐龙 PRO 7000 系列,AMD 锐龙 5 PRO 7545U,TSMC 4nm FinFET,6,12,3.2,6,16,AMD Radeon™ 740M,4
+2023/6/13,Zen架构,锐龙 PRO 7000 系列,AMD 锐龙 5 PRO 7540U,TSMC 4nm FinFET,6,12,3.2,6,16,AMD Radeon™ 740M,4
+2023/9/30,Zen架构,锐龙 PRO 7000 系列,AMD 锐龙 5 PRO 7535U,TSMC 6nm FinFET,6,12,2.9,3,16,AMD Radeon™ 660M,6
+2023/1/4,Zen架构,锐龙 PRO 7000 系列,AMD 锐龙 5 PRO 7530U,TSMC 7nm FinFET,6,12,2,3,16,AMD Radeon™ Graphics,7
+2023/9/30,Zen架构,锐龙 PRO 7000 系列,AMD 锐龙 3 PRO 7335U,TSMC 6nm FinFET,4,8,3,8,NA,AMD Radeon™ 660M,4
+2023/1/4,Zen架构,锐龙 PRO 7000 系列,AMD 锐龙 3 PRO 7330U,TSMC 7nm FinFET,4,8,2.3,2,8,AMD Radeon™ Graphics,6
+2023/2/28,Zen架构,锐龙 7000 系列,AMD 锐龙 9 7950X3D,TSMC 5nm FinFET,16,32,4.2,16,128,AMD Radeon™ Graphics,2
+2022/9/27,Zen架构,锐龙 7000 系列,AMD 锐龙 9 7950X,TSMC 5nm FinFET,16,32,4.5,16,64,AMD Radeon™ Graphics,2
+2023/7/27,Zen架构,锐龙 7000 系列,AMD 锐龙 9 7945HX3D,TSMC 5nm FinFET,16,32,2.3,16,128,AMD Radeon™ 610M,2
+2023/2/28,Zen架构,锐龙 7000 系列,AMD 锐龙 9 7945HX,TSMC 5nm FinFET,16,32,2.5,16,64,AMD Radeon™ 610M,2
+2023/1/4,Zen架构,锐龙 7000 系列,AMD 锐龙 9 7940HS,TSMC 4nm FinFET,8,16,4,8,16,AMD Radeon™ 780M,12
+2023/1/4,Zen架构,锐龙 7000 系列,AMD 锐龙 9 7940H,TSMC 4nm FinFET,8,16,4,8,16,AMD Radeon™ 780M,12
+2023/2/28,Zen架构,锐龙 7000 系列,AMD 锐龙 9 7900X3D,TSMC 5nm FinFET,12,24,4.4,12,128,AMD Radeon™ Graphics,2
+2022/9/27,Zen架构,锐龙 7000 系列,AMD 锐龙 9 7900X,TSMC 5nm FinFET,12,24,4.7,12,64,AMD Radeon™ Graphics,2
+2023/1/14,Zen架构,锐龙 7000 系列,AMD 锐龙 9 7900,TSMC 5nm FinFET,12,24,3.7,12,64,AMD Radeon™ Graphics,2
+2023/2/28,Zen架构,锐龙 7000 系列,AMD 锐龙 9 7845HX,TSMC 5nm FinFET,12,24,3,12,64,AMD Radeon™ 610M,2
+2023/5/3,Zen架构,锐龙 7000 系列,AMD 锐龙 7 7840U,TSMC 4nm FinFET,8,16,3.3,8,16,AMD Radeon™ 780M,12
+2023/1/4,Zen架构,锐龙 7000 系列,AMD 锐龙 7 7840HS,TSMC 4nm FinFET,8,16,3.8,8,16,AMD Radeon™ 780M,12
+2023/1/4,Zen架构,锐龙 7000 系列,AMD 锐龙 7 7840H,TSMC 4nm FinFET,8,16,3.8,8,16,AMD Radeon™ 780M,12
+2023/4/6,Zen架构,锐龙 7000 系列,AMD 锐龙 7 7800X3D,TSMC 5nm FinFET,8,16,4.2,8,96,AMD Radeon™ Graphics,2
+2023/2/28,Zen架构,锐龙 7000 系列,AMD 锐龙 7 7745HX,TSMC 5nm FinFET,8,16,3.6,8,32,AMD Radeon™ 610M,2
+2023/1/4,Zen架构,锐龙 7000 系列,AMD 锐龙 7 7736U​,TSMC 6nm FinFET,8,16,2.7,4,16,AMD Radeon™ 680M,12
+2023/1/4,Zen架构,锐龙 7000 系列,AMD 锐龙 7 7735U,TSMC 6nm FinFET,8,16,2.7,4,16,AMD Radeon™ 680M,12
+2023/1/4,Zen架构,锐龙 7000 系列,AMD 锐龙 7 7735HS,TSMC 6nm FinFET,8,16,3.2,4,16,AMD Radeon™ 680M,12
+2023/1/4,Zen架构,锐龙 7000 系列,AMD 锐龙 7 7735H,TSMC 6nm FinFET,8,16,3.2,4,16,AMD Radeon™ 680M,12
+2023/1/4,Zen架构,锐龙 7000 系列,AMD 锐龙 7 7730U,TSMC 7nm FinFET,8,16,2,4,16,AMD Radeon™ Graphics,8
+2022/9/27,Zen架构,锐龙 7000 系列,AMD 锐龙 7 7700X,TSMC 5nm FinFET,8,16,4.5,8,32,AMD Radeon™ Graphics,2
+2023/1/14,Zen架构,锐龙 7000 系列,AMD 锐龙 7 7700,TSMC 5nm FinFET,8,16,3.8,8,32,AMD Radeon™ Graphics,2
+2023/2/28,Zen架构,锐龙 7000 系列,AMD 锐龙 5 7645HX,TSMC 5nm FinFET,6,12,4,6,32,AMD Radeon™ 610M,2
+2023/5/3,Zen架构,锐龙 7000 系列,AMD 锐龙 5 7640U,TSMC 4nm FinFET,6,12,3.5,6,16,AMD Radeon™ 760M,8
+2023/1/4,Zen架构,锐龙 7000 系列,AMD 锐龙 5 7640HS,TSMC 4nm FinFET,6,12,4.3,6,16,AMD Radeon™ 760M,8
+2023/1/4,Zen架构,锐龙 7000 系列,AMD 锐龙 5 7640H,TSMC 4nm FinFET,6,12,4.3,6,16,AMD Radeon™ 760M,8
+2022/9/27,Zen架构,锐龙 7000 系列,AMD 锐龙 5 7600X,TSMC 5nm FinFET,6,12,4.7,6,32,AMD Radeon™ Graphics,2
+2023/1/14,Zen架构,锐龙 7000 系列,AMD 锐龙 5 7600,TSMC 5nm FinFET,6,12,3.8,6,32,AMD Radeon™ Graphics,2
+2023/11/2,Zen架构,锐龙 7000 系列,AMD 锐龙 5 7545U,TSMC 4nm FinFET,6,12,3.2,6,16,AMD Radeon™ 740M,4
+2023/5/3,Zen架构,锐龙 7000 系列,AMD 锐龙 5 7540U,TSMC 4nm FinFET,6,12,3.2,6,16,AMD Radeon™ 740M,4
+2023/1/5,Zen架构,锐龙 7000 系列,AMD 锐龙 5 7535U,TSMC 6nm FinFET,6,12,2.9,3,16,AMD Radeon™ 660M,6
+2023/1/5,Zen架构,锐龙 7000 系列,AMD 锐龙 5 7535HS,TSMC 6nm FinFET,6,12,3.3,3,16,AMD Radeon™ 660M,6
+2023/1/4,Zen架构,锐龙 7000 系列,AMD 锐龙 5 7535H,TSMC 6nm FinFET,6,12,3.3,3,16,AMD Radeon™ 660M,6
+2023/1/4,Zen架构,锐龙 7000 系列,AMD 锐龙 5 7530U,TSMC 7nm FinFET,6,12,2,3,16,AMD Radeon™ Graphics,7
+2022/9/20,Zen架构,锐龙 7000 系列,AMD 锐龙 5 7520U,TSMC 6nm FinFET,4,8,2.8,2,4,AMD Radeon™ 610M,2
+2023/5/23,Zen架构,锐龙 7000 系列,AMD 锐龙 5 7520C,TSMC 6nm FinFET,4,8,2.8,2,4,AMD Radeon™ 610M,2
+2023/7/22,Zen架构,锐龙 7000 系列,AMD 锐龙 5 7500F,TSMC 5nm FinFET,6,12,3.7,6,32,NA,NA
+2023/5/3,Zen架构,锐龙 7000 系列,AMD 锐龙 3 7440U,TSMC 4nm FinFET,4,8,3,4,8,AMD Radeon™ 740M,4
+2023/1/5,Zen架构,锐龙 7000 系列,AMD 锐龙 5 7430U,TSMC 7nm FinFET,6,12,2.3,3,16,AMD Radeon™ Graphics,7
+2023/1/4,Zen架构,锐龙 7000 系列,AMD 锐龙 3 7335U,TSMC 6nm FinFET,4,8,3,2,8,AMD Radeon™ 660M,4
+2023/1/4,Zen架构,锐龙 7000 系列,AMD 锐龙 3 7330U,TSMC 7nm FinFET,4,8,2.3,2,8,AMD Radeon™ Graphics,6
+2022/9/20,Zen架构,锐龙 7000 系列,AMD 锐龙 3 7320U,TSMC 6nm FinFET,4,8,2.4,2,4,AMD Radeon™ 610M,2
+2023/5/23,Zen架构,锐龙 7000 系列,AMD 锐龙 3 7320C,TSMC 6nm FinFET,4,8,2.4,2,4,AMD Radeon™ 610M,2
+2023/4/26,Zen架构,锐龙 Z1,AMD 锐龙 Z1 Extreme,NA,8,16,3.3,8,16,AMD Radeon™ Graphics,12
+2023/4/26,Zen架构,锐龙 Z1,AMD 锐龙 Z1,NA,6,12,3.2,6,16,AMD Radeon™ Graphics,4
+2022/9/20,Zen架构,Athlon 7000 Series,AMD Athlon™ Gold 7220U,TSMC 6nm FinFET,2,4,2.4,1,4,AMD Radeon™ 610M,2
+2023/5/1,Zen架构,Athlon 7000 Series,AMD Athlon™ Gold 7220C,TSMC 6nm FinFET,2,4,2.4,1,2,AMD Radeon™ 610M,2
+2022/9/20,Zen架构,Athlon 7000 Series,AMD Athlon™ Silver 7120U,TSMC 6nm FinFET,2,2,2.4,1,2,AMD Radeon™ 610M,2
+2023/5/23,Zen架构,Athlon 7000 Series,AMD Athlon™ Silver 7120C,TSMC 6nm FinFET,2,2,2.4,1,2,AMD Radeon™ 610M,2
+2022/4/19,Zen架构,锐龙 PRO 6000 系列,AMD 锐龙 9 PRO 6950HS,TSMC 6nm FinFET,8,16,3.3,4,16,AMD Radeon™ 680M,12
+2022/4/19,Zen架构,锐龙 PRO 6000 系列,AMD 锐龙 9 PRO 6950H,TSMC 6nm FinFET,8,16,3.3,4,16,AMD Radeon™ 680M,12
+2022/4/19,Zen架构,锐龙 PRO 6000 系列,AMD 锐龙 7 PRO 6860Z,TSMC 6nm FinFET,8,16,2.7,4,16,AMD Radeon™ 680M,12
+2022/4/19,Zen架构,锐龙 PRO 6000 系列,AMD 锐龙 7 PRO 6850U,TSMC 6nm FinFET,8,16,2.7,4,16,AMD Radeon™ 680M,12
+2022/4/19,Zen架构,锐龙 PRO 6000 系列,AMD 锐龙 7 PRO 6850HS,TSMC 6nm FinFET,8,16,3.2,4,16,AMD Radeon™ 680M,12
+2022/4/19,Zen架构,锐龙 PRO 6000 系列,AMD 锐龙 7 PRO 6850H,TSMC 6nm FinFET,8,16,3.2,4,16,AMD Radeon™ 680M,12
+2022/4/19,Zen架构,锐龙 PRO 6000 系列,AMD 锐龙 5 PRO 6650U,TSMC 6nm FinFET,6,12,2.9,3,16,AMD Radeon™ 660M,6
+2022/4/19,Zen架构,锐龙 PRO 6000 系列,AMD 锐龙 5 PRO 6650HS,TSMC 6nm FinFET,6,12,3.3,3,16,AMD Radeon™ 660M,6
+2022/4/19,Zen架构,锐龙 PRO 6000 系列,AMD 锐龙 5 PRO 6650H,TSMC 6nm FinFET,6,12,3.3,3,16,AMD Radeon™ 660M,6
+2022/1/4,Zen架构,锐龙 6000 系列,AMD 锐龙 9 6980HX,TSMC 6nm FinFET,8,16,3.3,4,16,AMD Radeon™ 680M,12
+2022/1/4,Zen架构,锐龙 6000 系列,AMD 锐龙 9 6980HS,TSMC 6nm FinFET,8,16,3.3,4,16,AMD Radeon™ 680M,12
+2022/1/4,Zen架构,锐龙 6000 系列,AMD 锐龙 9 6900HX,TSMC 6nm FinFET,8,16,3.3,4,16,AMD Radeon™ 680M,12
+2022/1/4,Zen架构,锐龙 6000 系列,AMD 锐龙 9 6900HS​,TSMC 6nm FinFET,8,16,3.3,4,16,AMD Radeon™ 680M,12
+2022/1/4,Zen架构,锐龙 6000 系列,AMD 锐龙 7 6800U​,TSMC 6nm FinFET,8,16,2.7,4,16,AMD Radeon™ 680M,12
+2022/1/4,Zen架构,锐龙 6000 系列,AMD 锐龙 7 6800HS,TSMC 6nm FinFET,8,16,3.2,4,16,AMD Radeon™ 680M,12
+2022/1/4,Zen架构,锐龙 6000 系列,AMD 锐龙 7 6800H,TSMC 6nm FinFET,8,16,3.2,4,16,AMD Radeon™ 680M,12
+2022/1/4,Zen架构,锐龙 6000 系列,AMD 锐龙 5 6600U,TSMC 6nm FinFET,6,12,2.9,3,16,AMD Radeon™ 660M,6
+2022/1/4,Zen架构,锐龙 6000 系列,AMD 锐龙 5 6600HS​,TSMC 6nm FinFET,6,12,3.3,3,16,AMD Radeon™ 660M,6
+2022/1/4,Zen架构,锐龙 6000 系列,AMD 锐龙 5 6600H,TSMC 6nm FinFET,6,12,3.3,3,16,AMD Radeon™ 660M,6
+2022/3/8,Zen架构,锐龙 Threadripper PRO 5000 WX 系列,AMD 锐龙 Threadripper PRO 5995WX,TSMC 7nm FinFET,64,128,2.7,32,256,NA,NA
+2022/3/8,Zen架构,锐龙 Threadripper PRO 5000 WX 系列,AMD 锐龙 Threadripper PRO 5975WX,TSMC 7nm FinFET,32,64,3.6,16,128,NA,NA
+2022/3/8,Zen架构,锐龙 Threadripper PRO 5000 WX 系列,AMD 锐龙 Threadripper PRO 5965WX,TSMC 7nm FinFET,24,48,3.8,12,128,NA,NA
+2022/3/8,Zen架构,锐龙 Threadripper PRO 5000 WX 系列,AMD 锐龙 Threadripper PRO 5955WX,TSMC 7nm FinFET,16,32,4,8,64,NA,NA
+2022/3/8,Zen架构,锐龙 Threadripper PRO 5000 WX 系列,AMD 锐龙 Threadripper PRO 5945WX,TSMC 7nm FinFET,12,24,4.1,6,64,NA,NA
+2022/9/7,Zen架构,锐龙 PRO 5000 系列,AMD 锐龙 9 PRO 5945,TSMC 7nm FinFET,12,24,3,6,64,NA,NA
+2022/1/30,Zen架构,锐龙 PRO 5000 系列,AMD 锐龙 7 PRO 5875U,TSMC 7nm FinFET,8,16,2,4,16,AMD Radeon™ Graphics,8
+2021/3/16,Zen架构,锐龙 PRO 5000 系列,AMD 锐龙 7 PRO 5850U,TSMC 7nm FinFET,8,16,1.9,4,16,AMD Radeon™ Graphics,8
+2022/9/7,Zen架构,锐龙 PRO 5000 系列,AMD 锐龙 7 PRO 5845,TSMC 7nm FinFET,8,16,3.4,4,32,NA,NA
+2021/6/1,Zen架构,锐龙 PRO 5000 系列,AMD 锐龙 7 PRO 5750GE,TSMC 7nm FinFET,8,16,3.2,4,16,Radeon™  Graphics,8
+2021/6/1,Zen架构,锐龙 PRO 5000 系列,AMD 锐龙 7 PRO 5750G,TSMC 7nm FinFET,8,16,3.8,4,16,Radeon™  Graphics,8
+2022/1/30,Zen架构,锐龙 PRO 5000 系列,AMD 锐龙 5 PRO 5675U,TSMC 7nm FinFET,6,12,2.3,3,16,AMD Radeon™ Graphics,7
+2021/3/16,Zen架构,锐龙 PRO 5000 系列,AMD 锐龙 5 PRO 5650U,TSMC 7nm FinFET,6,12,2.3,3,16,AMD Radeon™ Graphics,7
+2021/6/1,Zen架构,锐龙 PRO 5000 系列,AMD 锐龙 5 PRO 5650GE,TSMC 7nm FinFET,6,12,3.4,3,16,Radeon™  Graphics,7
+2021/6/1,Zen架构,锐龙 PRO 5000 系列,AMD 锐龙 5 PRO 5650G,TSMC 7nm FinFET,6,12,3.9,3,16,Radeon™  Graphics,7
+2022/10/25,Zen架构,锐龙 PRO 5000 系列,AMD 锐龙 5 PRO 5645,TSMC 7nm FinFET,6,12,3.7,3,32,NA,NA
+2022/1/30,Zen架构,锐龙 PRO 5000 系列,AMD 锐龙 3 PRO 5475U,TSMC 7nm FinFET,4,8,2.7,2,8,AMD Radeon™ Graphics,6
+2021/3/16,Zen架构,锐龙 PRO 5000 系列,AMD 锐龙 3 PRO 5450U,TSMC 7nm FinFET,4,8,2.6,2,8,AMD Radeon™ Graphics,6
+2021/6/1,Zen架构,锐龙 PRO 5000 系列,AMD 锐龙 3 PRO 5350GE,TSMC 7nm FinFET,4,8,3.6,2,8,Radeon™  Graphics,6
+2021/6/1,Zen架构,锐龙 PRO 5000 系列,AMD 锐龙 3 PRO 5350G,TSMC 7nm FinFET,4,8,4,2,8,Radeon™  Graphics,6
+2021/1/12,Zen架构,锐龙 5000 系列,AMD 锐龙 9 5980HX,TSMC 7nm FinFET,8,16,3.3,4,16,AMD Radeon™ Graphics,8
+2021/1/12,Zen架构,锐龙 5000 系列,AMD 锐龙 9 5980HS,TSMC 7nm FinFET,8,16,3,4,16,AMD Radeon™ Graphics,8
+2020/11/5,Zen架构,锐龙 5000 系列,AMD 锐龙 9 5950X,TSMC 7nm FinFET,16,32,3.4,8,64,NA,NA
+2020/11/5,Zen架构,锐龙 5000 系列,AMD 锐龙 9 5900X,TSMC 7nm FinFET,12,24,3.7,6,64,NA,NA
+2021/1/12,Zen架构,锐龙 5000 系列,AMD 锐龙 9 5900HX,TSMC 7nm FinFET,8,16,3.3,4,16,AMD Radeon™ Graphics,8
+2021/1/12,Zen架构,锐龙 5000 系列,AMD 锐龙 9 5900HS,TSMC 7nm FinFET,8,16,3,4,16,AMD Radeon™ Graphics,NA
+2021/1/12,Zen架构,锐龙 5000 系列,AMD 锐龙 9 5900（仅限 OEM）,TSMC 7nm FinFET,12,24,3,6,64,NA,NA
+2022/1/30,Zen架构,锐龙 5000 系列,AMD 锐龙 7 5825U,TSMC 7nm FinFET,8,16,2,4,16,AMD Radeon™ Graphics,8
+2022/5/5,Zen架构,锐龙 5000 系列,AMD 锐龙 7 5825C,TSMC 7nm FinFET,8,16,2,4,16,AMD Radeon™ Graphics,8
+2022/4/20,Zen架构,锐龙 5000 系列,AMD 锐龙 7 5800X3D,TSMC 7nm FinFET,8,16,3.4,4,96,NA,NA
+2020/11/5,Zen架构,锐龙 5000 系列,AMD 锐龙 7 5800X,TSMC 7nm FinFET,8,16,3.8,4,32,NA,NA
+2021/1/12,Zen架构,锐龙 5000 系列,AMD 锐龙 7 5800U,TSMC 7nm FinFET,8,16,1.9,4,16,AMD Radeon™ Graphics,8
+2021/1/12,Zen架构,锐龙 5000 系列,AMD 锐龙 7 5800HS,TSMC 7nm FinFET,8,16,2.8,4,16,AMD Radeon™ Graphics,8
+2021/1/12,Zen架构,锐龙 5000 系列,AMD 锐龙 7 5800H,TSMC 7nm FinFET,8,16,3.2,4,16,AMD Radeon™ Graphics,8
+2021/1/12,Zen架构,锐龙 5000 系列,AMD 锐龙 7 5800（仅限 OEM）,TSMC 7nm FinFET,8,16,3.4,4,32,NA,NA
+2022/4/4,Zen架构,锐龙 5000 系列,AMD 锐龙 7 5700X,TSMC 7nm FinFET,8,16,3.4,4,32,NA,NA
+2021/1/12,Zen架构,锐龙 5000 系列,AMD 锐龙 7 5700U,TSMC 7nm FinFET,8,16,1.8,4,8,AMD Radeon™ Graphics,8
+2021/4/13,Zen架构,锐龙 5000 系列,AMD 锐龙 7 5700GE,TSMC 7nm FinFET,8,16,3.2,4,16,Radeon™  Graphics,8
+2021/4/13,Zen架构,锐龙 5000 系列,AMD 锐龙 7 5700G,TSMC 7nm FinFET,8,16,3.8,4,16,Radeon™  Graphics,8
+2022/1/30,Zen架构,锐龙 5000 系列,AMD 锐龙 5 5625U,TSMC 7nm FinFET,6,12,2.3,3,16,AMD Radeon™ Graphics,7
+2022/5/5,Zen架构,锐龙 5000 系列,AMD 锐龙 5 5625C,TSMC 7nm FinFET,6,12,2.3,3,16,AMD Radeon™ Graphics,7
+2023/7/7,Zen架构,锐龙 5000 系列,AMD 锐龙 5 5600X3D,TSMC 7nm FinFET,6,12,3.3,3,96,NA,NA
+2020/11/5,Zen架构,锐龙 5000 系列,AMD 锐龙 5 5600X,TSMC 7nm FinFET,6,12,3.7,3,32,NA,NA
+2021/1/12,Zen架构,锐龙 5000 系列,AMD 锐龙 5 5600U,TSMC 7nm FinFET,6,12,2.3,3,16,AMD Radeon™ Graphics,7
+2021/1/12,Zen架构,锐龙 5000 系列,AMD 锐龙 5 5600HS,TSMC 7nm FinFET,6,12,3,3,16,AMD Radeon™ Graphics,7
+2021/1/12,Zen架构,锐龙 5000 系列,AMD 锐龙 5 5600H,TSMC 7nm FinFET,6,12,3.3,3,16,AMD Radeon™ Graphics,7
+2021/4/13,Zen架构,锐龙 5000 系列,AMD 锐龙 5 5600GE,TSMC 7nm FinFET,6,12,3.4,3,16,Radeon™  Graphics,7
+2021/4/13,Zen架构,锐龙 5000 系列,AMD 锐龙 5 5600G,TSMC 7nm FinFET,6,12,3.9,3,16,Radeon™  Graphics,7
+2022/4/4,Zen架构,锐龙 5000 系列,AMD 锐龙 5 5600,TSMC 7nm FinFET,6,12,3.5,3,32,NA,NA
+2021/1/12,Zen架构,锐龙 5000 系列,AMD 锐龙 5 5560U,TSMC 7nm FinFET,6,12,2.3,3,8,AMD Radeon™  Graphics,6
+2021/1/12,Zen架构,锐龙 5000 系列,AMD 锐龙 5 5500U,TSMC 7nm FinFET,6,12,2.1,3,8,AMD Radeon™ Graphics,7
+2023/6/23,Zen架构,锐龙 5000 系列,AMD 锐龙 5 5500H,TSMC 7nm FinFET,4,8,3.3,2,8,AMD Radeon™ Graphics,6
+2022/4/4,Zen架构,锐龙 5000 系列,AMD 锐龙 5 5500,TSMC 7nm FinFET,6,12,3.6,3,16,NA,NA
+2022/1/30,Zen架构,锐龙 5000 系列,AMD 锐龙 3 5425U,TSMC 7nm FinFET,4,8,2.7,2,8,AMD Radeon™ Graphics,6
+2022/5/5,Zen架构,锐龙 5000 系列,AMD 锐龙 3 5425C,TSMC 7nm FinFET,4,8,2.7,2,8,AMD Radeon™ Graphics,6
+2021/1/12,Zen架构,锐龙 5000 系列,AMD 锐龙 3 5400U,TSMC 7nm FinFET,4,8,2.6,2,8,AMD Radeon™ Graphics,6
+2021/1/23,Zen架构,锐龙 5000 系列,AMD 锐龙 3 5305GE,TSMC 7nm FinFET,4,8,3.6,2,8,Radeon™ Graphics,6
+2021/1/12,Zen架构,锐龙 5000 系列,AMD 锐龙 3 5300U,TSMC 7nm FinFET,4,8,2.6,2,4,AMD Radeon™ Graphics,6
+2021/4/13,Zen架构,锐龙 5000 系列,AMD 锐龙 3 5300GE（仅限 OEM）,TSMC 7nm FinFET,4,8,3.6,2,8,Radeon™  Graphics,6
+2021/4/13,Zen架构,锐龙 5000 系列,AMD 锐龙 3 5300G（仅限 OEM）,TSMC 7nm FinFET,4,8,4,2,8,Radeon™  Graphics,6
+2022/5/5,Zen架构,锐龙 5000 系列,AMD 锐龙 3 5125C,TSMC 7nm FinFET,2,4,3,1,8,AMD Radeon™ Graphics,3
+2020/5/7,Zen架构,锐龙 PRO 4000 系列,AMD 锐龙 7 PRO 4750U,TSMC 7nm FinFET,8,16,1.7,4,8,AMD Radeon™ Graphics,7
+2020/7/21,Zen架构,锐龙 PRO 4000 系列,AMD 锐龙 7 PRO 4750GE,TSMC 7nm FinFET,8,16,3.1,4,8,Radeon™ Graphics,8
+2020/7/21,Zen架构,锐龙 PRO 4000 系列,AMD 锐龙 7 PRO 4750G,TSMC 7nm FinFET,8,16,3.6,4,8,Radeon™ Graphics,8
+2022/11/11,Zen架构,锐龙 PRO 4000 系列,AMD 锐龙 5 PRO 4655GE,TSMC 7nm FinFET,6,12,3.3,3,8,Radeon™ Graphics,7
+2022/11/11,Zen架构,锐龙 PRO 4000 系列,AMD 锐龙 5 PRO 4655G,TSMC 7nm FinFET,6,12,3.7,3,8,Radeon™ Graphics,7
+2020/5/7,Zen架构,锐龙 PRO 4000 系列,AMD 锐龙 5 PRO 4650U,TSMC 7nm FinFET,6,12,2.1,3,8,AMD Radeon™ Graphics,6
+2020/7/21,Zen架构,锐龙 PRO 4000 系列,AMD 锐龙 5 PRO 4650GE,TSMC 7nm FinFET,6,12,3.3,3,8,Radeon™ Graphics,7
+2020/7/21,Zen架构,锐龙 PRO 4000 系列,AMD 锐龙 5 PRO 4650G,TSMC 7nm FinFET,6,12,3.7,3,8,Radeon™ Graphics,7
+2020/5/7,Zen架构,锐龙 PRO 4000 系列,AMD 锐龙 3 PRO 4450U,TSMC 7nm FinFET,4,8,2.5,2,4,AMD Radeon™ Graphics,5
+2020/7/21,Zen架构,锐龙 PRO 4000 系列,AMD 锐龙 3 PRO 4355GE,TSMC 7nm FinFET,4,8,3.5,2,4,Radeon™ Vega 6 Graphics,6
+2020/7/21,Zen架构,锐龙 PRO 4000 系列,AMD 锐龙 3 PRO 4355G,TSMC 7nm FinFET,4,8,3.8,2,4,Radeon™ Graphics,6
+2020/7/21,Zen架构,锐龙 PRO 4000 系列,AMD 锐龙 3 PRO 4350GE,TSMC 7nm FinFET,4,8,3.5,2,4,Radeon™ Vega 6 Graphics,6
+2020/7/21,Zen架构,锐龙 PRO 4000 系列,AMD 锐龙 3 PRO 4350G,TSMC 7nm FinFET,4,8,3.8,2,4,Radeon™ Graphics,6
+2020/3/17,Zen架构,锐龙 4000 系列,AMD 锐龙 9 4900HS,TSMC 7nm FinFET,8,16,3,4,8,AMD Radeon™ Graphics,8
+2020/3/16,Zen架构,锐龙 4000 系列,AMD 锐龙 9 4900H,TSMC 7nm FinFET,8,16,3.3,4,8,AMD Radeon™ Graphics,8
+2021/4/13,Zen架构,锐龙 4000 系列,AMD 锐龙 7 4980U Microsoft Surface 版,TSMC 7nm FinFET,8,16,2,4,8,Radeon™  Graphics,8
+2020/1/6,Zen架构,锐龙 4000 系列,AMD 锐龙 7 4800U,TSMC 7nm FinFET,8,16,1.8,4,8,AMD Radeon™ Graphics,8
+2020/3/16,Zen架构,锐龙 4000 系列,AMD 锐龙 7 4800HS,TSMC 7nm FinFET,8,16,2.9,4,8,AMD Radeon™ Graphics,7
+2020/1/6,Zen架构,锐龙 4000 系列,AMD 锐龙 7 4800H,TSMC 7nm FinFET,8,16,2.9,4,8,AMD Radeon™ Graphics,7
+2020/1/6,Zen架构,锐龙 4000 系列,AMD 锐龙 7 4700U,TSMC 7nm FinFET,8,8,2,4,8,AMD Radeon™ Graphics,7
+2020/7/21,Zen架构,锐龙 4000 系列,AMD 锐龙 7 4700GE（仅限 OEM）,TSMC 7nm FinFET,8,16,3.1,4,8,Radeon™  Graphics,8
+2020/7/21,Zen架构,锐龙 4000 系列,AMD 锐龙 7 4700G（仅限 OEM）,TSMC 7nm FinFET,8,16,3.6,4,8,Radeon™ Graphics,8
+2021/4/13,Zen架构,锐龙 4000 系列,AMD 锐龙 5 4680U Microsoft Surface 版,TSMC 7nm FinFET,6,12,2.2,3,8,Radeon™  Graphics,7
+2020/1/6,Zen架构,锐龙 4000 系列,AMD 锐龙 5 4600U,TSMC 7nm FinFET,6,12,2.1,3,8,AMD Radeon™ Graphics,6
+2020/1/6,Zen架构,锐龙 4000 系列,AMD 锐龙 5 4600H,TSMC 7nm FinFET,6,12,3,3,8,AMD Radeon™ Graphics,6
+2020/7/21,Zen架构,锐龙 4000 系列,AMD 锐龙 5 4600GE（仅限 OEM）,TSMC 7nm FinFET,6,12,3.3,3,8,Radeon™  Graphics,7
+2020/7/21,Zen架构,锐龙 4000 系列,AMD 锐龙 5 4600G,TSMC 7nm FinFET,6,12,3.7,3,8,Radeon™  Graphics,7
+2020/1/6,Zen架构,锐龙 4000 系列,AMD 锐龙 5 4500U,TSMC 7nm FinFET,6,6,2.3,3,8,AMD Radeon™ Graphics,6
+2022/4/4,Zen架构,锐龙 4000 系列,AMD 锐龙 5 4500,TSMC 7nm FinFET,6,12,3.6,3,8,NA,NA
+2020/1/6,Zen架构,锐龙 4000 系列,AMD 锐龙 3 4300U,TSMC 7nm FinFET,4,4,2.7,2,4,AMD Radeon™ Graphics,5
+2020/7/21,Zen架构,锐龙 4000 系列,AMD 锐龙 3 4300GE（仅限 OEM）,TSMC 7nm FinFET,4,8,3.5,2,4,Radeon™  Graphics,6
+2020/7/21,Zen架构,锐龙 4000 系列,AMD 锐龙 3 4300G（仅限 OEM）,TSMC 7nm FinFET,4,8,3.8,2,4,Radeon™  Graphics,6
+2022/4/4,Zen架构,锐龙 4000 系列,AMD 锐龙 3 4100,TSMC 7nm FinFET,4,8,3.8,2,4,NA,NA
+2020/7/14,Zen架构,锐龙 Threadripper PRO 3000 WX 系列,AMD 锐龙 Threadripper PRO 3995WX,TSMC 7nm FinFET,64,128,2.7,32,256,NA,NA
+2020/7/14,Zen架构,锐龙 Threadripper PRO 3000 WX 系列,AMD 锐龙 Threadripper PRO 3975WX,TSMC 7nm FinFET,32,64,3.5,16,128,NA,NA
+2020/7/14,Zen架构,锐龙 Threadripper PRO 3000 WX 系列,AMD 锐龙 Threadripper PRO 3955WX,TSMC 7nm FinFET,16,32,3.9,8,64,NA,NA
+2020/7/14,Zen架构,锐龙 Threadripper PRO 3000 WX 系列,AMD 锐龙 Threadripper PRO 3945WX,TSMC 7nm FinFET,12,24,4,6,64,NA,NA
+2020/2/7,Zen架构,锐龙 Threadripper 3000 系列,AMD 锐龙 Threadripper 3990X,TSMC 7nm FinFET,64,128,2.9,32,256,NA,NA
+2019/11/25,Zen架构,锐龙 Threadripper 3000 系列,AMD 锐龙 Threadripper 3970X,TSMC 7nm FinFET,32,64,3.7,16,128,NA,NA
+2019/11/25,Zen架构,锐龙 Threadripper 3000 系列,AMD 锐龙 Threadripper 3960X,TSMC 7nm FinFET,24,48,3.8,12,128,NA,NA
+2019/9/30,Zen架构,锐龙 PRO 3000 系列,AMD 锐龙 9 PRO 3900,TSMC 7nm FinFET,12,24,3.1,6,64,NA,NA
+2019/4/8,Zen架构,锐龙 PRO 3000 系列,AMD 锐龙 7 PRO 3700U,12nm,4,8,2.3,2,4,Radeon™ Vega 10 Graphics,10
+2019/9/30,Zen架构,锐龙 PRO 3000 系列,AMD 锐龙 7 PRO 3700,TSMC 7nm FinFET,8,16,3.6,4,32,NA,NA
+2019/9/30,Zen架构,锐龙 PRO 3000 系列,AMD 锐龙 5 PRO 3600,TSMC 7nm FinFET,6,12,3.6,3,32,NA,NA
+2019/4/8,Zen架构,锐龙 PRO 3000 系列,AMD 锐龙 5 PRO 3500U,12nm,4,8,2.1,2,4,Radeon™ Vega 8 Graphics,8
+2019/9/30,Zen架构,锐龙 PRO 3000 系列,AMD 锐龙 5 PRO 3400GE,12nm,4,8,3.3,2,4,Radeon™ Vega 11 Graphics,11
+2019/9/30,Zen架构,锐龙 PRO 3000 系列,AMD 锐龙 5 PRO 3400G,12nm,4,8,3.7,2,4,Radeon™ Vega 11 Graphics,11
+2020/7/21,Zen架构,锐龙 PRO 3000 系列,AMD 锐龙 5 PRO 3350GE,12nm,4,4,3.3,2,4,Radeon™  Graphics,10
+2020/7/21,Zen架构,锐龙 PRO 3000 系列,AMD 锐龙 5 PRO 3350G,12nm,4,8,3.6,2,4,Radeon™  Graphics,10
+2019/4/8,Zen架构,锐龙 PRO 3000 系列,AMD 锐龙 3 PRO 3300U,12nm,4,4,2.1,2,4,Radeon™ Vega 6 Graphics,6
+2019/9/30,Zen架构,锐龙 PRO 3000 系列,AMD 锐龙 3 PRO 3200GE,12nm,4,4,3.3,2,4,Radeon™ Vega 8 Graphics,8
+2019/9/30,Zen架构,锐龙 PRO 3000 系列,AMD 锐龙 3 PRO 3200G,12nm,4,4,3.6,2,4,Radeon™ Vega 8 Graphics,8
+2019/11/25,Zen架构,锐龙 3000 系列,AMD 锐龙 9 3950X,TSMC 7nm FinFET,16,32,3.5,8,64,NA,NA
+2020/7/7,Zen架构,锐龙 3000 系列,AMD 锐龙 9 3900XT,TSMC 7nm FinFET,12,24,3.8,6,64,NA,NA
+2019/7/7,Zen架构,锐龙 3000 系列,AMD 锐龙 9 3900X,TSMC 7nm FinFET,12,24,3.8,6,64,NA,NA
+2019/9/24,Zen架构,锐龙 3000 系列,AMD 锐龙 9 3900（仅限 OEM）,TSMC 7nm FinFET,12,24,3.1,6,64,NA,NA
+2020/7/7,Zen架构,锐龙 3000 系列,AMD 锐龙 7 3800XT,TSMC 7nm FinFET,8,16,3.9,4,32,NA,NA
+2019/7/7,Zen架构,锐龙 3000 系列,AMD 锐龙 7 3800X,TSMC 7nm FinFET,8,16,3.9,4,32,NA,NA
+2019/10/2,Zen架构,锐龙 3000 系列,AMD 锐龙 7 3780U Microsoft Surface® Edition,12nm,4,8,2.3,2,4,Radeon™ RX Vega 11 Graphics,11
+2019/1/6,Zen架构,锐龙 3000 系列,AMD 锐龙 7 3750H,12nm,4,8,2.3,2,4,Radeon™ RX Vega 10 Graphics,10
+2019/7/7,Zen架构,锐龙 3000 系列,AMD 锐龙 7 3700X,TSMC 7nm FinFET,8,16,3.6,4,32,NA,NA
+2019/1/6,Zen架构,锐龙 3000 系列,AMD 锐龙 7 3700U,12nm,4,8,2.3,2,4,Radeon™ RX Vega 10 Graphics,10
+2020/9/22,Zen架构,锐龙 3000 系列,AMD 锐龙 7 3700C,12nm,4,8,2.3,2,4,AMD Radeon™ Graphics,10
+2020/7/7,Zen架构,锐龙 3000 系列,AMD 锐龙 5 3600XT,TSMC 7nm FinFET,6,12,3.8,3,32,NA,NA
+2019/7/7,Zen架构,锐龙 3000 系列,AMD 锐龙 5 3600X,TSMC 7nm FinFET,6,12,3.8,3,32,NA,NA
+2019/7/7,Zen架构,锐龙 3000 系列,AMD 锐龙 5 3600,TSMC 7nm FinFET,6,12,3.6,3,32,NA,NA
+2019/10/2,Zen架构,锐龙 3000 系列,AMD 锐龙 5 3580U Microsoft Surface 版,12nm,4,8,2.1,2,4,Radeon™ Vega 9 Graphics,9
+2019/1/6,Zen架构,锐龙 3000 系列,AMD 锐龙 5 3550H,12nm,4,8,2.1,2,4,Radeon™ Vega 8 Graphics,8
+2019/9/24,Zen架构,锐龙 3000 系列,AMD 锐龙 5 3500X,TSMC 7nm FinFET,6,6,3.6,3,32,NA,NA
+2019/1/6,Zen架构,锐龙 3000 系列,AMD 锐龙 5 3500U,12nm,4,8,2.1,2,4,Radeon™ Vega 8 Graphics,8
+2020/9/22,Zen架构,锐龙 3000 系列,AMD 锐龙 5 3500C,12nm,4,8,2.1,2,4,AMD Radeon™ Graphics,8
+2019/10/9,Zen架构,锐龙 3000 系列,AMD 锐龙 5 3500（仅限 OEM）,TSMC 7nm FinFET,6,6,3.6,3,16,NA,NA
+2020/5/1,Zen架构,锐龙 3000 系列,AMD 锐龙 5 3450U,12nm,4,8,2.1,2,4,Radeon™ Vega 8 Graphics,NA
+2019/7/7,Zen架构,锐龙 3000 系列,AMD 锐龙 5 3400GE（仅限 OEM）,12nm,4,8,3.3,2,4,Radeon™ Vega 11 Graphics,11
+2019/7/7,Zen架构,锐龙 3000 系列,AMD 锐龙 5 3400G 搭配 Radeon RX Vega 11 显卡,12nm FinFET,4,8,3.7,2,4,Radeon™ RX Vega 11 Graphics,11
+2019/1/6,Zen架构,锐龙 3000 系列,AMD 锐龙 3 3350U,12nm,4,4,2.1,2,4,Radeon™ Vega 6 Graphics,6
+2020/4/21,Zen架构,锐龙 3000 系列,AMD 锐龙 3 3300X,TSMC 7nm FinFET,4,8,3.8,2,16,NA,NA
+2019/1/6,Zen架构,锐龙 3000 系列,AMD 锐龙 3 3300U,12nm,4,4,2.1,2,4,Radeon™ Vega 6 Graphics,6
+2020/1/6,Zen架构,锐龙 3000 系列,AMD 锐龙 3 3250U,14nm,2,4,2.6,1,4,AMD Radeon™ Graphics,3
+2020/9/22,Zen架构,锐龙 3000 系列,AMD 锐龙 3 3250C,14nm,2,4,2.6,1,4,AMD Radeon™ Graphics,3
+2019/1/6,Zen架构,锐龙 3000 系列,AMD 锐龙 3 3200U,14nm,2,4,2.6,1,4,Radeon™ Vega 3 Graphics,3
+2019/7/7,Zen架构,锐龙 3000 系列,AMD 锐龙 3 3200GE（仅限 OEM）,12nm,4,4,3.3,2,4,Radeon™ Vega 8 Graphics,8
+2019/7/7,Zen架构,锐龙 3000 系列,AMD 锐龙 3 3200G 搭配 Radeon Vega 8 显卡,12nm FinFET,4,4,3.6,2,4,Radeon™ Vega 8 Graphics,8
+2020/4/21,Zen架构,锐龙 3000 系列,AMD 锐龙 3 3100,TSMC 7nm FinFET,4,8,3.6,2,16,NA,NA
+2020/7/21,Zen架构,Athlon PRO 3000 Series,AMD Athlon™ Gold PRO 3150GE,12nm,4,4,3.3,2,4,Radeon™  Graphics,3
+2020/7/21,Zen架构,Athlon PRO 3000 Series,AMD Athlon™ Gold PRO 3150G,12nm,4,4,3.5,2,4,Radeon™  Graphics,3
+2021/1/1,Zen架构,Athlon PRO 3000 Series,AMD Athlon™ PRO 3145B,14nm,2,4,2.4,1,4,AMD Radeon™ Graphics,3
+2020/7/21,Zen架构,Athlon PRO 3000 Series,AMD Athlon™ Silver PRO 3125GE,12nm,2,4,3.4,1,4,Radeon™  Graphics,3
+2021/1/1,Zen架构,Athlon PRO 3000 Series,AMD Athlon™ PRO 3045B,14nm,2,2,2.3,1,4,AMD Radeon™ Graphics,2
+2020/1/6,Zen架构,Athlon 3000 Series,AMD Athlon™ Gold 3150U,14nm,2,4,2.4,1,4,AMD Radeon™ Graphics,3
+2020/7/21,Zen架构,Athlon 3000 Series,AMD Athlon™ Gold 3150GE (OEM Only),12nm,4,4,3.3,2,4,Radeon™  Graphics,3
+2020/7/21,Zen架构,Athlon 3000 Series,AMD Athlon™ Gold 3150G (OEM Only),12nm,4,4,3.5,2,4,Radeon™  Graphics,3
+2020/9/22,Zen架构,Athlon 3000 Series,AMD Athlon™ Gold 3150C,14nm,2,4,2.4,1,4,AMD Radeon™ Graphics,3
+2020/1/6,Zen架构,Athlon 3000 Series,AMD Athlon™ Silver 3050U,14nm,2,2,2.3,1,4,AMD Radeon™ Graphics,2
+2020/7/21,Zen架构,Athlon 3000 Series,AMD Athlon™ Silver 3050GE (OEM Only),14nm,2,4,3.4,1,4,Radeon™  Graphics,3
+2020/1/6,Zen架构,Athlon 3000 Series,AMD Athlon™ Silver 3050e,14nm,2,4,1.4,1,4,AMD Radeon™ Graphics,3
+2020/9/22,Zen架构,Athlon 3000 Series,AMD Athlon™  Silver 3050C,14nm,2,2,2.3,1,4,AMD Radeon™ Graphics,2
+2019/11/19,Zen架构,Athlon 3000 Series,AMD Athlon™ 3000G,14nm,2,4,3.5,1,4,Radeon™ Vega 3 Graphics,3
+2019/9/30,Zen架构,Athlon PRO 300 Series,AMD Athlon™ PRO 300U Mobile Processor with Radeon™ Vega 3 Graphics,14nm,2,4,2.4,1,4,Radeon™ Vega 3 Graphics,3
+2019/9/30,Zen架构,Athlon PRO 300 Series,AMD Athlon™ PRO 300GE,12nm,2,4,3.4,1,4,Radeon™ Vega 3 Graphics,3
+2019/7/7,Zen架构,Athlon 300 Series,AMD Athlon™ 320GE,14nm FinFET,2,4,3.5,1,4,Radeon™ Vega 3 Graphics,3
+2019/1/6,Zen架构,Athlon 300 Series,AMD Athlon™ 300U,14nm,2,4,2.4,1,4,Radeon™ Vega 3 Graphics,3
+2019/7/7,Zen架构,Athlon 300 Series,AMD Athlon™ 300GE,14nm,2,4,3.4,1,4,Radeon™ Vega 3 Graphics,3
+2018/12/21,Zen架构,Athlon PRO 200 Series,AMD Athlon™ PRO 200U Mobile Processor with Radeon™ Vega 3 Graphics,14nm,2,4,2.3,1,4,Radeon™ Vega 3 Graphics,3
+2018/12/21,Zen架构,Athlon PRO 200 Series,AMD Athlon™ PRO 200GE,14nm,2,4,3.2,1,4,Radeon™ Vega 3 Graphics,3
+2018/12/21,Zen架构,Athlon 200 Series,AMD Athlon™ 240GE,14nm,2,4,3.5,1,4,Radeon™ Vega 3 Graphics,3
+2018/12/21,Zen架构,Athlon 200 Series,AMD Athlon™ 220GE,14nm,2,4,3.4,1,4,Radeon™ Vega 3 Graphics,3
+2018/12/21,Zen架构,Athlon 200 Series,AMD Athlon™ 200GE,14nm,2,4,3.2,1,4,Radeon™ Vega 3 Graphics,3
+2018/8/13,Zen架构,锐龙 Threadripper 2000 系列,AMD 锐龙 Threadripper 2990WX,12nm,32,64,3,16,64,NA,NA
+2018/10/29,Zen架构,锐龙 Threadripper 2000 系列,AMD 锐龙 Threadripper 2970WX,12nm,24,48,3,12,64,NA,NA
+2018/8/31,Zen架构,锐龙 Threadripper 2000 系列,AMD 锐龙 Threadripper 2950X,12nm,16,32,3.5,8,32,NA,NA
+2018/10/29,Zen架构,锐龙 Threadripper 2000 系列,AMD 锐龙 Threadripper 2920X,12nm,12,24,3.5,6,32,NA,NA
+2018/4/19,Zen架构,Ryzen PRO 2000 系列,AMD 锐龙 7 PRO 2700X,12nm,8,16,3.6,4,16,NA,NA
+2017/10/26,Zen架构,Ryzen PRO 2000 系列,AMD 锐龙 7 PRO 2700U,14nm,4,8,2.2,2,4,Radeon™ Vega 10 Graphics,10
+2018/9/19,Zen架构,Ryzen PRO 2000 系列,AMD 锐龙 7 PRO 2700,12nm,8,16,3.2,4,16,NA,NA
+2018/9/19,Zen架构,Ryzen PRO 2000 系列,AMD 锐龙 5 PRO 2600,12nm,6,12,3.4,3,16,NA,NA
+2017/10/26,Zen架构,Ryzen PRO 2000 系列,AMD 锐龙 5 PRO 2500U,14nm,4,8,2,2,4,Radeon™ Vega 8 Graphics,8
+2018/5/10,Zen架构,Ryzen PRO 2000 系列,AMD 锐龙 5 PRO 2400GE 搭配 Radeon Vega 11 显卡,14nm FinFET,4,8,3.2,2,4,Radeon™ Vega 11 Graphics,11
+2018/5/10,Zen架构,Ryzen PRO 2000 系列,AMD 锐龙 5 PRO 2400G 搭配 Radeon Vega 11 显卡,14nm FinFET,4,8,3.6,2,4,Radeon™ Vega 11 Graphics,11
+2018/1/8,Zen架构,Ryzen PRO 2000 系列,AMD 锐龙 3 PRO 2300U,14nm,4,4,2,2,4,Radeon™ Vega 6 Graphics,6
+2018/5/10,Zen架构,Ryzen PRO 2000 系列,AMD 锐龙 3 PRO 2200GE 搭配 Radeon Vega 8 显卡,14nm FinFET,4,4,3.2,2,4,Radeon™ Vega 8 Graphics,8
+2018/5/10,Zen架构,Ryzen PRO 2000 系列,AMD 锐龙 3 PRO 2200G 搭配 Radeon Vega 8 显卡,14nm FinFET,4,4,3.5,2,4,Radeon™ Vega 8 Graphics,8
+2018/9/10,Zen架构,锐龙 2000 系列,AMD 锐龙 7 2800H,14nm,4,8,3.3,2,4,Radeon™ RX Vega 11 Graphics,11
+2018/4/19,Zen架构,锐龙 2000 系列,AMD 锐龙 7 2700X,12nm FinFET,8,16,3.7,4,16,NA,NA
+2017/10/26,Zen架构,锐龙 2000 系列,AMD 锐龙 7 2700U,14nm,4,8,2.2,2,4,Radeon™ RX Vega 10 Graphics,10
+2018/9/19,Zen架构,锐龙 2000 系列,AMD 锐龙 7 2700E,12nm,8,16,2.8,4,16,NA,NA
+2018/4/19,Zen架构,锐龙 2000 系列,AMD 锐龙 7 2700,12nm FinFET,8,16,3.2,4,16,NA,NA
+2018/4/19,Zen架构,锐龙 2000 系列,AMD 锐龙 5 2600X,12nm FinFET,6,12,3.6,3,16,NA,NA
+2018/9/10,Zen架构,锐龙 2000 系列,AMD 锐龙 5 2600H,14nm,4,8,3.2,2,4,Radeon™ Vega 8 Graphics,8
+2018/9/11,Zen架构,锐龙 2000 系列,AMD 锐龙 5 2600E,12nm,6,12,3.1,3,16,NA,NA
+2018/4/19,Zen架构,锐龙 2000 系列,AMD 锐龙 5 2600,12nm FinFET,6,12,3.4,3,16,NA,NA
+2018/9/10,Zen架构,锐龙 2000 系列,AMD 锐龙 5 2500X,12nm,4,8,3.6,2,8,NA,NA
+2017/10/26,Zen架构,锐龙 2000 系列,AMD 锐龙 5 2500U,14nm,4,8,2,2,4,Radeon™ Vega 8 Graphics,8
+2018/4/19,Zen架构,锐龙 2000 系列,AMD 锐龙 5 2400GE 搭配 Radeon RX Vega 11 显卡,14nm FinFET,4,8,3.2,2,4,Radeon™ RX Vega 11 Graphics,11
+2018/2/12,Zen架构,锐龙 2000 系列,AMD 锐龙 5 2400G 搭配 Radeon RX Vega 11 显卡,14nm FinFET,4,8,3.6,2,4,Radeon™ RX Vega 11 Graphics,11
+2018/9/10,Zen架构,锐龙 2000 系列,AMD 锐龙 3 2300X,12nm,4,4,3.5,2,8,NA,NA
+2018/1/8,Zen架构,锐龙 2000 系列,AMD 锐龙 3 2300U,14nm,4,4,2,2,4,Radeon™ Vega 6 Graphics,6
+2018/1/8,Zen架构,锐龙 2000 系列,AMD 锐龙 3 2200U,14nm,2,4,2.5,1,4,Radeon™ Vega 3 Graphics,3
+2018/4/19,Zen架构,锐龙 2000 系列,AMD 锐龙 3 2200GE 搭配 Radeon Vega 8 显卡,14nm FinFET,4,4,3.2,2,4,Radeon™ Vega 8 Graphics,8
+2018/2/12,Zen架构,锐龙 2000 系列,AMD 锐龙 3 2200G 搭配 Radeon Vega 8 显卡,14nm FinFET,4,4,3.5,2,4,Radeon™ Vega 8 Graphics,8
+2017/7/31,Zen架构,锐龙 Threadripper 1000 系列,AMD 锐龙 Threadripper 1950X,14nm,16,32,3.4,8,32,NA,NA
+2017/7/31,Zen架构,锐龙 Threadripper 1000 系列,AMD 锐龙 Threadripper 1920X,14nm,12,24,3.5,6,32,NA,NA
+2017/8/31,Zen架构,锐龙 Threadripper 1000 系列,AMD 锐龙 Threadripper 1900X,14nm,8,16,3.8,4,16,NA,NA
+2017/6/29,Zen架构,锐龙 PRO 1000 系列,AMD 锐龙 7 PRO 1700X,14nm,8,16,3.4,4,16,NA,NA
+2017/6/29,Zen架构,锐龙 PRO 1000 系列,AMD 锐龙 7 PRO 1700,14nm,8,16,3,4,16,NA,NA
+2017/6/29,Zen架构,锐龙 PRO 1000 系列,AMD 锐龙 5 PRO 1600,14nm,6,12,3.2,3,16,NA,NA
+2017/6/29,Zen架构,锐龙 PRO 1000 系列,AMD 锐龙 5 PRO 1500,14nm,4,8,3.5,2,16,NA,NA
+2017/6/29,Zen架构,锐龙 PRO 1000 系列,AMD 锐龙 3 PRO 1300,14nm,4,4,3.5,2,8,NA,NA
+2017/6/29,Zen架构,锐龙 PRO 1000 系列,AMD 锐龙 3 PRO 1200,14nm,4,4,3.1,2,8,NA,NA
+2017/3/2,Zen架构,锐龙 1000 系列,AMD 锐龙 7 1800X,14nm,8,16,3.6,4,16,NA,NA
+2017/3/2,Zen架构,锐龙 1000 系列,AMD 锐龙 7 1700X,14nm,8,16,3.4,4,16,NA,NA
+2017/3/2,Zen架构,锐龙 1000 系列,AMD 锐龙 7 1700,14nm,8,16,3,4,16,NA,NA
+2017/4/11,Zen架构,锐龙 1000 系列,AMD 锐龙 5 1600X,14nm,6,12,3.6,3,16,NA,NA
+2019/10/11,Zen架构,锐龙 1000 系列,AMD 锐龙 5 1600 (AF),12nm,6,12,3.2,3,16,NA,NA
+2017/4/11,Zen架构,锐龙 1000 系列,AMD 锐龙 5 1600,14nm,6,12,3.2,3,16,NA,NA
+2017/4/11,Zen架构,锐龙 1000 系列,AMD 锐龙 5 1500X,14nm,4,8,3.5,2,16,NA,NA
+2017/4/11,Zen架构,锐龙 1000 系列,AMD 锐龙 5 1400,14nm,4,8,3.2,2,8,NA,NA
+2017/7/27,Zen架构,锐龙 1000 系列,AMD 锐龙 3 1300X,14nm,4,4,3.5,2,8,NA,NA
+2017/7/27,Zen架构,锐龙 1000 系列,AMD 锐龙 3 1200,14nm,4,4,3.1,2,8,NA,NA
+2020/1/6,Zen架构,AMD 3000 Series,AMD 3020e,14nm,2,2,1.2,1,4,AMD Radeon™ Graphics,3
+2020/7/6,Zen架构,AMD 3000 Series,AMD 3015e,14nm,2,4,1.2,1,4,AMD Radeon™ Graphics,3
+2021/4/29,Zen架构,AMD 3000 Series,AMD 3015Ce,14nm,2,4,1.2,1,4,Radeon™  Graphics,3
+2017/7/27,Zen架构,Athlon X4,7th Gen AMD Athlon™ X4 970,28nm,4,4,3.8,2,NA,NA,NA
+2017/7/27,Zen架构,Athlon X4,7th Gen AMD Athlon™ X4 950,28nm,4,4,3.5,2,NA,NA,NA
+2017/7/27,Zen架构,Athlon X4,7th Gen AMD Athlon™ X4 940,28nm,4,4,3.2,2,NA,NA,NA

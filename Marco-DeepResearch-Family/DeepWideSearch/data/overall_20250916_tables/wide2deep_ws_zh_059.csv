@@ -1,0 +1,41 @@
+﻿产品名称,首发年份,容量,容量对应售价（美元）,核心新增技术 / 功能
+iPhone,2007,4GB/8GB,499$/599$,划时代机型，触摸屏设计
+iPhone 3G,2008,8GB/16GB,199$/299$,支持3G网络、AppStore开启软件时代
+iPhone 3GS,2009,8GB/16GB/32GB,99$/199$/299$,首次引入语音控制功能，还增加了视频录制和数字罗盘
+iPhone 4,2010,16GB/32GB,199$/299$,Retina 显示屏，首次加入 LED 闪光灯
+iPhone 4S,2011,16GB/32GB/64GB,199$/299$/399$,引入 Siri 语音助手
+iPhone 5,2012,16GB/32GB/64GB,199$/299$/399$,采用新的 Lightning 接口，首次使用 Nano-SIM 卡
+iPhone 5s,2013,16GB/32GB/64GB,199$/299$/399$,首次引入 Touch ID 指纹识别
+iPhone 6,2014,16GB/64GB/128GB,199$/299$/399$,首次支持 NFC 和 Apple Pay
+iPhone 6 Plus,2014,16GB/64GB/128GB,299$/399$/499$,首次支持 NFC 和 Apple Pay
+iPhone 6s,2015,16GB/64GB/128GB,199$/299$/399$,引入 3D Touch 触控技术
+iPhone 6s Plus,2015,16GB/64GB/128GB,299$/399$/499$,引入 3D Touch 触控技术
+iPhone 7,2016,32GB/128GB/256GB,649$/749$/849$,取消3.5 mm 耳机插孔，支持 IP67 级防尘防水，首次引入双立体声外放，首次配备双摄像头
+iPhone 7 Plus,2016,32GB/128GB/256GB,769$/869$/969$,取消3.5 mm 耳机插孔，支持 IP67 级防尘防水，首次引入双立体声外放，首次配备双摄像头
+iPhone 8,2017,64GB/256GB,699$/849$,玻璃后盖支持无线充电
+iPhone 8 Plus,2017,64GB/256GB,799$/949$,玻璃后盖支持无线充电
+iPhone X,2017,64GB/256GB,999$/1149$,全面屏设计，引入 Face ID 人脸识别
+iPhone XR,2018,64GB/128GB/256GB,749$/799$/899$,全面屏设计，引入 Face ID 人脸识别，液态视网膜显示屏
+iPhone XS,2018,64GB/256GB/512GB,999$/1149$/1349$,首次支持双卡，引入 SmartHDR 摄影技术
+iPhone XS Max,2018,64GB/256GB/512GB,1099$/1249$/1449$,首次支持双卡，引入 SmartHDR 摄影技术
+iPhone 11,2019,64GB/128GB/256GB,699$/749$/849$,引入超广角摄像头、夜间模式、U1 芯片支持超宽带技术
+iPhone 11 Pro,2019,64GB/256GB/512GB,999$/1149$/1349$,引入超广角摄像头、夜间模式、U2 芯片支持超宽带技术
+iPhone 11 Pro Max,2019,64GB/256GB/512GB,1099$/1249$/1449$,引入超广角摄像头、夜间模式、U3 芯片支持超宽带技术
+iPhone 12,2020,64GB/128GB/256GB,799$/849$/949$,5G 网络支持、引入 MagSafe 磁吸充电
+iPhone 12 Pro,2020,128GB/256GB/512GB,999$/1099$/1299$,5G 网络支持、引入 MagSafe 磁吸充电、激光雷达扫描仪、新增了Apple ProRAW技术
+iPhone 12 Pro Max,2020,128GB/256GB/512GB,1099$/1199$/1399$,5G 网络支持、引入 MagSafe 磁吸充电、激光雷达扫描仪、新增了Apple ProRAW技术
+iPhone 13,2021,128GB/256GB/512GB,799$/899$/1099$,引入电影效果模式拍摄
+iPhone 13 Pro,2021,128GB/256GB/512GB/1T,999$/1099$/1299$/1499$,引入 ProMotion 显示屏
+iPhone 13 Pro Max,2021,128GB/256GB/512GB/1T,1099$/1199$/1399$/1599$,引入 ProMotion 显示屏
+iPhone 14,2022,128GB/256GB/512GB,799$/899$/1099$,车祸检测、卫星通信
+iPhone 14 Plus,2022,128GB/256GB/512GB,899$/999$/1199$,灵动岛和全天候显示、车祸检测、卫星通信
+iPhone 14 Pro,2022,128GB/256GB/512GB/1T,999$/1099$/1299$/1499$,灵动岛和全天候显示，运动模式视频防抖
+iPhone 14 Pro Max,2022,128GB/256GB/512GB/1T,1099$/1199$/1399$/1599$,灵动岛和全天候显示，运动模式视频防抖
+iPhone 15,2023,128GB/256GB/512GB,799$/899$/1099$,USB-C 替代 Lightning 接口，钛金属边框
+iPhone 15 Plus,2023,128GB/256GB/512GB,899$/999$/1199$,USB-C 替代 Lightning 接口，钛金属边框
+iPhone 15 Pro,2023,128GB/256GB/512GB/1T,999$/1099$/1299$/1499$,USB-C 替代 Lightning 接口，钛金属边框、3nm工艺a17pro芯片
+iPhone 15 Pro Max,2023,256GB/512GB/1T,1199$/1399$/1599$,USB-C 替代 Lightning 接口，钛金属边框、3nm工艺a17pro芯片
+iPhone 16,2024,128GB/256GB/512GB,799$/899$/1099$,Apple Intelligence(含视觉智能Visual Intelligence功能)，侧边相机控制
+iPhone 16 Plus,2024,128GB/256GB/512GB,899$/999$/1199$,Apple Intelligence(含视觉智能Visual Intelligence功能)，侧边相机控制
+iPhone 16 Pro,2024,128GB/256GB/512GB/1T,999$/1099$/1299$/1499$,Apple Intelligence(含视觉智能Visual Intelligence功能)，侧边相机控制
+iPhone 16 Pro Max,2024,256GB/512GB/1T,1199$/1399$/1599$,Apple Intelligence(含视觉智能Visual Intelligence功能)，侧边相机控制
