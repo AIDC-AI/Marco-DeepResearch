@@ -98,7 +98,7 @@ On 10-digit HS code accuracy, Marco Agent reaches **65.0%** Top-1, outperforming
 
 ---
 
-### 💬 Customer Service Intelligence ("Wangbuliao" Self-Evolving Agent)
+### 💬 Customer Service Intelligence (Self-Evolving Agent)
 
 **The Problem: Rules Are Subtle and Shifting**
 
