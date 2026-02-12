@@ -265,10 +265,13 @@
   url={https://arxiv.org/abs/2602.06724}, 
 }
 
-@article{umem2026,
-  title={UMEM: Unified Memory Extraction and Management Framework for Generalizable Memory},
-  author={Marco DeepResearch Team},
-  journal={arXiv preprint},
-  year={2026}
+@misc{ye2026umemunifiedmemoryextraction,
+      title={UMEM: Unified Memory Extraction and Management Framework for Generalizable Memory}, 
+      author={Yongshi Ye and Hui Jiang and Feihu Jiang and Tian Lan and Yichao Du and Biao Fu and Xiaodong Shi and Qianghuai Jia and Longyue Wang and Weihua Luo},
+      year={2026},
+      eprint={2602.10652},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2602.10652}, 
 }
 ```
