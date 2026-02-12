@@ -241,18 +241,24 @@
 如果您觉得我们的工作有用，请引用相关论文：
 
 ```bibtex
-@article{lan2024hscodecomp,
-  title={HSCodeComp: Evaluating Hierarchical Rule Application in E-Commerce Domain},
-  author={Lan, Tian and Wang, Longyue and others},
-  journal={arXiv preprint arXiv:2510.19631},
-  year={2024}
+@misc{yang2025hscodecomprealisticexpertlevelbenchmark,
+      title={HSCodeComp: A Realistic and Expert-level Benchmark for Deep Search Agents in Hierarchical Rule Application}, 
+      author={Yiqian Yang and Tian Lan and Qianghuai Jia and Li Zhu and Hui Jiang and Hang Zhu and Longyue Wang and Weihua Luo and Kaifu Zhang},
+      year={2025},
+      eprint={2510.19631},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2510.19631}, 
 }
 
-@article{lan2024deepwidesearch,
-  title={DeepWideSearch: Benchmarking Depth and Width in Agentic Information Seeking},
-  author={Lan, Tian and Wang, Longyue and others},
-  journal={arXiv preprint arXiv:2510.20168},
-  year={2024}
+@misc{lan2025deepwidesearchbenchmarkingdepthwidth,
+      title={DeepWideSearch: Benchmarking Depth and Width in Agentic Information Seeking}, 
+      author={Tian Lan and Bin Zhu and Qianghuai Jia and Junyang Ren and Haijun Li and Longyue Wang and Zhao Xu and Weihua Luo and Kaifu Zhang},
+      year={2025},
+      eprint={2510.20168},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2510.20168}, 
 }
 
 @misc{lan2026tableassearch,
