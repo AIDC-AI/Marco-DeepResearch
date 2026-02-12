@@ -88,11 +88,6 @@
 
 我们首先建立 **HSCodeComp** 基准，发现当前先进智能体表现远逊于人类专家。随后设计以 Marco 为编排的智能体框架：(1) **多模态输入解析**（标题、属性、图片 → 规范化属性），(2) **检索增强推理**（Deep Search：历史标注、专家知识、海关裁定），(3) **工具化核验**（税率查询、章节注释、裁定校验），(4) **结构化输出**与可审计证据链。
 
-<div align="center">
-  <img src="assets/HSCode_zh.png" alt="HSCode 智能体框架" width="85%">
-  <p><em><b>基于智能体的 HS 编码分类框架：</b>多模态解析、Deep Search 检索与工具核验。</em></p>
-</div>
-
 **效果：相对基线明显提升，相对人类仍有较大差距**
 
 在 10 位 HS 编码准确率上，Marco Agent 达到 **65.0%** Top-1，优于 GPT-5 系智能体（46.8%）、Agentorchestra（41.3%）和 Claude Sonnet 4（11.9%）。下图表明工具增强决策显著优于通用智能体；但与人类专家（95.0%）仍存在较大差距，**仍有很大提升空间**。
@@ -113,11 +108,6 @@
 **我们的方案：自进化智能体 + UMEM**
 
 **自进化智能体** 从智能体判断与专家标注的差距中学习：提取细粒度洞察（如「高端品牌需结合视觉水印核对『正品』描述」）并写入长期记忆。引擎是 **UMEM**（统一记忆抽取与管理）：将交互轨迹提炼为可执行、可泛化的洞察，而非简单检索历史。闭环为 **Action → Rewarding**（与 Ground Truth 对比、发现 Badcase）**→ Memory Extraction**（反思、生成候选规则）**→ Validation**（安全门控后更新 Memory 或重试）。
-
-<div align="center">
-  <img src="assets/wangbuliao_umem_framework.png" alt="自进化智能体框架" width="90%">
-  <p><em><b>自进化闭环：</b>Memory 提供规则 → Action → Rewarding（错误信号）→ Memory Extraction → Validation → 更新 Memory 或重试。</em></p>
-</div>
 
 **效果：调优效率约 30–50 倍提升，质量同步提升**
 

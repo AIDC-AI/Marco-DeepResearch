@@ -87,11 +87,6 @@ Predicting a destination country’s 10-digit HS code and tariff from incomplete
 
 We first established the **HSCodeComp** benchmark and found that state-of-the-art agents perform poorly—far below human experts. We then designed an agent-based framework with Marco as the orchestrator: (1) **multi-modal input parsing** (titles, attributes, images → normalized attributes), (2) **retrieval-augmented reasoning** via Deep Search (historical labels, expert knowledge, customs rulings), (3) **tool-integrated verification** (tariff lookup, chapter/section notes, ruling validation), and (4) **structured output** with an auditable evidence trail.
 
-<div align="center">
-  <img src="assets/HSCode_zh.png" alt="HSCode Agent Framework" width="85%">
-  <p><em><b>Agent-based HS code classification framework:</b> Multi-modal parsing, Deep Search retrieval, and tool-based verification.</em></p>
-</div>
-
 **Results: Clear Gain vs. Baselines, Large Gap vs. Humans**
 
 On 10-digit HS code accuracy, Marco Agent reaches **65.0%** Top-1, outperforming GPT-5–based agents (46.8%), Agentorchestra (41.3%), and Claude Sonnet 4 (11.9%). As shown below, tool-augmented decision-making substantially improves over general-purpose agents. Nevertheless, a large gap remains versus human experts (95.0%), indicating **significant room for further improvement**.
@@ -112,11 +107,6 @@ In e-commerce commodity auditing are multi-modal, subtle, and constantly evolvin
 **Our Approach: Self-Evolving Agent + UMEM**
 
 The **Self-Evolving Agent** learns from the gap between agent judgment and expert ground truth: it extracts nuances and integrates them into long-term memory. The engine is **UMEM** (Unified Memory Extraction and Management), which distills interaction traces into actionable and generalizable insights instead of merely retrieving past data. The loop is **Action → Rewarding** (compare with ground truth, detect badcases) **→ Memory Extraction** (reflect, generate candidate rules) **→ Validation** (safety gate, then update memory or retry).
-
-<div align="center">
-  <img src="assets/wangbuliao_umem_framework.png" alt="Wangbuliao Self-Evolving Agent Framework" width="90%">
-  <p><em><b>Self-evolving loop:</b> Memory provides rules → Action → Rewarding (error signal) → Memory Extraction → Validation → update Memory or retry.</em></p>
-</div>
 
 **Results: 30–50× Faster Tuning, Quality Gains**
 
