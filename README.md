@@ -52,7 +52,7 @@ These benchmarks and frameworks reveal and address fundamental gaps in current A
 
 * **[2026-02]** 🎉 Released **UMEM (Unified Memory Extraction and Management)** - a self-evolving memory framework that jointly optimizes extraction and management for generalizable agent memory.
 * **[2026-02]** 🎉 Released **Table-as-Search** - a structured planning framework for long-horizon agentic informatin seeking.
-* **[2025-02]** 🏆 **DeepWideSearch**: **[A-MapReduce](https://arxiv.org/pdf/2602.01331)** uses DeepWideSearch as the primary benchmark for wide-search systems, achieving **79.09% Core Entity Accuracy**, **51.78% Column F1**, and **4.43% Success Rate** (SOTA among open-source frameworks), Setting new standards for evaluating agentic search capabilities with reproducible metrics
+* **[2026-02]** 🏆 **DeepWideSearch**: **[A-MapReduce](https://arxiv.org/pdf/2602.01331)** uses DeepWideSearch as the primary benchmark for wide-search systems, achieving **79.09% Core Entity Accuracy**, **51.78% Column F1**, and **4.43% Success Rate** (SOTA among open-source frameworks), Setting new standards for evaluating agentic search capabilities with reproducible metrics
 * **[2025-10]** 🔥 Initial release of Marco DeepResearch with **DeepWideSearch** and **HSCodeComp** benchmarks.
 
 ---
