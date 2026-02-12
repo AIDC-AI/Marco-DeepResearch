@@ -33,7 +33,7 @@
 
 ### 🎯 核心成果
 
-我们推出了一系列基准测试和框架，从对真实世界部署至关重要的基础维度评估和推进智能体能力：
+我们推出了一系列基准测试、框架和优化方法，从对真实世界部署至关重要的基础维度评估和推进智能体能力：
 
 - **🏆 HSCodeComp**: 测试层级规则应用能力，**人类专家表现 95.0%** vs. **最佳 AI 46.8%** (SmolAgent + GPT-5 VLM)
 - **🏆 DeepWideSearch**: 挑战深度与广度结合的信息检索，平均 **414 个信息单元**，**4.21 步推理深度**
@@ -51,6 +51,7 @@
 ## 🔥 新闻与更新
 
 * **[2026-02]** 🎉 发布 **UMEM（统一记忆提取与管理）** - 一个联合优化提取和管理以实现可泛化智能体记忆的自进化记忆框架。
+* **[2026-02]** 🎉 发布 **Table-as-Search（表格即搜索）** - 针对复杂 Agentic Search 任务的结构化规划策略。
 * **[2025-02]** 🏆 **DeepWideSearch**：
   - **[A-MapReduce](https://arxiv.org/pdf/2602.01331)** 采用 DeepWideSearch 作为广域搜索系统的主要评估基准，实现 **79.09% 核心实体准确率**、**51.78% 列级 F1** 和 **4.43% 成功率**（开源框架中的最先进水平），为评估智能体搜索能力设立可复现的新标准
 * **[2025-10]** 🔥 Marco DeepResearch 首次发布，包含 **DeepWideSearch** 和 **HSCodeComp** 两个基准测试。
@@ -63,7 +64,7 @@
 
 ---
 
-### 📊 招商 BD 智能化
+### 📊 招商 BD 智能化（真实场景复杂深宽搜索任务）
 
 **挑战：** 招商 BD 任务同时需要**广度**（跨平台发现大量合格商家）和**深度**（从官网多跳提取联系方式）。在 [DeepWideSearch](Marco-DeepResearch-Family/DeepWideSearch/) 基准上，ReAct 类基线存在规划不清、状态混乱和覆盖缺口。
 
@@ -93,7 +94,7 @@
 在 10 位 HS 编码准确率上，Marco Agent 达到 **65.0%** Top-1，优于 GPT-5 系智能体（46.8%）、Agentorchestra（41.3%）和 Claude Sonnet 4（11.9%）。下图表明工具增强决策显著优于通用智能体；但与人类专家（95.0%）仍存在较大差距，**仍有很大提升空间**。
 
 <div align="center">
-  <img src="assets/HSCode_our_performance.png" alt="HSCode 基准效果" width="85%">
+  <img src="assets/HSCode_our_performance.png" alt="HSCode 基准效果" width="40%">
   <p><em><b>HSCodeComp 基准（10 位准确率）：</b>Marco Agent（65.0%）vs. 基线及人类专家（95.0%）。</em></p>
 </div>
 

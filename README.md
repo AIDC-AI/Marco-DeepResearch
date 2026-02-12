@@ -33,7 +33,7 @@
 
 ### 🎯 Key Achievements
 
-We introduce a suite of benchmarks and frameworks that evaluate and advance agents across fundamental dimensions essential for real-world deployment:
+We introduce a suite of benchmarks, frameworks and models that evaluate and advance agents across fundamental dimensions essential for real-world deployment:
 
 - **🏆 HSCodeComp**: Tests hierarchical rule application with **95.0% human performance** vs. **46.8% best AI** (SmolAgent + GPT-5 VLM)
 - **🏆 DeepWideSearch**: Challenges deep-and-wide information seeking with **414 avg. information units** and **4.21 avg. reasoning depth**
@@ -51,6 +51,7 @@ These benchmarks and frameworks reveal and address fundamental gaps in current A
 ## 🔥 News & Updates
 
 * **[2026-02]** 🎉 Released **UMEM (Unified Memory Extraction and Management)** - a self-evolving memory framework that jointly optimizes extraction and management for generalizable agent memory.
+* **[2026-02]** 🎉 Released **Table-as-Search** - a structured planning framework for long-horizon agentic informatin seeking.
 * **[2025-02]** 🏆 **DeepWideSearch**: **[A-MapReduce](https://arxiv.org/pdf/2602.01331)** uses DeepWideSearch as the primary benchmark for wide-search systems, achieving **79.09% Core Entity Accuracy**, **51.78% Column F1**, and **4.43% Success Rate** (SOTA among open-source frameworks), Setting new standards for evaluating agentic search capabilities with reproducible metrics
 * **[2025-10]** 🔥 Initial release of Marco DeepResearch with **DeepWideSearch** and **HSCodeComp** benchmarks.
 
@@ -62,7 +63,7 @@ Real-world deployment showcases how our research frameworks address critical cha
 
 ---
 
-### 📊 Business Development (BD) Intelligence
+### 📊 Business Development (BD) Intelligence for DeepWideSearch Tasks
 
 **Challenge:** BD tasks require both **breadth** (finding many qualified merchants across platforms) and **depth** (multi-hop extraction of contact details from official sites). ReAct-style baselines suffer from unclear planning, state confusion, and coverage gaps on the [DeepWideSearch](Marco-DeepResearch-Family/DeepWideSearch/) benchmark.
 
@@ -92,7 +93,7 @@ We first established the **HSCodeComp** benchmark and found that state-of-the-ar
 On 10-digit HS code accuracy, Marco Agent reaches **65.0%** Top-1, outperforming GPT-5–based agents (46.8%), Agentorchestra (41.3%), and Claude Sonnet 4 (11.9%). As shown below, tool-augmented decision-making substantially improves over general-purpose agents. Nevertheless, a large gap remains versus human experts (95.0%), indicating **significant room for further improvement**.
 
 <div align="center">
-  <img src="assets/HSCode_our_performance.png" alt="HSCode Benchmark Performance" width="85%">
+  <img src="assets/HSCode_our_performance.png" alt="HSCode Benchmark Performance" width="40%">
   <p><em><b>HSCodeComp benchmark (10-digit accuracy):</b> Marco Agent (65.0%) vs. baselines and human experts (95.0%).</em></p>
 </div>
 
