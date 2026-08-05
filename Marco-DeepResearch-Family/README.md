@@ -182,6 +182,40 @@ Build self-evolving agent memory systems that avoid the **"Rote Memorization" tr
 
 ---
 
+## 🧬 [Search2Skill](../Search2Skill/README.md)
+
+**Skill Distillation Beyond Knowledge Boundaries via Rubric-Based Reinforcement Learning**
+
+<div align="center">
+  <img src="Search2Skill/assets/s2s_teaser.png" alt="Search2Skill Teaser" width="70%">
+</div>
+
+### Challenge
+
+Prior self-evolving skill methods are **inward-looking**: they distill skills only from the agent's own parametric knowledge and past trajectories, so they are bounded by what the model already knows — missing domain conventions, standard procedures, and expert experience that lie beyond that boundary.
+
+### Key Innovation
+
+A **search-driven, self-evolving skill framework** that closes the loop of **capability-gap identification → external search → skill distillation**, jointly trained end-to-end with a **rubric-based RL** objective that separately rewards *when to search*, *how to search*, and *how to distill skills*.
+
+<div align="center">
+  <img src="Search2Skill/assets/s2s_framework.png" alt="Search2Skill Framework" width="90%">
+</div>
+
+### Key Results
+
+- ✅ **Streaming setting**: **+8.3%** (Qwen3-4B) / **+9.3%** (Qwen3-8B) over Direct Inference, outperforming RL-trained search agents and self-evolving memory baselines
+- ✅ **Held-out setting** (search disabled at test time): **+5.1% / +6.6%** over Direct Inference, showing intrinsic reusability of distilled skills rather than a live-search effect
+- ✅ **Abstraction beats caching**: reusing distilled skills yields **+4.5%** more than reusing raw retrieved evidence
+- ✅ **Cross-model transfer**: a skill library mined by an 8B collector improves both 4B and 14B executors
+- ✅ **Rubric-RL repairs the pipeline**: reduces the average failure share across five failure patterns from 25.3% to 11.9%
+
+### Resources
+
+- 📝 [Paper (Preview PDF)](../assets/Search2Skill-20260804-v1-arxiv.pdf) | 🔧 Code (Coming Soon) | 📘 [Documentation](Search2Skill/README.md)
+
+---
+
 ## 🔗 Related Resources
 
 ### Benchmarks & Datasets
@@ -192,6 +226,7 @@ Build self-evolving agent memory systems that avoid the **"Rote Memorization" tr
 | **DeepWideSearch** | [🤗 Dataset](https://huggingface.co/datasets/AIDC-AI/DeepWideSearch) | [📁 Data](DeepWideSearch/data/) | [📝 arXiv](https://arxiv.org/abs/2510.20168) |
 | **Table-as-Search** | — | [📁 Code](Table-as-Search/) | [📝 arXiv](https://arxiv.org/abs/2602.06724) |
 | **UMEM** | Coming Soon | [📁 Code](UMEM/) | Coming Soon |
+| **Search2Skill** | — | [📁 Code (Coming Soon)](Search2Skill/) | [📝 Preview PDF](../assets/Search2Skill-20260804-v1-arxiv.pdf) |
 
 ### Benchmark Adoption
 
@@ -279,5 +314,11 @@ If you find our work useful, please cite the relevant papers:
       archivePrefix={arXiv},
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2602.10652}, 
+}
+
+@misc{ye2026search2skill,
+      title={Search2Skill: Skill Distillation Beyond Knowledge Boundaries via Rubric-Based Reinforcement Learning},
+      author={Muyang Ye and Tian Lan and Feihu Jiang and Yongshi Ye and Wuyunsiqin and Bin Zhu and Qianghuai Jia and Zhao Xu and Weihua Luo and Ye Wang and Jinyang Zhang and Longyue Wang and Lingfeng Bao},
+      year={2026},
 }
 ```

@@ -15,7 +15,7 @@
 
 🍓 [_**Alibaba Group**_](https://www.qianwenai.com/) 🍓
 
-📝  [**Marco DeepResearch Technical Report**](https://arxiv.org/abs/2603.28376) | 📝  [**HSCodeComp Paper**](https://arxiv.org/abs/2510.19631) | 📝  [**DeepWideSearch Paper**](https://arxiv.org/abs/2510.20168) | 🤗  [**HSCodeComp Dataset**](https://huggingface.co/datasets/AIDC-AI/HSCodeComp) | 🤗  [**DeepWideSearch Dataset**](https://huggingface.co/datasets/AIDC-AI/DeepWideSearch) | 🤗  [**Marco-DeepResearch-8B Model**](https://huggingface.co/AIDC-AI/Marco-DeepResearch-8B)
+📝  [**Marco DeepResearch Technical Report**](https://arxiv.org/abs/2603.28376) | 📝  [**HSCodeComp Paper**](https://arxiv.org/abs/2510.19631) | 📝  [**DeepWideSearch Paper**](https://arxiv.org/abs/2510.20168) | 📝  [**Search2Skill Paper (Preview)**](assets/Search2Skill-20260804-v1-arxiv.pdf) | 🤗  [**HSCodeComp Dataset**](https://huggingface.co/datasets/AIDC-AI/HSCodeComp) | 🤗  [**DeepWideSearch Dataset**](https://huggingface.co/datasets/AIDC-AI/DeepWideSearch) | 🤗  [**Marco-DeepResearch-8B Model**](https://huggingface.co/AIDC-AI/Marco-DeepResearch-8B)
 
 [English](README.md) | [简体中文](README_zh.md)
 
@@ -39,6 +39,7 @@ We introduce a suite of benchmarks, frameworks and models that evaluate and adva
 - **🏆 DeepWideSearch**: Challenges deep-and-wide information seeking with **414 avg. information units** and **4.21 avg. reasoning depth**
 - **🏆 Table-as-Search**: Production-ready hierarchical multi-agent framework demonstrating the **"scissor gap effect"** on challenging benchmarks
 - **🏆 UMEM**: Self-evolving memory system that avoids the "rote memorization trap" through joint optimization of memory extraction and management
+- **🏆 Search2Skill**: Search-driven, self-evolving skill framework that distills reusable expert-domain skills from external search, gaining **+8.3%–9.3%** over direct inference via rubric-based RL
 
 These benchmarks and frameworks reveal and address fundamental gaps in current AI systems for:
 - Complex hierarchical decision-making in vertical domains (tariff, legal, medical, taxation)
@@ -50,6 +51,7 @@ These benchmarks and frameworks reveal and address fundamental gaps in current A
 
 ## 🔥 News & Updates
 
+* **[2026-08]** 🎉 Release **[Search2Skill](Marco-DeepResearch-Family/Search2Skill/README.md)** paper preview — a search-driven, self-evolving skill framework trained with rubric-based RL
 * **[2026-05]** 🎉 Release **[Marco-DeepResearch-8B Model](https://huggingface.co/AIDC-AI/Marco-DeepResearch-8B)** and **[Marco-DeepResearch Agent](https://github.com/AIDC-AI/Marco-DeepResearch/blob/main/Marco-DeepResearch-Family/Marco-Agent-DeepResearch/README.md)**
 * **[2026-05]** 🎉 **UMEM (Unified Memory Extraction and Management)** has been accepted by ICML 2026
 * **[2026-04]** 🎉 Table-as-Search has been accepted by ACL 2026 Findings
@@ -136,6 +138,7 @@ Besides, we also evaluate our UMEM on other reasoning benchmarks (below figure).
 | **DeepWideSearch** | [🤗 ATH-MaaS/DeepWideSearch](https://huggingface.co/datasets/AIDC-AI/DeepWideSearch) | [📁 DeepWideSearch/data](Marco-DeepResearch-Family/DeepWideSearch/data/) | [📝 arXiv](https://arxiv.org/abs/2510.20168) |
 | **Table-as-Search** | [🤗 Table-as-Search Paper](https://huggingface.co/papers/2602.06724) | [📁 Table-as-Search Codebase](Marco-DeepResearch-Family/Table-as-Search/) | [📝 arXiv](https://arxiv.org/abs/2602.06724) |
 | **UMEM** | [🤗 UMEM Paper](https://huggingface.co/papers/2602.06724) | [📁 UMEM Codebase](Marco-DeepResearch-Family/UMEM/) | [📝 arXiv](https://arxiv.org/abs/2602.10652) |
+| **Search2Skill** | — | [📁 Search2Skill](Marco-DeepResearch-Family/Search2Skill/) | [📝 Preview PDF](assets/Search2Skill-20260804-v1-arxiv.pdf) |
 
 ---
 
@@ -162,6 +165,9 @@ Marco-DeepResearch/
 │   ├── UMEM/                    # Self-evolving memory system
 │   │   ├── verl/                # Core source code
 │   │   ├── umem_scripts/        # Training and evaluation scripts
+│   │   └── README.md
+│   ├── Search2Skill/            # Search-driven self-evolving skill framework
+│   │   ├── assets/               # Figures and results
 │   │   └── README.md
 │   ├── README.md                # Family overview (English)
 │   └── README_zh.md             # Family overview (Chinese)
@@ -237,6 +243,7 @@ The Marco DeepResearch initiative encompasses multiple benchmarks and frameworks
 - **🌐 [DeepWideSearch](Marco-DeepResearch-Family/DeepWideSearch/README.md)**: Deep-and-wide agentic information seeking
 - **📊 [Table-as-Search](Marco-DeepResearch-Family/Table-as-Search/README.md)**: Production-ready hierarchical multi-agent framework
 - **🧠 [UMEM](Marco-DeepResearch-Family/UMEM/README.md)**: Unified memory extraction and management for self-evolving agents
+- **🧬 [Search2Skill](Marco-DeepResearch-Family/Search2Skill/README.md)**: Search-driven, self-evolving skill distillation via rubric-based RL
 - **📊 [Marco-Agent-DeepResearch](Marco-DeepResearch-Family/Marco-Agent-DeepResearch/README.md)**: An efficient 8B-scale deep research agent
 
 <div align="center">
@@ -318,6 +325,12 @@ If you find our work useful, please consider citing:
       archivePrefix={arXiv},
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2602.10652}, 
+}
+
+@misc{ye2026search2skill,
+      title={Search2Skill: Skill Distillation Beyond Knowledge Boundaries via Rubric-Based Reinforcement Learning},
+      author={Muyang Ye and Tian Lan and Feihu Jiang and Yongshi Ye and Wuyunsiqin and Bin Zhu and Qianghuai Jia and Zhao Xu and Weihua Luo and Ye Wang and Jinyang Zhang and Longyue Wang and Lingfeng Bao},
+      year={2026},
 }
 
 @misc{zhu2026marcodeepresearchunlockingefficient,

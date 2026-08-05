@@ -15,7 +15,7 @@
 
 🍓 [_**阿里巴巴集团**_](https://www.qianwenai.com/) 🍓
 
-📝  [**HSCodeComp 论文**](https://arxiv.org/abs/2510.19631) | 📝  [**DeepWideSearch 论文**](https://arxiv.org/abs/2510.20168) | 🤗  [**HSCodeComp 数据集**](https://huggingface.co/datasets/AIDC-AI/HSCodeComp) | 🤗  [**DeepWideSearch 数据集**](https://huggingface.co/datasets/AIDC-AI/DeepWideSearch)
+📝  [**HSCodeComp 论文**](https://arxiv.org/abs/2510.19631) | 📝  [**DeepWideSearch 论文**](https://arxiv.org/abs/2510.20168) | 📝  [**Search2Skill 论文（预印本）**](assets/Search2Skill-20260804-v1-arxiv.pdf) | 🤗  [**HSCodeComp 数据集**](https://huggingface.co/datasets/AIDC-AI/HSCodeComp) | 🤗  [**DeepWideSearch 数据集**](https://huggingface.co/datasets/AIDC-AI/DeepWideSearch)
 
 [English](README.md) | [简体中文](README_zh.md)
 
@@ -39,6 +39,7 @@
 - **🏆 DeepWideSearch**: 挑战深度与广度结合的信息检索，平均 **414 个信息单元**，**4.21 步推理深度**
 - **🏆 Table-as-Search**: 生产级层级多智能体框架，在挑战性基准上展示**"剪刀差效应"**
 - **🏆 UMEM**: 通过联合优化记忆提取和管理，避免"死记硬背陷阱"的自进化记忆系统
+- **🏆 Search2Skill**: 搜索驱动的自进化技能框架，通过基于 Rubric 的强化学习从外部搜索中蒸馏可复用的专家领域技能，相对直接推理提升 **+8.3%–9.3%**
 
 这些基准测试和框架揭示并解决了当前 AI 系统在以下方面的根本差距：
 - 垂直领域（关税、法律、医疗、税务）中的复杂层级决策
@@ -50,6 +51,7 @@
 
 ## 🔥 新闻与更新
 
+* **[2026-08]** 🎉 发布 **[Search2Skill](Marco-DeepResearch-Family/Search2Skill/README.md)** 论文预印本 — 一个基于 Rubric 强化学习训练的搜索驱动自进化技能框架
 * **[2026-02]** 🎉 发布 **UMEM（统一记忆提取与管理）** - 一个联合优化提取和管理以实现可泛化智能体记忆的自进化记忆框架。
 * **[2026-02]** 🎉 发布 **Table-as-Search（表格即搜索）** - 针对复杂 Agentic Search 任务的结构化规划策略。
 * **[2025-02]** 🏆 **DeepWideSearch**：
@@ -131,6 +133,7 @@
 | **DeepWideSearch** | [🤗 AIDC-AI/DeepWideSearch](https://huggingface.co/datasets/AIDC-AI/DeepWideSearch) | [📁 DeepWideSearch/data](Marco-DeepResearch-Family/DeepWideSearch/data/) | [📝 arXiv](https://arxiv.org/abs/2510.20168) |
 | **Table-as-Search** | [🤗 Table-as-Search Paper](https://huggingface.co/papers/2602.06724) | [📁 Table-as-Search Codebase](Marco-DeepResearch-Family/Table-as-Search/) | [📝 arXiv](https://arxiv.org/abs/2602.06724) |
 | **UMEM** | [🤗 UMEM Paper](https://huggingface.co/papers/2602.06724) | [📁 UMEM Codebase](Marco-DeepResearch-Family/UMEM/) | [📝 arXiv](https://arxiv.org/abs/2602.10652) |
+| **Search2Skill** | — | [📁 Search2Skill 代码](Marco-DeepResearch-Family/Search2Skill/) | [📝 预印本 PDF](assets/Search2Skill-20260804-v1-arxiv.pdf) |
 
 ---
 
@@ -157,6 +160,9 @@ Marco-DeepResearch/
 │   ├── UMEM/                    # 自进化记忆系统
 │   │   ├── verl/                # 核心源代码
 │   │   ├── umem_scripts/        # 训练和评估脚本
+│   │   └── README.md
+│   ├── Search2Skill/            # 搜索驱动的自进化技能框架
+│   │   ├── assets/               # 图表与实验结果
 │   │   └── README.md
 │   ├── README.md                # 系列概览（英文）
 │   └── README_zh.md             # 系列概览（中文）
@@ -232,6 +238,7 @@ Marco DeepResearch 计划涵盖多个基准测试和框架，解决真实世界�
 - **🌐 [DeepWideSearch](Marco-DeepResearch-Family/DeepWideSearch/README.md)**: 深度与广度结合的智能体信息检索
 - **📊 [Table-as-Search](Marco-DeepResearch-Family/Table-as-Search/README.md)**: 生产级层级多智能体框架
 - **🧠 [UMEM](Marco-DeepResearch-Family/UMEM/README.md)**: 面向自进化智能体的统一记忆提取与管理
+- **🧬 [Search2Skill](Marco-DeepResearch-Family/Search2Skill/README.md)**: 基于 Rubric 强化学习的搜索驱动自进化技能蒸馏
 
 <div align="center">
   <a href="Marco-DeepResearch-Family/README_zh.md">
@@ -312,5 +319,11 @@ Marco DeepResearch 计划涵盖多个基准测试和框架，解决真实世界�
       archivePrefix={arXiv},
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2602.10652}, 
+}
+
+@misc{ye2026search2skill,
+      title={Search2Skill: Skill Distillation Beyond Knowledge Boundaries via Rubric-Based Reinforcement Learning},
+      author={Muyang Ye and Tian Lan and Feihu Jiang and Yongshi Ye and Wuyunsiqin and Bin Zhu and Qianghuai Jia and Zhao Xu and Weihua Luo and Ye Wang and Jinyang Zhang and Longyue Wang and Lingfeng Bao},
+      year={2026},
 }
 ```

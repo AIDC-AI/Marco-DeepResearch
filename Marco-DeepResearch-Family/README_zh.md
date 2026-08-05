@@ -182,6 +182,40 @@
 
 ---
 
+## 🧬 [Search2Skill](../Search2Skill/README.md)
+
+**基于 Rubric 强化学习的超越知识边界的技能蒸馏**
+
+<div align="center">
+  <img src="Search2Skill/assets/s2s_teaser.png" alt="Search2Skill 概览" width="70%">
+</div>
+
+### 挑战
+
+以往的自进化技能方法都是**向内看**的：仅从智能体自身的参数化知识和历史轨迹中蒸馏技能，因此受限于模型已知的内容——而专业领域中真正重要的技能（领域惯例、标准流程、专家经验）往往恰好在这一边界之外。
+
+### 核心创新
+
+一种**搜索驱动的自进化技能框架**，闭环于**能力缺口识别 → 外部搜索 → 技能蒸馏**，并通过**基于 Rubric 的强化学习**目标端到端联合训练，分别对"何时搜索""如何搜索""如何蒸馏技能"三个决策给予独立奖励。
+
+<div align="center">
+  <img src="Search2Skill/assets/s2s_framework.png" alt="Search2Skill 框架" width="90%">
+</div>
+
+### 关键成果
+
+- ✅ **流式设置**：相对直接推理提升 **+8.3%**（Qwen3-4B）/ **+9.3%**（Qwen3-8B），优于 RL 训练的搜索智能体和自进化记忆基线
+- ✅ **留出集设置**（测试时禁用搜索）：相对直接推理仍提升 **+5.1% / +6.6%**，说明蒸馏技能具有内在可复用性，而非仅依赖实时搜索
+- ✅ **抽象优于缓存**：复用蒸馏后的技能比直接复用原始检索证据多带来 **+4.5%** 的提升
+- ✅ **跨模型迁移**：由 8B 采集模型蒸馏出的技能库能同时提升 4B 和 14B 执行模型的表现
+- ✅ **Rubric-RL 修复全流程**：将五类失败模式的平均失败占比从 25.3% 降至 11.9%
+
+### 资源
+
+- 📝 [论文（预印本 PDF）](../assets/Search2Skill-20260804-v1-arxiv.pdf) | 🔧 代码（即将发布）| 📘 [文档](Search2Skill/README.md)
+
+---
+
 ## 🔗 相关资源
 
 ### 基准测试与数据集
@@ -192,6 +226,7 @@
 | **DeepWideSearch** | [🤗 数据集](https://huggingface.co/datasets/AIDC-AI/DeepWideSearch) | [📁 数据](DeepWideSearch/data/) | [📝 arXiv](https://arxiv.org/abs/2510.20168) |
 | **Table-as-Search** | — | [📁 代码](Table-as-Search/) | [📝 arXiv](https://arxiv.org/abs/2602.06724) |
 | **UMEM** | 即将发布 | [📁 代码](UMEM/) | 即将发布 |
+| **Search2Skill** | — | [📁 代码（即将发布）](Search2Skill/) | [📝 预印本 PDF](../assets/Search2Skill-20260804-v1-arxiv.pdf) |
 
 ### 基准测试采用情况
 
@@ -279,5 +314,11 @@
       archivePrefix={arXiv},
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2602.10652}, 
+}
+
+@misc{ye2026search2skill,
+      title={Search2Skill: Skill Distillation Beyond Knowledge Boundaries via Rubric-Based Reinforcement Learning},
+      author={Muyang Ye and Tian Lan and Feihu Jiang and Yongshi Ye and Wuyunsiqin and Bin Zhu and Qianghuai Jia and Zhao Xu and Weihua Luo and Ye Wang and Jinyang Zhang and Longyue Wang and Lingfeng Bao},
+      year={2026},
 }
 ```
