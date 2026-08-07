@@ -327,10 +327,14 @@ If you find our work useful, please consider citing:
       url={https://arxiv.org/abs/2602.10652}, 
 }
 
-@misc{ye2026search2skill,
-      title={Search2Skill: Skill Distillation Beyond Knowledge Boundaries via Rubric-Based Reinforcement Learning},
+@misc{ye2026search2skillskilldistillationknowledge,
+      title={Search2Skill: Skill Distillation Beyond Knowledge Boundaries Via Rubric-Based Reinforcement Learning}, 
       author={Muyang Ye and Tian Lan and Feihu Jiang and Yongshi Ye and Wuyunsiqin and Bin Zhu and Qianghuai Jia and Zhao Xu and Weihua Luo and Ye Wang and Jinyang Zhang and Longyue Wang and Lingfeng Bao},
       year={2026},
+      eprint={2608.05245},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2608.05245}, 
 }
 
 @misc{zhu2026marcodeepresearchunlockingefficient,
