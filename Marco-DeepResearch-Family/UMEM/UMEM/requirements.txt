@@ -1,0 +1,23 @@
+# UMEM training dependencies. Install CUDA-compatible torch separately if needed.
+accelerate
+aiohttp
+codetiming
+datasets
+dill
+faiss-cpu
+flash-attn
+hydra-core
+liger-kernel
+numpy
+pandas
+peft
+pyarrow>=19.0.0
+pybind11
+pylatexenc
+ray[default]>=2.41.0
+tensordict<=0.6.2
+torchdata
+transformers
+vllm>=0.7.0,<=0.8.5
+wandb
+packaging>=20.0

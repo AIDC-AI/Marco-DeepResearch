@@ -51,6 +51,7 @@ These benchmarks and frameworks reveal and address fundamental gaps in current A
 
 ## 🔥 News & Updates
 
+* **[2026-08]** 🎉 Open-sourced the **[UMEM](Marco-DeepResearch-Family/UMEM/README.md)** training and inference codebase
 * **[2026-08]** 🎉 Release **[Search2Skill](Marco-DeepResearch-Family/Search2Skill/README.md)** paper preview — a search-driven, self-evolving skill framework trained with rubric-based RL
 * **[2026-05]** 🎉 Release **[Marco-DeepResearch-8B Model](https://huggingface.co/AIDC-AI/Marco-DeepResearch-8B)** and **[Marco-DeepResearch Agent](https://github.com/AIDC-AI/Marco-DeepResearch/blob/main/Marco-DeepResearch-Family/Marco-Agent-DeepResearch/README.md)**
 * **[2026-05]** 🎉 **UMEM (Unified Memory Extraction and Management)** has been accepted by ICML 2026

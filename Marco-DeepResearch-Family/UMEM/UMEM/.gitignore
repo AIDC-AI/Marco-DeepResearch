@@ -1,0 +1,32 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.env
+.venv/
+venv/
+ENV/
+
+# Local data, outputs, and checkpoints
+outputs/
+logs/
+wandb/
+*.log
+*.pt
+*.ckpt
+*.parquet
+!data/train.parquet
+!data/test.parquet
+*.tar.gz
+checkpoints/
+
+# Native extensions and editor files
+*.so
+.DS_Store
+.idea/
+.vscode/
+*.swp

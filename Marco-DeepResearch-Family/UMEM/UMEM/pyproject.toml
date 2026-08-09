@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "umem"
+dynamic = ["version", "dependencies", "optional-dependencies"]
+description = "UMEM: memory-augmented reinforcement learning for LLMs"
+license = {file = "LICENSE"}
+readme = {file = "README.md", content-type = "text/markdown"}
+requires-python = ">=3.10"
+
+[tool.ruff]
+line-length = 160
+
+[tool.ruff.lint]
+isort = {known-first-party = ["verl", "umem"]}
+select = ["E", "F", "UP", "B", "I", "G"]
+ignore = ["F405", "F403", "E731", "B007", "UP032", "UP007", "G004"]
+
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.dynamic]
+version = {file = "verl/version/version"}
+
+[tool.setuptools.package-dir]
+"" = "."
+
+[tool.setuptools.package-data]
+verl = ["version/*", "trainer/config/*.yaml"]

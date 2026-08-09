@@ -51,6 +51,7 @@
 
 ## 🔥 新闻与更新
 
+* **[2026-08]** 🎉 开源 **[UMEM](Marco-DeepResearch-Family/UMEM/README.md)** 训练与推理代码
 * **[2026-08]** 🎉 发布 **[Search2Skill](Marco-DeepResearch-Family/Search2Skill/README.md)** 论文预印本 — 一个基于 Rubric 强化学习训练的搜索驱动自进化技能框架
 * **[2026-02]** 🎉 发布 **UMEM（统一记忆提取与管理）** - 一个联合优化提取和管理以实现可泛化智能体记忆的自进化记忆框架。
 * **[2026-02]** 🎉 发布 **Table-as-Search（表格即搜索）** - 针对复杂 Agentic Search 任务的结构化规划策略。
