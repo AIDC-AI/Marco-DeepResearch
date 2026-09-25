@@ -11,6 +11,12 @@ export MODEL_NAME="your-model-name"
 # 搜索工具（Google via Serper）
 export GOOGLE_SEARCH_KEY="your-serper-api-key"
 
+# 可选: 使用 You.com 搜索替代 Serper（keyless 或设置 YOUCOM_API_KEY）
+# - 无 API Key: 使用免费 keyless 模式（https://api.you.com/mcp?profile=free）
+# - 有 API Key: export YOUCOM_API_KEY="your-youcom-api-key"
+# - 切换: 在 configs/default.yaml 中将 tools.enabled 改为 [you_search, visit]
+# export YOUCOM_API_KEY=""
+
 # 网页访问工具（requests 失败时 fallback 到 Jina Reader）
 export JINA_API_KEY="your-jina-api-key"
 

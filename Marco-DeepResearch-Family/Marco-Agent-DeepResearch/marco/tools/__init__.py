@@ -3,6 +3,7 @@ from .base import BaseTool, ToolManager, register_tool, get_tool
 
 from .search import SearchTool
 from .visit import VisitTool
+from .you_search import YouSearchTool
 
 
 __all__ = [
@@ -12,4 +13,5 @@ __all__ = [
     "get_tool",
     "SearchTool",
     "VisitTool",
+    "YouSearchTool",
 ]
