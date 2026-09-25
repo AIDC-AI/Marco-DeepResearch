@@ -57,6 +57,11 @@ tools:
     max_retries: 5
     max_workers: 10
     max_results_per_query: 10
+  # You.com Search: keyless or authenticated (env: YOUCOM_API_KEY)
+  # Add 'you_search' to tools.enabled and remove 'search' to use You.com instead.
+  you_search:
+    timeout: 20
+    max_retries: 5
   # Visit: requests + Jina fallback, summary via OpenAI-compatible API
   # env: JINA_API_KEY, SUMMARY_MODEL_OPENAI_API_KEY, SUMMARY_MODEL_OPENAI_BASE_URL, SUMMARY_MODEL_NAME
   visit:
